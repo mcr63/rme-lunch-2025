@@ -1,7 +1,6 @@
-# Add to your nginx server block:
 types {
     text/calendar  ics;
 }
-location = /RockyMountainElementary_Lunch_Sep-Dec_2025.ics {
+location = /RME-Lunch.ics {
     add_header Cache-Control "public, max-age=3600";
 }

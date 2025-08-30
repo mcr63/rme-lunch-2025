@@ -1,6 +1,5 @@
-# Ensure correct MIME type for the ICS file on Netlify
 [[headers]]
-  for = "/RockyMountainElementary_Lunch_Sep-Dec_2025.ics"
+  for = "/RME-Lunch.ics"
   [headers.values]
     Content-Type = "text/calendar; charset=utf-8"
     Cache-Control = "public, max-age=3600"
