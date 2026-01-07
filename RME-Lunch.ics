@@ -607,4 +607,130 @@ SUMMARY:Lunch — Cheese Pizza Dippers; Pepperoni Pizza Dippers; Turkey & C
  heese Snack Pack; Grape Uncrustables
 DESCRIPTION:See LINQ Connect for sides, fruit, milk, and condiments.
 END:VEVENT
+BEGIN:VEVENT
+UID:20260106-rocky-lunch@linq
+DTSTAMP:20260107T140757Z
+DTSTART;VALUE=DATE:20260106
+SUMMARY:Lunch — Hamburger on a Bun; Sweet & Sour Chicken Recipe
+DESCRIPTION:Side: Rice; Vegetable: Bagged Baby Carrots, Steamed Broccoli; Fruit: Mandarin Oranges, Banana; Milk: 1% White Milk, Fat Free Chocolate Milk; Dessert: Scooby Snacks; Condiments: Ranch Cups, Cheese American Sliced, Mayo, Ketchup Packet, Mustard Packet, Pickle Dill Chips, Lettuce (Shredded), Fry Sauce; Other: Bun Hamburger GF
+END:VEVENT
+BEGIN:VEVENT
+UID:20260107-rocky-lunch@linq
+DTSTAMP:20260107T140757Z
+DTSTART;VALUE=DATE:20260107
+SUMMARY:Lunch — Chicken Corn Dog; Scrambled Eggs
+DESCRIPTION:Side: Muffin Choc Chip WG IW, Muffin Blueberry WG IW; Vegetable: Side Salad, Green Beans; Fruit: Oranges, Pineapple Tidbits; Milk: 1% White Milk, Fat Free Chocolate Milk; Condiments: Ketchup Packet, Mustard Packet, Fry Sauce
+END:VEVENT
+BEGIN:VEVENT
+UID:20260108-rocky-lunch@linq
+DTSTAMP:20260107T140757Z
+DTSTART;VALUE=DATE:20260108
+SUMMARY:Lunch — Taco Soup; Hot Dog on a Bun
+DESCRIPTION:Side: Baked Scoops Chips, Harvest Cheddar Sunchips, Doritos Cool Ranch Chips; Vegetable: Colorful Carrots, Fresh Vegetable Bags (cel/tom/car); Fruit: Apples Sliced Bags, Peaches Sliced; Milk: 1% White Milk, Fat Free Chocolate Milk; Condiments: Shredded Cheddar Cheese, Sour Cream, Ketchup Packet, Mustard Packet, Ranch Cups
+END:VEVENT
+BEGIN:VEVENT
+UID:20260109-rocky-lunch@linq
+DTSTAMP:20260107T140757Z
+DTSTART;VALUE=DATE:20260109
+SUMMARY:Lunch — Mozzarella Breadsticks; Uncrustables Strawberry; Turkey Ham & Cheese AnyTimers
+DESCRIPTION:Side: Goldfish Crackers, Cheese Marble Stick; Vegetable: Side Salad, Baked Beans, Marinara Sauce; Fruit: Cantaloupe, Cinnamon Applesauce; Milk: 1% White Milk, Fat Free Chocolate Milk, Strawberry Milk Fat Free; Condiments: Ranch Cups
+END:VEVENT
+BEGIN:VEVENT
+UID:20260112-rocky-lunch@linq
+DTSTAMP:20260107T140757Z
+DTSTART;VALUE=DATE:20260112
+SUMMARY:Lunch — Teriyaki Chicken Recipe; Hamburger on a Bun; Field Trip AnyTimer
+DESCRIPTION:Side: Rice; Vegetable: Bagged Baby Carrots, Steamed Broccoli; Fruit: Banana, Peaches Sliced; Milk: 1% White Milk, Fat Free Chocolate Milk; Condiments: Ranch Cups, Cheese American Sliced, Mayo, Ketchup Packet, Mustard Packet, Pickle Dill Chips, Lettuce (Shredded), Fry Sauce; Other: Bun Hamburger GF
+END:VEVENT
+BEGIN:VEVENT
+UID:20260113-rocky-lunch@linq
+DTSTAMP:20260107T140757Z
+DTSTART;VALUE=DATE:20260113
+SUMMARY:Lunch — Macaroni & Cheese (non-WG); Spicy Chicken Sandwich; Crispy Chicken Sandwich
+DESCRIPTION:Side: Garlic Breadstick; Vegetable: Corn, Side Salad; Fruit: Strawberry Dessert, Oranges; Milk: 1% White Milk, Fat Free Chocolate Milk; Condiments: Lettuce (Shredded), Pickle Dill Chips, Mayo, Ketchup Packet, Mustard Packet, Sauce BBQ Cup
+END:VEVENT
+BEGIN:VEVENT
+UID:20260114-rocky-lunch@linq
+DTSTAMP:20260107T140757Z
+DTSTART;VALUE=DATE:20260114
+SUMMARY:Lunch — Mini Calzones; Mini Corndogs
+DESCRIPTION:Vegetable: Marinara Sauce, Fresh Veggie Bag (Cuc/Tom/Car), Baked Beans; Fruit: Pineapple Tidbits, Grapes; Milk: 1% White Milk, Fat Free Chocolate Milk; Dessert: Banana Creamie, Chocolate Creamie; Condiments: Ketchup Packet, Mustard Packet, Fry Sauce
+END:VEVENT
+BEGIN:VEVENT
+UID:20260115-rocky-lunch@linq
+DTSTAMP:20260107T140757Z
+DTSTART;VALUE=DATE:20260115
+SUMMARY:Lunch — Chicken Drumstick; Hot Dog on a Bun
+DESCRIPTION:Side: Homemade Roll, LS GF Chicken Gravy Mix, Doritos Cool Ranch Chips; Vegetable: Mashed Potatoes, Green Beans, Fresh Veggie Bag (Cuc/Tom/Car); Fruit: Apples Sliced Bags, Pears Sliced; Milk: 1% White Milk, Fat Free Chocolate Milk; Condiments: Jelly Packets, Mayo, Mustard Packet, Ketchup Packet, Ranch Cups
+END:VEVENT
+BEGIN:VEVENT
+UID:20260116-rocky-lunch@linq
+DTSTAMP:20260107T140757Z
+DTSTART;VALUE=DATE:20260116
+SUMMARY:Lunch — Big Daddy's Cheese Pizza; Big Daddy's Pepperoni Pizza; Uncrustables Strawberry; Turkey Ham & Cheese AnyTimers
+DESCRIPTION:Side: String Cheese, Popcorn Sweet & Salty; Vegetable: Bagged Baby Carrots, Side Salad; Fruit: Plum, Mandarin Oranges; Milk: 1% White Milk, Fat Free Chocolate Milk; Condiments: Ranch Cups
+END:VEVENT
+BEGIN:VEVENT
+UID:20260120-rocky-lunch@linq
+DTSTAMP:20260107T140757Z
+DTSTART;VALUE=DATE:20260120
+SUMMARY:Lunch — French Toast Sticks; Hamburger on a Bun
+DESCRIPTION:Side: Egg Omelet w/ Cheese; Vegetable: Potato Smiles, Bagged Baby Carrots; Fruit: Banana, Peaches Sliced; Milk: 1% White Milk, Fat Free Chocolate Milk; Condiments: Ranch Cups, Syrup, Cheese American Sliced, Ketchup Packet, Mayo, Mustard Packet, Lettuce (Shredded), Pickle Dill Chips, Fry Sauce
+END:VEVENT
+BEGIN:VEVENT
+UID:20260121-rocky-lunch@linq
+DTSTAMP:20260107T140757Z
+DTSTART;VALUE=DATE:20260121
+SUMMARY:Lunch — Chicken Nuggets; Chicken Corn Dog
+DESCRIPTION:Side: Original Sunchips, Doritos Nacho Cheese Chips; Vegetable: Baked Beans, Colorful Carrots; Fruit: Fresh Fruit Assortment, Canned Fruit; Milk: 1% White Milk, Strawberry Milk Fat Free; Dessert: Chocolate Chip Cookies; Condiments: Ketchup Packet, Sauce BBQ Cup, Sauce Sweet & Sour
+END:VEVENT
+BEGIN:VEVENT
+UID:20260122-rocky-lunch@linq
+DTSTAMP:20260107T140757Z
+DTSTART;VALUE=DATE:20260122
+SUMMARY:Lunch — Chicken Noodle Soup (Elementary); Mozzarella Breadsticks; Ham and Cheese Melt
+DESCRIPTION:Vegetable: Corn, Fresh Vegetable Bags (cel/tom/car); Fruit: Fresh Fruit Assortment, Canned Fruit; Milk: 1% White Milk, Fat Free Chocolate Milk; Condiments: Ranch Cups
+END:VEVENT
+BEGIN:VEVENT
+UID:20260123-rocky-lunch@linq
+DTSTAMP:20260107T140757Z
+DTSTART;VALUE=DATE:20260123
+SUMMARY:Lunch — Cheese Pizza Dippers; Pepperoni Pizza Dippers; Turkey & Cheese Snack Pack; Grape Uncrustables
+DESCRIPTION:Side: Yogurt Assortment, Goldfish Crackers; Vegetable: Bagged Baby Carrots, Side Salad, Marinara Sauce; Fruit: Fresh Fruit Assortment, Canned Fruit; Milk: 1% White Milk, Fat Free Chocolate Milk; Condiments: Ranch Cups
+END:VEVENT
+BEGIN:VEVENT
+UID:20260126-rocky-lunch@linq
+DTSTAMP:20260107T140757Z
+DTSTART;VALUE=DATE:20260126
+SUMMARY:Lunch — Orange Chicken; Hamburger on a Bun
+DESCRIPTION:Side: Rice; Vegetable: Broccoli Normandy, Bagged Baby Carrots; Fruit: Fresh Fruit Assortment, Canned Fruit; Milk: 1% White Milk, Fat Free Chocolate Milk; Condiments: Ranch Cups, Hamburger Condiments, Cheese American Sliced
+END:VEVENT
+BEGIN:VEVENT
+UID:20260127-rocky-lunch@linq
+DTSTAMP:20260107T140757Z
+DTSTART;VALUE=DATE:20260127
+SUMMARY:Lunch — Sloppy Joe on a Bun; Crispy Chicken Sandwich; Spicy Chicken Sandwich
+DESCRIPTION:Vegetable: Steamed Peas, Tater Tot Ore Ida; Fruit: Fresh Fruit Assortment, Strawberry Applesauce; Milk: 1% White Milk, Fat Free Chocolate Milk; Condiments: Ranch Cups, Chicken Sandwich Condiments
+END:VEVENT
+BEGIN:VEVENT
+UID:20260128-rocky-lunch@linq
+DTSTAMP:20260107T140757Z
+DTSTART;VALUE=DATE:20260128
+SUMMARY:Lunch — Mini Calzones; Mini Corndogs
+DESCRIPTION:Vegetable: Vegetable Bag (Broc/Cuc/Cel), Green Beans, Marinara Sauce; Fruit: Fresh Fruit Assortment, Canned Fruit; Milk: 1% White Milk, Fat Free Chocolate Milk; Dessert: Pudding Cups Chocolate
+END:VEVENT
+BEGIN:VEVENT
+UID:20260129-rocky-lunch@linq
+DTSTAMP:20260107T140757Z
+DTSTART;VALUE=DATE:20260129
+SUMMARY:Lunch — Alpine Chicken Bowl (Elementary); Hot Dog on a Bun
+DESCRIPTION:Side: Homemade Roll; Chip Variety - May go with only one entree choice; Vegetable: Corn, Bagged Baby Carrots; Fruit: Fresh Fruit Assortment, Canned Fruit; Milk: 1% White Milk, Fat Free Chocolate Milk; Condiments: Shredded Cheddar Cheese, Ranch Cups, Butter
+END:VEVENT
+BEGIN:VEVENT
+UID:20260130-rocky-lunch@linq
+DTSTAMP:20260107T140757Z
+DTSTART;VALUE=DATE:20260130
+SUMMARY:Lunch — Big Daddy's Cheese Pizza; Big Daddy's Pepperoni Pizza; Turkey Ham & Cheese AnyTimers; Uncrustables Honey
+DESCRIPTION:Side: Muffin Choc Chip WG IW, Cheese Marble Stick; Vegetable: Baked Beans, Side Salad; Fruit: Fresh Fruit Assortment, Canned Fruit; Milk: 1% White Milk, Fat Free Chocolate Milk; Condiments: Ranch Cups
+END:VEVENT
 END:VCALENDAR
