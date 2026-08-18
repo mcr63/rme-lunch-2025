@@ -2,8 +2,10 @@
 
 Pulls a rolling window of menu data (past week through 4 weeks out) and
 writes lunch-menu.ics with one all-day event per school day listing the
-Main Entree options. Designed to run daily from GitHub Actions or cron;
-output is deterministic so git only sees a diff when the menu changes.
+Main Entree options in the summary and the sides, vegetables, fruit, milk,
+and condiments in the description. Designed to run daily from GitHub
+Actions or cron; output is deterministic so git only sees a diff when the
+menu changes.
 
 Environment variables (all optional, defaults are Alpine SD):
     LINQ_IDENTIFIER   district code            default TFCNC9
@@ -28,6 +30,10 @@ DISTRICT_ID = os.environ.get("LINQ_DISTRICT_ID", "a83d5cd9-a7a8-ed11-8e69-da0395
 BUILDING_ID = os.environ.get("LINQ_BUILDING_ID", "da12ddae-57ad-ed11-8e6a-9bfa3b2b51d1")
 ICS_PATH = os.environ.get("ICS_PATH", "RME-Lunch.ics")
 CAL_NAME = os.environ.get("CAL_NAME", "Rocky Mountain Lunch (RME)")
+
+# Non-entree categories, in the order they read best in the description.
+# Anything the API returns outside this list still shows up, after these.
+SIDE_ORDER = ["Side", "Vegetable", "Fruit", "Milk", "Condiments"]
 
 HEADERS = {
     "Accept": "application/json, text/plain, */*",
@@ -60,9 +66,9 @@ def fetch_menu(start: date, end: date) -> dict:
     return resp.json()
 
 
-def extract_lunch_entrees(menu: dict) -> dict[date, list[str]]:
-    """{date: [entree names]} for the Lunch session, Main Entree category."""
-    out: dict[date, list[str]] = {}
+def extract_lunch_menu(menu: dict) -> dict[date, dict[str, list[str]]]:
+    """{date: {category name: [recipe names]}} for the Lunch session."""
+    out: dict[date, dict[str, list[str]]] = {}
     for sess in menu.get("FamilyMenuSessions", []):
         if sess.get("ServingSession", "").strip().lower() != "lunch":
             continue
@@ -72,21 +78,46 @@ def extract_lunch_entrees(menu: dict) -> dict[date, list[str]]:
                     d = datetime.strptime(day["Date"], "%m/%d/%Y").date()
                 except (KeyError, ValueError):
                     continue
-                names: list[str] = []
+                cats = out.setdefault(d, {})
                 for meal in day.get("MenuMeals", []):
                     for cat in meal.get("RecipeCategories", []):
-                        if "entree" not in cat.get("CategoryName", "").lower():
+                        label = (cat.get("CategoryName") or "").strip()
+                        if not label:
                             continue
+                        names = cats.setdefault(label, [])
                         for r in cat.get("Recipes", []):
                             name = (r.get("RecipeName") or "").strip()
                             if name and name not in names:
                                 names.append(name)
-                if names:
-                    out.setdefault(d, [])
-                    for n in names:
-                        if n not in out[d]:
-                            out[d].append(n)
+                if not cats:
+                    del out[d]
     return out
+
+
+def split_categories(cats: dict[str, list[str]]) -> tuple[list[str], list[tuple[str, list[str]]]]:
+    """Separate entrees (summary) from everything else (description)."""
+    entrees: list[str] = []
+    sides: list[tuple[str, list[str]]] = []
+    for label, names in cats.items():
+        if not names:
+            continue
+        if "entree" in label.lower():
+            for n in names:
+                if n not in entrees:
+                    entrees.append(n)
+        else:
+            sides.append((label, names))
+    # Known categories first in SIDE_ORDER, unknown ones after, alphabetically,
+    # so the description stays stable run to run.
+    def sort_key(item: tuple[str, list[str]]) -> tuple[int, str]:
+        label = item[0]
+        for i, known in enumerate(SIDE_ORDER):
+            if label.lower() == known.lower():
+                return (i, "")
+        return (len(SIDE_ORDER), label.lower())
+
+    sides.sort(key=sort_key)
+    return entrees, sides
 
 
 def ics_escape(text: str) -> str:
@@ -104,8 +135,11 @@ def fold(line: str) -> str:
     if len(encoded) <= 75:
         return line
     parts = []
+    # First line gets the full 75; continuations are prefixed with a space
+    # that counts against the limit, so they only get 74.
+    limit = 75
     while encoded:
-        chunk = encoded[:75]
+        chunk = encoded[:limit]
         # don't split mid multi-byte char
         while True:
             try:
@@ -114,10 +148,11 @@ def fold(line: str) -> str:
             except UnicodeDecodeError:
                 chunk = chunk[:-1]
         encoded = encoded[len(chunk):]
+        limit = 74
     return "\r\n ".join(parts)
 
 
-def build_ics(entrees_by_day: dict[date, list[str]]) -> str:
+def build_ics(menu_by_day: dict[date, dict[str, list[str]]]) -> str:
     lines = [
         "BEGIN:VCALENDAR",
         "VERSION:2.0",
@@ -127,10 +162,15 @@ def build_ics(entrees_by_day: dict[date, list[str]]) -> str:
         f"X-WR-CALNAME:{ics_escape(CAL_NAME)}",
         "X-WR-TIMEZONE:America/Denver",
     ]
-    for d in sorted(entrees_by_day):
-        names = entrees_by_day[d]
-        summary = "| ".join(names)
-        description = "See LINQ Connect for sides, fruit, milk, and condiments."
+    for d in sorted(menu_by_day):
+        entrees, sides = split_categories(menu_by_day[d])
+        if not entrees:
+            continue
+        summary = "| ".join(entrees)
+        if sides:
+            description = "\n".join(f"{label}: {', '.join(names)}" for label, names in sides)
+        else:
+            description = "See LINQ Connect for sides, fruit, milk, and condiments."
         dtstart = d.strftime("%Y%m%d")
         dtend = (d + timedelta(days=1)).strftime("%Y%m%d")
         lines += [
@@ -157,7 +197,7 @@ def main() -> int:
     end = today + timedelta(days=35)
 
     # Fetch in one-week chunks; matches app behavior and keeps payloads sane.
-    entrees: dict[date, list[str]] = {}
+    menu_by_day: dict[date, dict[str, list[str]]] = {}
     chunk_start = start
     while chunk_start <= end:
         chunk_end = min(chunk_start + timedelta(days=6), end)
@@ -167,14 +207,14 @@ def main() -> int:
             print(f"WARN: fetch {chunk_start}..{chunk_end} failed: {exc}", file=sys.stderr)
             chunk_start = chunk_end + timedelta(days=1)
             continue
-        entrees.update(extract_lunch_entrees(menu))
+        menu_by_day.update(extract_lunch_menu(menu))
         chunk_start = chunk_end + timedelta(days=1)
 
-    if not entrees:
+    if not menu_by_day:
         print("ERROR: no lunch entrees found in window; leaving ICS untouched", file=sys.stderr)
         return 1
 
-    ics = build_ics(entrees)
+    ics = build_ics(menu_by_day)
     old = ""
     if os.path.exists(ICS_PATH):
         with open(ICS_PATH, "r", encoding="utf-8", newline="") as f:
@@ -184,7 +224,9 @@ def main() -> int:
         return 0
     with open(ICS_PATH, "w", encoding="utf-8", newline="") as f:
         f.write(ics)
-    print(f"Wrote {ICS_PATH}: {len(entrees)} days, {sum(len(v) for v in entrees.values())} entrees.")
+    days = sum(1 for cats in menu_by_day.values() if split_categories(cats)[0])
+    entree_count = sum(len(split_categories(cats)[0]) for cats in menu_by_day.values())
+    print(f"Wrote {ICS_PATH}: {days} days, {entree_count} entrees.")
     return 0
 
 
