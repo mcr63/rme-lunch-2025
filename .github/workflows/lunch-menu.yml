@@ -1,0 +1,45 @@
+# .github/workflows/lunch-menu.yml
+name: Update lunch menu calendar
+
+on:
+  schedule:
+    # 12:15 UTC = 6:15 AM Mountain (daylight). Cron is UTC year-round,
+    # so this drifts to 5:15 AM in winter, which is fine for a menu.
+    - cron: "15 12 * * 1-5"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - run: pip install requests
+
+      - name: Fetch menu and rebuild ICS
+        run: python scripts/update_lunch_menu.py
+        env:
+          ICS_PATH: RME-Lunch.ics
+          CAL_NAME: Rocky Mountain Lunch (RME)
+          # Override these to point at a different school:
+          # LINQ_DISTRICT_ID: ...
+          # LINQ_BUILDING_ID: ...
+
+      - name: Commit if changed
+        run: |
+          if git diff --quiet -- RME-Lunch.ics; then
+            echo "No changes."
+            exit 0
+          fi
+          git config user.name "lunch-menu-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add RME-Lunch.ics
+          git commit -m "Update RME lunch menu $(date -u +%F)"
+          git push
