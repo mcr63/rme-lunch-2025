@@ -1,1237 +1,226 @@
 BEGIN:VCALENDAR
-PRODID:-//Matt//Rocky Mountain Lunch//EN
 VERSION:2.0
+PRODID:-//Matt//Rocky Mountain Lunch//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Rocky Mountain Lunch (RME)
 X-WR-TIMEZONE:America/Denver
 BEGIN:VEVENT
-UID:20250902-rme-lunch@linq
-DTSTAMP:20250830T120000Z
-DTSTART;VALUE=DATE:20250902
-DTEND;VALUE=DATE:20250903
-SUMMARY:Confetti Mini Pancakes| Hamburger on a Bun
-DESCRIPTION:See LINQ Connect for sides, fruit, milk, and condiments.
-END:VEVENT
-BEGIN:VEVENT
-UID:20250903-rme-lunch@linq
-DTSTAMP:20250830T120000Z
-DTSTART;VALUE=DATE:20250903
-DTEND;VALUE=DATE:20250904
-SUMMARY:Rib Sandwich| Chicken Corn Dog
-DESCRIPTION:See LINQ Connect for sides, fruit, milk, and condiments.
-END:VEVENT
-BEGIN:VEVENT
-UID:20250904-rme-lunch@linq
-DTSTAMP:20250830T120000Z
-DTSTART;VALUE=DATE:20250904
-DTEND;VALUE=DATE:20250905
-SUMMARY:Ham & Cheese Melt | Turkey Roast Sliced
-DESCRIPTION:See LINQ Connect for sides, fruit, milk, and condiments.
-END:VEVENT
-BEGIN:VEVENT
-UID:20250905-rme-lunch@linq
-DTSTAMP:20250830T120000Z
-DTSTART;VALUE=DATE:20250905
-DTEND;VALUE=DATE:20250906
-SUMMARY:Cheese Pizza Dippers | Pepperoni Pizza Dippers | Uncrustables (Grape) | Turkey Ham & Cheese Any’timers
-DESCRIPTION:See LINQ Connect for sides, fruit, milk, and condiments.
-END:VEVENT
-BEGIN:VEVENT
-UID:20250908-rme-lunch@linq
-DTSTAMP:20250830T120000Z
-DTSTART;VALUE=DATE:20250908
-DTEND;VALUE=DATE:20250909
-SUMMARY:Sweet and Sour Chicken | Hamburger on a Bun
-DESCRIPTION:See LINQ Connect for sides, fruit, milk, and condiments.
-END:VEVENT
-BEGIN:VEVENT
-UID:20250909-rme-lunch@linq
-DTSTAMP:20250830T120000Z
-DTSTART;VALUE=DATE:20250909
-DTEND;VALUE=DATE:20250910
-SUMMARY:Spaghetti Meat Sauce | Spicy Chicken Sandwich | Crispy Chicken Sandwich
-DESCRIPTION:See LINQ Connect for sides, fruit, milk, and condiments.
-END:VEVENT
-BEGIN:VEVENT
-UID:20250910-rme-lunch@linq
-DTSTAMP:20250830T120000Z
-DTSTART;VALUE=DATE:20250910
-DTEND;VALUE=DATE:20250911
-SUMMARY:Chicken Corn Dog | Scrambled Eggs
-DESCRIPTION:See LINQ Connect for sides, fruit, milk, and condiments.
-END:VEVENT
-BEGIN:VEVENT
-UID:20250911-rme-lunch@linq
-DTSTAMP:20250830T120000Z
-DTSTART;VALUE=DATE:20250911
-DTEND;VALUE=DATE:20250912
-SUMMARY:Taco Soup | Hot Dog on a Bun
-DESCRIPTION:See LINQ Connect for sides, fruit, milk, and condiments.
-END:VEVENT
-BEGIN:VEVENT
-UID:20250912-rme-lunch@linq
-DTSTAMP:20250830T120000Z
-DTSTART;VALUE=DATE:20250912
-DTEND;VALUE=DATE:20250913
-SUMMARY:Mozzarella Breadsticks | Turkey Ham & Cheese Any’timers
-DESCRIPTION:See LINQ Connect for sides, fruit, milk, and condiments.
-END:VEVENT
-BEGIN:VEVENT
-UID:20250915-rme-lunch@linq
-DTSTAMP:20250830T120000Z
-DTSTART;VALUE=DATE:20250915
-DTEND;VALUE=DATE:20250916
-SUMMARY:Teriyaki Chicken | Hamburger on a Bun
-DESCRIPTION:See LINQ Connect for sides, fruit, milk, and condiments.
-END:VEVENT
-BEGIN:VEVENT
-UID:20250916-rme-lunch@linq
-DTSTAMP:20250830T120000Z
-DTSTART;VALUE=DATE:20250916
-DTEND;VALUE=DATE:20250917
-SUMMARY:Macaroni & Cheese (non‑WG) | Spicy Chicken Sandwich | Crisp
- y Chicken Sandwich
-DESCRIPTION:See LINQ Connect for sides, fruit, milk, and condiments.
-END:VEVENT
-BEGIN:VEVENT
-UID:20250917-rme-lunch@linq
-DTSTAMP:20250830T120000Z
-DTSTART;VALUE=DATE:20250917
-DTEND;VALUE=DATE:20250918
-SUMMARY:Mini Calzones | Mini Corndogs
-DESCRIPTION:See LINQ Connect for sides, fruit, milk, and condiments.
-END:VEVENT
-BEGIN:VEVENT
-UID:20250918-rme-lunch@linq
-DTSTAMP:20250830T120000Z
-DTSTART;VALUE=DATE:20250918
-DTEND;VALUE=DATE:20250919
-SUMMARY:Chicken Drumstick | Hot Dog on a Bun
-DESCRIPTION:See LINQ Connect for sides, fruit, milk, and condiments.
-END:VEVENT
-BEGIN:VEVENT
-UID:20250919-rme-lunch@linq
-DTSTAMP:20250830T120000Z
-DTSTART;VALUE=DATE:20250919
-DTEND;VALUE=DATE:20250920
-SUMMARY:Big Daddy’s Cheese Pizza | Big Daddy’s Pepperoni Pizza | Uncrustables Strawberry; Turkey Ham & Cheese Any’timers
-DESCRIPTION:See LINQ Connect for sides, fruit, milk, and condiments.
-END:VEVENT
-BEGIN:VEVENT
-UID:20250922-rme-lunch@linq
-DTSTAMP:20250830T120000Z
-DTSTART;VALUE=DATE:20250922
-DTEND;VALUE=DATE:20250923
-SUMMARY:French Toast Sticks | Hamburger on a Bun
-DESCRIPTION:See LINQ Connect for sides, fruit, milk, and condiments.
-END:VEVENT
-BEGIN:VEVENT
-UID:20250923-rme-lunch@linq
-DTSTAMP:20250830T120000Z
-DTSTART;VALUE=DATE:20250923
-DTEND;VALUE=DATE:20250924
-SUMMARY:Beef Soft Tacos | Spicy Chicken Sandwich | Crispy Chicken Sandwich
-DESCRIPTION:See LINQ Connect for sides, fruit, milk, and condiments.
-END:VEVENT
-BEGIN:VEVENT
-UID:20250924-rme-lunch@linq
-DTSTAMP:20250830T120000Z
-DTSTART;VALUE=DATE:20250924
-DTEND;VALUE=DATE:20250925
-SUMMARY:Chicken Nuggets | Chicken Corn Dog
-DESCRIPTION:See LINQ Connect for sides, fruit, milk, and condiments.
-END:VEVENT
-BEGIN:VEVENT
-UID:20250925-rme-lunch@linq
-DTSTAMP:20250830T120000Z
-DTSTART;VALUE=DATE:20250925
-DTEND;VALUE=DATE:20250926
-SUMMARY:Chicken Noodle Soup (Elem) | Mozzarella Breadsticks | Ham a
- nd Cheese Melt
-DESCRIPTION:See LINQ Connect for sides, fruit, milk, and condiments.
-END:VEVENT
-BEGIN:VEVENT
-UID:20250926-rme-lunch@linq
-DTSTAMP:20250830T120000Z
-DTSTART;VALUE=DATE:20250926
-DTEND;VALUE=DATE:20250927
-SUMMARY:Cheese Pizza Dippers | Pepperoni Pizza Dippers | Turkey & C
- heese Snack Pack; Grape Uncrustables
-DESCRIPTION:See LINQ Connect for sides, fruit, milk, and condiments.
-END:VEVENT
-BEGIN:VEVENT
-UID:20250930-rme-lunch@linq
-DTSTAMP:20250830T120000Z
-DTSTART;VALUE=DATE:20250930
-DTEND;VALUE=DATE:20251001
-SUMMARY:Orange Chicken | Hamburger on a Bun
-DESCRIPTION:See LINQ Connect for sides, fruit, milk, and condiments.
-END:VEVENT
-BEGIN:VEVENT
-UID:20251001-rme-lunch@linq
-DTSTAMP:20250830T120000Z
-DTSTART;VALUE=DATE:20251001
-DTEND;VALUE=DATE:20251002
-SUMMARY:Mini Calzones | Mini Corndogs
-DESCRIPTION:See LINQ Connect for sides, fruit, milk, and condiments.
-END:VEVENT
-BEGIN:VEVENT
-UID:20251002-rme-lunch@linq
-DTSTAMP:20250830T120000Z
-DTSTART;VALUE=DATE:20251002
-DTEND;VALUE=DATE:20251003
-SUMMARY:Alpine Chicken Bowl (Elem) | Hot Dog on a Bun
-DESCRIPTION:See LINQ Connect for sides, fruit, milk, and condiments.
-END:VEVENT
-BEGIN:VEVENT
-UID:20251003-rme-lunch@linq
-DTSTAMP:20250830T120000Z
-DTSTART;VALUE=DATE:20251003
-DTEND;VALUE=DATE:20251004
-SUMMARY:Big Daddy’s Cheese Pizza | Big Daddy’s Pepperoni Pizza | Un
- crustables Strawberry; Turkey Ham & Cheese Any’timers
-DESCRIPTION:See LINQ Connect for sides, fruit, milk, and condiments.
-END:VEVENT
-BEGIN:VEVENT
-UID:20251006-rme-lunch@linq
-DTSTAMP:20250830T120000Z
-DTSTART;VALUE=DATE:20251006
-DTEND;VALUE=DATE:20251007
-SUMMARY:Confetti Mini Pancakes | Hamburger on a Bun
-DESCRIPTION:See LINQ Connect for sides, fruit, milk, and condiments.
-END:VEVENT
-BEGIN:VEVENT
-UID:20251007-rme-lunch@linq
-DTSTAMP:20250830T120000Z
-DTSTART;VALUE=DATE:20251007
-DTEND;VALUE=DATE:20251008
-SUMMARY:Nachos (Chips & Cheese) | Crispy Chicken Sandwich | Spicy C
- hicken Sandwich
-DESCRIPTION:See LINQ Connect for sides, fruit, milk, and condiments.
-END:VEVENT
-BEGIN:VEVENT
-UID:20251008-rme-lunch@linq
-DTSTAMP:20250830T120000Z
-DTSTART;VALUE=DATE:20251008
-DTEND;VALUE=DATE:20251009
-SUMMARY:Rib Sandwich | Chicken Corn Dog
-DESCRIPTION:See LINQ Connect for sides, fruit, milk, and condiments.
-END:VEVENT
-BEGIN:VEVENT
-UID:20251009-rme-lunch@linq
-DTSTAMP:20250830T120000Z
-DTSTART;VALUE=DATE:20251009
-DTEND;VALUE=DATE:20251010
-SUMMARY:Ham and Cheese Melt | Turkey Roast Sliced
-DESCRIPTION:See LINQ Connect for sides, fruit, milk, and condiments.
-END:VEVENT
-BEGIN:VEVENT
-UID:20251010-rme-lunch@linq
-DTSTAMP:20250830T120000Z
-DTSTART;VALUE=DATE:20251010
-DTEND;VALUE=DATE:20251011
-SUMMARY:Cheese Pizza Dippers | Pepperoni Pizza Dippers | Turkey & C
- heese Snack Pack; Grape Uncrustables
-DESCRIPTION:See LINQ Connect for sides, fruit, milk, and condiments.
-END:VEVENT
-BEGIN:VEVENT
-UID:20251013-rme-lunch@linq
-DTSTAMP:20250830T120000Z
-DTSTART;VALUE=DATE:20251013
-DTEND;VALUE=DATE:20251014
-SUMMARY:Sweet and Sour Chicken | Hamburger on a Bun
-DESCRIPTION:See LINQ Connect for sides, fruit, milk, and condiments.
-END:VEVENT
-BEGIN:VEVENT
-UID:20251014-rme-lunch@linq
-DTSTAMP:20250830T120000Z
-DTSTART;VALUE=DATE:20251014
-DTEND;VALUE=DATE:20251015
-SUMMARY:Spaghetti Meat Sauce | Spicy Chicken Sandwich | Crispy Chic
- ken Sandwich
-DESCRIPTION:See LINQ Connect for sides, fruit, milk, and condiments.
-END:VEVENT
-BEGIN:VEVENT
-UID:20251015-rme-lunch@linq
-DTSTAMP:20250830T120000Z
-DTSTART;VALUE=DATE:20251015
-DTEND;VALUE=DATE:20251016
-SUMMARY:Chicken Corn Dog | Scrambled Eggs
-DESCRIPTION:See LINQ Connect for sides, fruit, milk, and condiments.
-END:VEVENT
-BEGIN:VEVENT
-UID:20251021-rme-lunch@linq
-DTSTAMP:20250830T120000Z
-DTSTART;VALUE=DATE:20251021
-DTEND;VALUE=DATE:20251022
-SUMMARY:Teriyaki Chicken | Hamburger on a Bun
-DESCRIPTION:See LINQ Connect for sides, fruit, milk, and condiments.
-END:VEVENT
-BEGIN:VEVENT
-UID:20251022-rme-lunch@linq
-DTSTAMP:20250830T120000Z
-DTSTART;VALUE=DATE:20251022
-DTEND;VALUE=DATE:20251023
-SUMMARY:Mini Calzones | Mini Corndogs
-DESCRIPTION:See LINQ Connect for sides, fruit, milk, and condiments.
-END:VEVENT
-BEGIN:VEVENT
-UID:20251023-rme-lunch@linq
-DTSTAMP:20250830T120000Z
-DTSTART;VALUE=DATE:20251023
-DTEND;VALUE=DATE:20251024
-SUMMARY:Chicken Drumstick | Hot Dog on a Bun
-DESCRIPTION:See LINQ Connect for sides, fruit, milk, and condiments.
-END:VEVENT
-BEGIN:VEVENT
-UID:20251024-rme-lunch@linq
-DTSTAMP:20250830T120000Z
-DTSTART;VALUE=DATE:20251024
-DTEND;VALUE=DATE:20251025
-SUMMARY:Big Daddy’s Cheese Pizza | Big Daddy’s Pepperoni Pizza | Un
- crustables Strawberry; Turkey Ham & Cheese Any’timers
-DESCRIPTION:See LINQ Connect for sides, fruit, milk, and condiments.
-END:VEVENT
-BEGIN:VEVENT
-UID:20251027-rme-lunch@linq
-DTSTAMP:20250830T120000Z
-DTSTART;VALUE=DATE:20251027
-DTEND;VALUE=DATE:20251028
-SUMMARY:French Toast Sticks | Hamburger on a Bun
-DESCRIPTION:See LINQ Connect for sides, fruit, milk, and condiments.
-END:VEVENT
-BEGIN:VEVENT
-UID:20251028-rme-lunch@linq
-DTSTAMP:20250830T120000Z
-DTSTART;VALUE=DATE:20251028
-DTEND;VALUE=DATE:20251029
-SUMMARY:Beef Soft Tacos | Spicy Chicken Sandwich | Crispy Chicken S
- andwich
-DESCRIPTION:See LINQ Connect for sides, fruit, milk, and condiments.
-END:VEVENT
-BEGIN:VEVENT
-UID:20251029-rme-lunch@linq
-DTSTAMP:20250830T120000Z
-DTSTART;VALUE=DATE:20251029
-DTEND;VALUE=DATE:20251030
-SUMMARY:Chicken Nuggets | Chicken Corn Dog
-DESCRIPTION:See LINQ Connect for sides, fruit, milk, and condiments.
-END:VEVENT
-BEGIN:VEVENT
-UID:20251030-rme-lunch@linq
-DTSTAMP:20250830T120000Z
-DTSTART;VALUE=DATE:20251030
-DTEND;VALUE=DATE:20251031
-SUMMARY:Chicken Noodle Soup (Elem) | Mozzarella Breadsticks | Ham a
- nd Cheese Melt
-DESCRIPTION:See LINQ Connect for sides, fruit, milk, and condiments.
-END:VEVENT
-BEGIN:VEVENT
-UID:20251031-rme-lunch@linq
-DTSTAMP:20250830T120000Z
-DTSTART;VALUE=DATE:20251031
-DTEND;VALUE=DATE:20251101
-SUMMARY:Cheese Pizza Dippers | Pepperoni Pizza Dippers | Turkey & C
- heese Snack Pack; Grape Uncrustables
-DESCRIPTION:See LINQ Connect for sides, fruit, milk, and condiments.
-END:VEVENT
-BEGIN:VEVENT
-UID:20251103-rme-lunch@linq
-DTSTAMP:20250830T120000Z
-DTSTART;VALUE=DATE:20251103
-DTEND;VALUE=DATE:20251104
-SUMMARY:Orange Chicken | Hamburger on a Bun
-DESCRIPTION:See LINQ Connect for sides, fruit, milk, and condiments.
-END:VEVENT
-BEGIN:VEVENT
-UID:20251104-rme-lunch@linq
-DTSTAMP:20250830T120000Z
-DTSTART;VALUE=DATE:20251104
-DTEND;VALUE=DATE:20251105
-SUMMARY:Sloppy Joe on a Bun | Crispy Chicken Sandwich | Spicy Chick
- en Sandwich
-DESCRIPTION:See LINQ Connect for sides, fruit, milk, and condiments.
-END:VEVENT
-BEGIN:VEVENT
-UID:20251105-rme-lunch@linq
-DTSTAMP:20250830T120000Z
-DTSTART;VALUE=DATE:20251105
-DTEND;VALUE=DATE:20251106
-SUMMARY:Mini Calzones | Mini Corndogs
-DESCRIPTION:See LINQ Connect for sides, fruit, milk, and condiments.
-END:VEVENT
-BEGIN:VEVENT
-UID:20251106-rme-lunch@linq
-DTSTAMP:20250830T120000Z
-DTSTART;VALUE=DATE:20251106
-DTEND;VALUE=DATE:20251107
-SUMMARY:Alpine Chicken Bowl (Elem) | Hot Dog on a Bun
-DESCRIPTION:See LINQ Connect for sides, fruit, milk, and condiments.
-END:VEVENT
-BEGIN:VEVENT
-UID:20251107-rme-lunch@linq
-DTSTAMP:20250830T120000Z
-DTSTART;VALUE=DATE:20251107
-DTEND;VALUE=DATE:20251108
-SUMMARY:Big Daddy’s Cheese Pizza | Big Daddy’s Pepperoni Pizza | Un
- crustables Strawberry; Turkey Ham & Cheese Any’timers
-DESCRIPTION:See LINQ Connect for sides, fruit, milk, and condiments.
-END:VEVENT
-BEGIN:VEVENT
-UID:20251110-rme-lunch@linq
-DTSTAMP:20250830T120000Z
-DTSTART;VALUE=DATE:20251110
-DTEND;VALUE=DATE:20251111
-SUMMARY:Sweet and Sour Chicken | Hamburger on a Bun
-DESCRIPTION:See LINQ Connect for sides, fruit, milk, and condiments.
-END:VEVENT
-BEGIN:VEVENT
-UID:20251111-rme-lunch@linq
-DTSTAMP:20250830T120000Z
-DTSTART;VALUE=DATE:20251111
-DTEND;VALUE=DATE:20251112
-SUMMARY:Spaghetti Meat Sauce | Spicy Chicken Sandwich | Crispy Chic
- ken Sandwich
-DESCRIPTION:Veterans Day; see LINQ for sides.
-END:VEVENT
-BEGIN:VEVENT
-UID:20251112-rme-lunch@linq
-DTSTAMP:20250830T120000Z
-DTSTART;VALUE=DATE:20251112
-DTEND;VALUE=DATE:20251113
-SUMMARY:Chicken Corn Dog | Scrambled Eggs
-DESCRIPTION:See LINQ Connect for sides, fruit, milk, and condiments.
-END:VEVENT
-BEGIN:VEVENT
-UID:20251113-rme-lunch@linq
-DTSTAMP:20250830T120000Z
-DTSTART;VALUE=DATE:20251113
-DTEND;VALUE=DATE:20251114
-SUMMARY:Taco Soup | Hot Dog on a Bun
-DESCRIPTION:See LINQ Connect for sides, fruit, milk, and condiments.
-END:VEVENT
-BEGIN:VEVENT
-UID:20251114-rme-lunch@linq
-DTSTAMP:20250830T120000Z
-DTSTART;VALUE=DATE:20251114
-DTEND;VALUE=DATE:20251115
-SUMMARY:Mozzarella Breadsticks | Turkey Ham & Cheese Any’timers | U
- ncrustables Strawberry
-DESCRIPTION:See LINQ Connect for sides, fruit, milk, and condiments.
-END:VEVENT
-BEGIN:VEVENT
-UID:20251117-rme-lunch@linq
-DTSTAMP:20250830T120000Z
-DTSTART;VALUE=DATE:20251117
-DTEND;VALUE=DATE:20251118
-SUMMARY:Confetti Mini Pancakes | Hamburger on a Bun
-DESCRIPTION:See LINQ Connect for sides, fruit, milk, and condiments.
-END:VEVENT
-BEGIN:VEVENT
-UID:20251118-rme-lunch@linq
-DTSTAMP:20250830T120000Z
-DTSTART;VALUE=DATE:20251118
-DTEND;VALUE=DATE:20251119
-SUMMARY:Nachos (Chips & Cheese) | Crispy Chicken Sandwich
-DESCRIPTION:See LINQ Connect for sides, fruit, milk, and condiments.
-END:VEVENT
-BEGIN:VEVENT
-UID:20251119-rme-lunch@linq
-DTSTAMP:20250830T120000Z
-DTSTART;VALUE=DATE:20251119
-DTEND;VALUE=DATE:20251120
-SUMMARY:Rib Sandwich | Chicken Corn Dog
-DESCRIPTION:See LINQ Connect for sides, fruit, milk, and condiments.
-END:VEVENT
-BEGIN:VEVENT
-UID:20251120-rme-lunch@linq
-DTSTAMP:20250830T120000Z
-DTSTART;VALUE=DATE:20251120
-DTEND;VALUE=DATE:20251121
-SUMMARY:Ham and Cheese Melt | Turkey Roast Sliced
-DESCRIPTION:See LINQ Connect for sides, fruit, milk, and condiments.
-END:VEVENT
-BEGIN:VEVENT
-UID:20251121-rme-lunch@linq
-DTSTAMP:20250830T120000Z
-DTSTART;VALUE=DATE:20251121
-DTEND;VALUE=DATE:20251122
-SUMMARY:Cheese Pizza Dippers | Pepperoni Pizza Dippers
-DESCRIPTION:See LINQ Connect for sides, fruit, milk, and condiments.
-END:VEVENT
-BEGIN:VEVENT
-UID:20251124-rme-lunch@linq
-DTSTAMP:20250830T120000Z
-DTSTART;VALUE=DATE:20251124
-DTEND;VALUE=DATE:20251125
-SUMMARY:Teriyaki Chicken | Hamburger on a Bun
-DESCRIPTION:See LINQ Connect for sides, fruit, milk, and condiments.
-END:VEVENT
-BEGIN:VEVENT
-UID:20251125-rme-lunch@linq
-DTSTAMP:20250830T120000Z
-DTSTART;VALUE=DATE:20251125
-DTEND;VALUE=DATE:20251126
-SUMMARY:Macaroni & Cheese (non‑WG) | Spicy Chicken Sandwich
-DESCRIPTION:See LINQ Connect for sides, fruit, milk, and condiments.
-END:VEVENT
-BEGIN:VEVENT
-UID:20251201-rme-lunch@linq
-DTSTAMP:20250830T120000Z
-DTSTART;VALUE=DATE:20251201
-DTEND;VALUE=DATE:20251202
-SUMMARY:French Toast Sticks | Hamburger on a Bun
-DESCRIPTION:See LINQ Connect for sides, fruit, milk, and condiments.
-END:VEVENT
-BEGIN:VEVENT
-UID:20251202-rme-lunch@linq
-DTSTAMP:20250830T120000Z
-DTSTART;VALUE=DATE:20251202
-DTEND;VALUE=DATE:20251203
-SUMMARY:Beef Soft Tacos | Spicy Chicken Sandwich | Crispy Chicken S
- andwich
-DESCRIPTION:See LINQ Connect for sides, fruit, milk, and condiments.
-END:VEVENT
-BEGIN:VEVENT
-UID:20251203-rme-lunch@linq
-DTSTAMP:20250830T120000Z
-DTSTART;VALUE=DATE:20251203
-DTEND;VALUE=DATE:20251204
-SUMMARY:Chicken Nuggets | Chicken Corn Dog
-DESCRIPTION:See LINQ Connect for sides, fruit, milk, and condiments.
-END:VEVENT
-BEGIN:VEVENT
-UID:20251204-rme-lunch@linq
-DTSTAMP:20250830T120000Z
-DTSTART;VALUE=DATE:20251204
-DTEND;VALUE=DATE:20251205
-SUMMARY:Chicken Noodle Soup (Elem) | Mozzarella Breadsticks | Ham a
- nd Cheese Melt
-DESCRIPTION:See LINQ Connect for sides, fruit, milk, and condiments.
-END:VEVENT
-BEGIN:VEVENT
-UID:20251205-rme-lunch@linq
-DTSTAMP:20250830T120000Z
-DTSTART;VALUE=DATE:20251205
-DTEND;VALUE=DATE:20251206
-SUMMARY:Cheese Pizza Dippers | Pepperoni Pizza Dippers | Turkey & C
- heese Snack Pack; Grape Uncrustables
-DESCRIPTION:See LINQ Connect for sides, fruit, milk, and condiments.
-END:VEVENT
-BEGIN:VEVENT
-UID:20251208-rme-lunch@linq
-DTSTAMP:20250830T120000Z
-DTSTART;VALUE=DATE:20251208
-DTEND;VALUE=DATE:20251209
-SUMMARY:Orange Chicken | Hamburger on a Bun
-DESCRIPTION:See LINQ Connect for sides, fruit, milk, and condiments.
-END:VEVENT
-BEGIN:VEVENT
-UID:20251209-rme-lunch@linq
-DTSTAMP:20250830T120000Z
-DTSTART;VALUE=DATE:20251209
-DTEND;VALUE=DATE:20251210
-SUMMARY:Sloppy Joe on a Bun | Crispy Chicken Sandwich | Spicy Chick
- en Sandwich
-DESCRIPTION:See LINQ Connect for sides, fruit, milk, and condiments.
-END:VEVENT
-BEGIN:VEVENT
-UID:20251210-rme-lunch@linq
-DTSTAMP:20250830T120000Z
-DTSTART;VALUE=DATE:20251210
-DTEND;VALUE=DATE:20251211
-SUMMARY:Mini Calzones | Mini Corndogs
-DESCRIPTION:See LINQ Connect for sides, fruit, milk, and condiments.
-END:VEVENT
-BEGIN:VEVENT
-UID:20251211-rme-lunch@linq
-DTSTAMP:20250830T120000Z
-DTSTART;VALUE=DATE:20251211
-DTEND;VALUE=DATE:20251212
-SUMMARY:Alpine Chicken Bowl (Elem) | Hot Dog on a Bun
-DESCRIPTION:See LINQ Connect for sides, fruit, milk, and condiments.
-END:VEVENT
-BEGIN:VEVENT
-UID:20251212-rme-lunch@linq
-DTSTAMP:20250830T120000Z
-DTSTART;VALUE=DATE:20251212
-DTEND;VALUE=DATE:20251213
-SUMMARY:Big Daddy’s Cheese Pizza | Big Daddy’s Pepperoni Pizza | Tu
- rkey Ham & Cheese Any’timers; Uncrustables Honey
-DESCRIPTION:See LINQ Connect for sides, fruit, milk, and condiments.
-END:VEVENT
-BEGIN:VEVENT
-UID:20251215-rme-lunch@linq
-DTSTAMP:20250830T120000Z
-DTSTART;VALUE=DATE:20251215
-DTEND;VALUE=DATE:20251216
-SUMMARY:Confetti Mini Pancakes | Hamburger on a Bun
-DESCRIPTION:See LINQ Connect for sides, fruit, milk, and condiments.
-END:VEVENT
-BEGIN:VEVENT
-UID:20251216-rme-lunch@linq
-DTSTAMP:20250830T120000Z
-DTSTART;VALUE=DATE:20251216
-DTEND;VALUE=DATE:20251217
-SUMMARY:Nachos (Chips & Cheese) | Crispy Chicken Sandwich | Spicy C
- hicken Sandwich
-DESCRIPTION:See LINQ Connect for sides, fruit, milk, and condiments.
-END:VEVENT
-BEGIN:VEVENT
-UID:20251217-rme-lunch@linq
-DTSTAMP:20250830T120000Z
-DTSTART;VALUE=DATE:20251217
-DTEND;VALUE=DATE:20251218
-SUMMARY:Rib Sandwich | Chicken Corn Dog
-DESCRIPTION:See LINQ Connect for sides, fruit, milk, and condiments.
-END:VEVENT
-BEGIN:VEVENT
-UID:20251218-rme-lunch@linq
-DTSTAMP:20250830T120000Z
-DTSTART;VALUE=DATE:20251218
-DTEND;VALUE=DATE:20251219
-SUMMARY:Ham and Cheese Melt | Turkey Roast Sliced
-DESCRIPTION:See LINQ Connect for sides, fruit, milk, and condiments.
-END:VEVENT
-BEGIN:VEVENT
-UID:20251219-rme-lunch@linq
-DTSTAMP:20250830T120000Z
-DTSTART;VALUE=DATE:20251219
-DTEND;VALUE=DATE:20251220
-SUMMARY:Cheese Pizza Dippers | Pepperoni Pizza Dippers | Turkey & C
- heese Snack Pack; Grape Uncrustables
-DESCRIPTION:See LINQ Connect for sides, fruit, milk, and condiments.
-END:VEVENT
-BEGIN:VEVENT
-UID:20260106-rocky-lunch@linq
-DTSTAMP:20260107T140757Z
-DTSTART;VALUE=DATE:20260106
-SUMMARY:Hamburger on a Bun | Sweet & Sour Chicken Recipe
-DESCRIPTION:Side: Rice; Vegetable: Bagged Baby Carrots, Steamed Broccoli; Fruit: Mandarin Oranges, Banana; Milk: 1% White Milk, Fat Free Chocolate Milk; Dessert: Scooby Snacks; Condiments: Ranch Cups, Cheese American Sliced, Mayo, Ketchup Packet, Mustard Packet, Pickle Dill Chips, Lettuce (Shredded), Fry Sauce; Other: Bun Hamburger GF
-END:VEVENT
-BEGIN:VEVENT
-UID:20260107-rocky-lunch@linq
-DTSTAMP:20260107T140757Z
-DTSTART;VALUE=DATE:20260107
-SUMMARY:Chicken Corn Dog | Scrambled Eggs
-DESCRIPTION:Side: Muffin Choc Chip WG IW, Muffin Blueberry WG IW; Vegetable: Side Salad, Green Beans; Fruit: Oranges, Pineapple Tidbits; Milk: 1% White Milk, Fat Free Chocolate Milk; Condiments: Ketchup Packet, Mustard Packet, Fry Sauce
-END:VEVENT
-BEGIN:VEVENT
-UID:20260108-rocky-lunch@linq
-DTSTAMP:20260107T140757Z
-DTSTART;VALUE=DATE:20260108
-SUMMARY:Taco Soup | Hot Dog on a Bun
-DESCRIPTION:Side: Baked Scoops Chips, Harvest Cheddar Sunchips, Doritos Cool Ranch Chips; Vegetable: Colorful Carrots, Fresh Vegetable Bags (cel/tom/car); Fruit: Apples Sliced Bags, Peaches Sliced; Milk: 1% White Milk, Fat Free Chocolate Milk; Condiments: Shredded Cheddar Cheese, Sour Cream, Ketchup Packet, Mustard Packet, Ranch Cups
-END:VEVENT
-BEGIN:VEVENT
-UID:20260109-rocky-lunch@linq
-DTSTAMP:20260107T140757Z
-DTSTART;VALUE=DATE:20260109
-SUMMARY:Mozzarella Breadsticks | Uncrustables Strawberry | Turkey Ham & Cheese AnyTimers
-DESCRIPTION:Side: Goldfish Crackers, Cheese Marble Stick; Vegetable: Side Salad, Baked Beans, Marinara Sauce; Fruit: Cantaloupe, Cinnamon Applesauce; Milk: 1% White Milk, Fat Free Chocolate Milk, Strawberry Milk Fat Free; Condiments: Ranch Cups
-END:VEVENT
-BEGIN:VEVENT
-UID:20260112-rocky-lunch@linq
-DTSTAMP:20260107T140757Z
-DTSTART;VALUE=DATE:20260112
-SUMMARY:Teriyaki Chicken Recipe | Hamburger on a Bun | Field Trip AnyTimer
-DESCRIPTION:Side: Rice; Vegetable: Bagged Baby Carrots, Steamed Broccoli; Fruit: Banana, Peaches Sliced; Milk: 1% White Milk, Fat Free Chocolate Milk; Condiments: Ranch Cups, Cheese American Sliced, Mayo, Ketchup Packet, Mustard Packet, Pickle Dill Chips, Lettuce (Shredded), Fry Sauce; Other: Bun Hamburger GF
-END:VEVENT
-BEGIN:VEVENT
-UID:20260113-rocky-lunch@linq
-DTSTAMP:20260107T140757Z
-DTSTART;VALUE=DATE:20260113
-SUMMARY:Macaroni & Cheese (non-WG) | Spicy Chicken Sandwich | Crispy Chicken Sandwich
-DESCRIPTION:Side: Garlic Breadstick; Vegetable: Corn, Side Salad; Fruit: Strawberry Dessert, Oranges; Milk: 1% White Milk, Fat Free Chocolate Milk; Condiments: Lettuce (Shredded), Pickle Dill Chips, Mayo, Ketchup Packet, Mustard Packet, Sauce BBQ Cup
-END:VEVENT
-BEGIN:VEVENT
-UID:20260114-rocky-lunch@linq
-DTSTAMP:20260107T140757Z
-DTSTART;VALUE=DATE:20260114
-SUMMARY:Mini Calzones | Mini Corndogs
-DESCRIPTION:Vegetable: Marinara Sauce, Fresh Veggie Bag (Cuc/Tom/Car), Baked Beans; Fruit: Pineapple Tidbits, Grapes; Milk: 1% White Milk, Fat Free Chocolate Milk; Dessert: Banana Creamie, Chocolate Creamie; Condiments: Ketchup Packet, Mustard Packet, Fry Sauce
-END:VEVENT
-BEGIN:VEVENT
-UID:20260115-rocky-lunch@linq
-DTSTAMP:20260107T140757Z
-DTSTART;VALUE=DATE:20260115
-SUMMARY:Chicken Drumstick | Hot Dog on a Bun
-DESCRIPTION:Side: Homemade Roll, LS GF Chicken Gravy Mix, Doritos Cool Ranch Chips; Vegetable: Mashed Potatoes, Green Beans, Fresh Veggie Bag (Cuc/Tom/Car); Fruit: Apples Sliced Bags, Pears Sliced; Milk: 1% White Milk, Fat Free Chocolate Milk; Condiments: Jelly Packets, Mayo, Mustard Packet, Ketchup Packet, Ranch Cups
-END:VEVENT
-BEGIN:VEVENT
-UID:20260116-rocky-lunch@linq
-DTSTAMP:20260107T140757Z
-DTSTART;VALUE=DATE:20260116
-SUMMARY:Big Daddy's Cheese Pizza | Big Daddy's Pepperoni Pizza | Uncrustables Strawberry; Turkey Ham & Cheese AnyTimers
-DESCRIPTION:Side: String Cheese, Popcorn Sweet & Salty; Vegetable: Bagged Baby Carrots, Side Salad; Fruit: Plum, Mandarin Oranges; Milk: 1% White Milk, Fat Free Chocolate Milk; Condiments: Ranch Cups
-END:VEVENT
-BEGIN:VEVENT
-UID:20260120-rocky-lunch@linq
-DTSTAMP:20260107T140757Z
-DTSTART;VALUE=DATE:20260120
-SUMMARY:French Toast Sticks | Hamburger on a Bun
-DESCRIPTION:Side: Egg Omelet w/ Cheese; Vegetable: Potato Smiles, Bagged Baby Carrots; Fruit: Banana, Peaches Sliced; Milk: 1% White Milk, Fat Free Chocolate Milk; Condiments: Ranch Cups, Syrup, Cheese American Sliced, Ketchup Packet, Mayo, Mustard Packet, Lettuce (Shredded), Pickle Dill Chips, Fry Sauce
-END:VEVENT
-BEGIN:VEVENT
-UID:20260121-rocky-lunch@linq
-DTSTAMP:20260107T140757Z
-DTSTART;VALUE=DATE:20260121
-SUMMARY:Chicken Nuggets | Chicken Corn Dog
-DESCRIPTION:Side: Original Sunchips, Doritos Nacho Cheese Chips; Vegetable: Baked Beans, Colorful Carrots; Fruit: Fresh Fruit Assortment, Canned Fruit; Milk: 1% White Milk, Strawberry Milk Fat Free; Dessert: Chocolate Chip Cookies; Condiments: Ketchup Packet, Sauce BBQ Cup, Sauce Sweet & Sour
-END:VEVENT
-BEGIN:VEVENT
-UID:20260122-rocky-lunch@linq
-DTSTAMP:20260107T140757Z
-DTSTART;VALUE=DATE:20260122
-SUMMARY:Chicken Noodle Soup (Elementary) | Mozzarella Breadsticks | Ham and Cheese Melt
-DESCRIPTION:Vegetable: Corn, Fresh Vegetable Bags (cel/tom/car); Fruit: Fresh Fruit Assortment, Canned Fruit; Milk: 1% White Milk, Fat Free Chocolate Milk; Condiments: Ranch Cups
-END:VEVENT
-BEGIN:VEVENT
-UID:20260123-rocky-lunch@linq
-DTSTAMP:20260107T140757Z
-DTSTART;VALUE=DATE:20260123
-SUMMARY:Cheese Pizza Dippers | Pepperoni Pizza Dippers | Turkey & Cheese Snack Pack; Grape Uncrustables
-DESCRIPTION:Side: Yogurt Assortment, Goldfish Crackers; Vegetable: Bagged Baby Carrots, Side Salad, Marinara Sauce; Fruit: Fresh Fruit Assortment, Canned Fruit; Milk: 1% White Milk, Fat Free Chocolate Milk; Condiments: Ranch Cups
-END:VEVENT
-BEGIN:VEVENT
-UID:20260126-rocky-lunch@linq
-DTSTAMP:20260107T140757Z
-DTSTART;VALUE=DATE:20260126
-SUMMARY:Orange Chicken | Hamburger on a Bun
-DESCRIPTION:Side: Rice; Vegetable: Broccoli Normandy, Bagged Baby Carrots; Fruit: Fresh Fruit Assortment, Canned Fruit; Milk: 1% White Milk, Fat Free Chocolate Milk; Condiments: Ranch Cups, Hamburger Condiments, Cheese American Sliced
-END:VEVENT
-BEGIN:VEVENT
-UID:20260127-rocky-lunch@linq
-DTSTAMP:20260107T140757Z
-DTSTART;VALUE=DATE:20260127
-SUMMARY:Sloppy Joe on a Bun | Crispy Chicken Sandwich | Spicy Chicken Sandwich
-DESCRIPTION:Vegetable: Steamed Peas, Tater Tot Ore Ida; Fruit: Fresh Fruit Assortment, Strawberry Applesauce; Milk: 1% White Milk, Fat Free Chocolate Milk; Condiments: Ranch Cups, Chicken Sandwich Condiments
-END:VEVENT
-BEGIN:VEVENT
-UID:20260128-rocky-lunch@linq
-DTSTAMP:20260107T140757Z
-DTSTART;VALUE=DATE:20260128
-SUMMARY:Mini Calzones | Mini Corndogs
-DESCRIPTION:Vegetable: Vegetable Bag (Broc/Cuc/Cel), Green Beans, Marinara Sauce; Fruit: Fresh Fruit Assortment, Canned Fruit; Milk: 1% White Milk, Fat Free Chocolate Milk; Dessert: Pudding Cups Chocolate
-END:VEVENT
-BEGIN:VEVENT
-UID:20260129-rocky-lunch@linq
-DTSTAMP:20260107T140757Z
-DTSTART;VALUE=DATE:20260129
-SUMMARY:Alpine Chicken Bowl (Elementary) | Hot Dog on a Bun
-DESCRIPTION:Side: Homemade Roll; Chip Variety - May go with only one entree choice; Vegetable: Corn, Bagged Baby Carrots; Fruit: Fresh Fruit Assortment, Canned Fruit; Milk: 1% White Milk, Fat Free Chocolate Milk; Condiments: Shredded Cheddar Cheese, Ranch Cups, Butter
-END:VEVENT
-BEGIN:VEVENT
-UID:20260130-rocky-lunch@linq
-DTSTAMP:20260107T140757Z
-DTSTART;VALUE=DATE:20260130
-SUMMARY:Big Daddy's Cheese Pizza | Big Daddy's Pepperoni Pizza | Turkey Ham & Cheese AnyTimers; Uncrustables Honey
-DESCRIPTION:Side: Muffin Choc Chip WG IW, Cheese Marble Stick; Vegetable: Baked Beans, Side Salad; Fruit: Fresh Fruit Assortment, Canned Fruit; Milk: 1% White Milk, Fat Free Chocolate Milk; Condiments: Ranch Cups
-END:VEVENT
-
-BEGIN:VEVENT
-UID:20260202-rocky-lunch@linq
-DTSTAMP:20260206T045449Z
-DTSTART;VALUE=DATE:20260202
-SUMMARY:Confetti Mini Pancakes | Hamburger on a Bun
-DESCRIPTION:See LINQ Connect for sides, vegetables, fruit, milk, condiments, dessert, and notes as posted on the menu.
-END:VEVENT
-BEGIN:VEVENT
-UID:20260203-rocky-lunch@linq
-DTSTAMP:20260206T045449Z
-DTSTART;VALUE=DATE:20260203
-SUMMARY:Nachos (Chips & Cheese) | Crispy Chicken Sandwich | Spicy Chicken Sandwich
-DESCRIPTION:See LINQ Connect for sides, vegetables, fruit, milk, condiments, dessert, and notes as posted on the menu.
-END:VEVENT
-BEGIN:VEVENT
-UID:20260204-rocky-lunch@linq
-DTSTAMP:20260206T045449Z
-DTSTART;VALUE=DATE:20260204
-SUMMARY:Rib Sandwich | Chicken Corn Dog
-DESCRIPTION:See LINQ Connect for sides, vegetables, fruit, milk, condiments, dessert, and notes as posted on the menu.
-END:VEVENT
-BEGIN:VEVENT
-UID:20260205-rocky-lunch@linq
-DTSTAMP:20260206T045449Z
-DTSTART;VALUE=DATE:20260205
-SUMMARY:Ham and Cheese Melt | Turkey Roast Sliced
-DESCRIPTION:See LINQ Connect for sides, vegetables, fruit, milk, condiments, dessert, and notes as posted on the menu.
-END:VEVENT
-BEGIN:VEVENT
-UID:20260206-rocky-lunch@linq
-DTSTAMP:20260206T045449Z
-DTSTART;VALUE=DATE:20260206
-SUMMARY:Big Daddy's Cheese Pizza | Big Daddy's Pepperoni Pizza | Turkey Ham & Cheese Any’timers; Uncrustables Honey
-DESCRIPTION:See LINQ Connect for sides, vegetables, fruit, milk, condiments, dessert, and notes as posted on the menu.
-END:VEVENT
-BEGIN:VEVENT
-UID:20260209-rocky-lunch@linq
-DTSTAMP:20260206T045449Z
-DTSTART;VALUE=DATE:20260209
-SUMMARY:Hamburger on a Bun | Sweet & Sour Chicken Recipe
-DESCRIPTION:See LINQ Connect for sides, vegetables, fruit, milk, condiments, dessert, and notes as posted on the menu.
-END:VEVENT
-BEGIN:VEVENT
-UID:20260210-rocky-lunch@linq
-DTSTAMP:20260206T045449Z
-DTSTART;VALUE=DATE:20260210
-SUMMARY:Spaghetti Meat Sauce | Spicy Chicken Sandwich | Crispy Chicken Sandwich
-DESCRIPTION:See LINQ Connect for sides, vegetables, fruit, milk, condiments, dessert, and notes as posted on the menu.
-END:VEVENT
-BEGIN:VEVENT
-UID:20260211-rocky-lunch@linq
-DTSTAMP:20260206T045449Z
-DTSTART;VALUE=DATE:20260211
-SUMMARY:Chicken Corn Dog | Scrambled Eggs
-DESCRIPTION:See LINQ Connect for sides, vegetables, fruit, milk, condiments, dessert, and notes as posted on the menu.
-END:VEVENT
-BEGIN:VEVENT
-UID:20260212-rocky-lunch@linq
-DTSTAMP:20260206T045449Z
-DTSTART;VALUE=DATE:20260212
-SUMMARY:Taco Soup | Hot Dog on a Bun
-DESCRIPTION:See LINQ Connect for sides, vegetables, fruit, milk, condiments, dessert, and notes as posted on the menu.
-END:VEVENT
-BEGIN:VEVENT
-UID:20260213-rocky-lunch@linq
-DTSTAMP:20260206T045449Z
-DTSTART;VALUE=DATE:20260213
-SUMMARY:Mozzarella Breadsticks | Turkey Ham & Cheese Any’timers | Uncrustable Chocolate
-DESCRIPTION:See LINQ Connect for sides, vegetables, fruit, milk, condiments, dessert, and notes as posted on the menu.
-END:VEVENT
-BEGIN:VEVENT
-UID:20260217-rocky-lunch@linq
-DTSTAMP:20260206T045449Z
-DTSTART;VALUE=DATE:20260217
-SUMMARY:Teriyaki Chicken Recipe | Hamburger on a Bun
-DESCRIPTION:See LINQ Connect for sides, vegetables, fruit, milk, condiments, dessert, and notes as posted on the menu.
-END:VEVENT
-BEGIN:VEVENT
-UID:20260218-rocky-lunch@linq
-DTSTAMP:20260206T045449Z
-DTSTART;VALUE=DATE:20260218
-SUMMARY:Mini Calzones | Mini Corndogs
-DESCRIPTION:See LINQ Connect for sides, vegetables, fruit, milk, condiments, dessert, and notes as posted on the menu.
-END:VEVENT
-BEGIN:VEVENT
-UID:20260219-rocky-lunch@linq
-DTSTAMP:20260206T045449Z
-DTSTART;VALUE=DATE:20260219
-SUMMARY:Chicken Drumstick | Hot Dog on a Bun
-DESCRIPTION:See LINQ Connect for sides, vegetables, fruit, milk, condiments, dessert, and notes as posted on the menu.
-END:VEVENT
-BEGIN:VEVENT
-UID:20260220-rocky-lunch@linq
-DTSTAMP:20260206T045449Z
-DTSTART;VALUE=DATE:20260220
-SUMMARY:Big Daddy's Cheese Pizza | Big Daddy's Pepperoni Pizza | Uncrustables Strawberry; Turkey Ham & Cheese Any’timers
-DESCRIPTION:See LINQ Connect for sides, vegetables, fruit, milk, condiments, dessert, and notes as posted on the menu.
-END:VEVENT
-BEGIN:VEVENT
-UID:20260223-rocky-lunch@linq
-DTSTAMP:20260206T045449Z
-DTSTART;VALUE=DATE:20260223
-SUMMARY:French Toast Sticks | Hamburger on a Bun
-DESCRIPTION:See LINQ Connect for sides, vegetables, fruit, milk, condiments, dessert, and notes as posted on the menu.
-END:VEVENT
-BEGIN:VEVENT
-UID:20260224-rocky-lunch@linq
-DTSTAMP:20260206T045449Z
-DTSTART;VALUE=DATE:20260224
-SUMMARY:Beef Soft Tacos | Spicy Chicken Sandwich | Crispy Chicken Sandwich
-DESCRIPTION:See LINQ Connect for sides, vegetables, fruit, milk, condiments, dessert, and notes as posted on the menu.
-END:VEVENT
-BEGIN:VEVENT
-UID:20260225-rocky-lunch@linq
-DTSTAMP:20260206T045449Z
-DTSTART;VALUE=DATE:20260225
-SUMMARY:Chicken Nuggets | Chicken Corn Dog
-DESCRIPTION:See LINQ Connect for sides, vegetables, fruit, milk, condiments, dessert, and notes as posted on the menu.
-END:VEVENT
-BEGIN:VEVENT
-UID:20260226-rocky-lunch@linq
-DTSTAMP:20260206T045449Z
-DTSTART;VALUE=DATE:20260226
-SUMMARY:Chicken Noodle Soup (Elementary) | Mozzarella Breadsticks | Ham and Cheese Melt
-DESCRIPTION:See LINQ Connect for sides, vegetables, fruit, milk, condiments, dessert, and notes as posted on the menu.
-END:VEVENT
-BEGIN:VEVENT
-UID:20260227-rocky-lunch@linq
-DTSTAMP:20260206T045449Z
-DTSTART;VALUE=DATE:20260227
-SUMMARY:Cheese Pizza Dippers | Pepperoni Pizza Dippers | Turkey & Cheese Snack Pack; Grape Uncrustables
-DESCRIPTION:See LINQ Connect for sides, vegetables, fruit, milk, condiments, dessert, and notes as posted on the menu.
-END:VEVENT
-BEGIN:VEVENT
-UID:20260302-rocky-lunch@linq
-DTSTAMP:20260206T045449Z
-DTSTART;VALUE=DATE:20260302
-SUMMARY:Orange Chicken | Hamburger on a Bun
-DESCRIPTION:See LINQ Connect for sides, vegetables, fruit, milk, condiments, dessert, and notes as posted on the menu.
-END:VEVENT
-BEGIN:VEVENT
-UID:20260303-rocky-lunch@linq
-DTSTAMP:20260206T045449Z
-DTSTART;VALUE=DATE:20260303
-SUMMARY:Sloppy Joe on a Bun | Crispy Chicken Sandwich | Spicy Chicken Sandwich
-DESCRIPTION:See LINQ Connect for sides, vegetables, fruit, milk, condiments, dessert, and notes as posted on the menu.
-END:VEVENT
-BEGIN:VEVENT
-UID:20260304-rocky-lunch@linq
-DTSTAMP:20260206T045449Z
-DTSTART;VALUE=DATE:20260304
-SUMMARY:Mini Calzones | Mini Corndogs
-DESCRIPTION:See LINQ Connect for sides, vegetables, fruit, milk, condiments, dessert, and notes as posted on the menu.
-END:VEVENT
-BEGIN:VEVENT
-UID:20260305-rocky-lunch@linq
-DTSTAMP:20260206T045449Z
-DTSTART;VALUE=DATE:20260305
-SUMMARY:Alpine Chicken Bowl (Elementary) | Hot Dog on a Bun
-DESCRIPTION:See LINQ Connect for sides, vegetables, fruit, milk, condiments, dessert, and notes as posted on the menu.
-END:VEVENT
-BEGIN:VEVENT
-UID:20260306-rocky-lunch@linq
-DTSTAMP:20260206T045449Z
-DTSTART;VALUE=DATE:20260306
-SUMMARY:Big Daddy's Cheese Pizza | Big Daddy's Pepperoni Pizza | Turkey Ham & Cheese Any’timers; Uncrustables Honey
-DESCRIPTION:See LINQ Connect for sides, vegetables, fruit, milk, condiments, dessert, and notes as posted on the menu.
-END:VEVENT
-BEGIN:VEVENT
-UID:20260310-rocky-lunch@linq
-DTSTAMP:20260206T045449Z
-DTSTART;VALUE=DATE:20260310
-SUMMARY:Confetti Mini Pancakes | Hamburger on a Bun
-DESCRIPTION:See LINQ Connect for sides, vegetables, fruit, milk, condiments, dessert, and notes as posted on the menu.
-END:VEVENT
-BEGIN:VEVENT
-UID:20260311-rocky-lunch@linq
-DTSTAMP:20260206T045449Z
-DTSTART;VALUE=DATE:20260311
-SUMMARY:Rib Sandwich | Chicken Corn Dog
-DESCRIPTION:See LINQ Connect for sides, vegetables, fruit, milk, condiments, dessert, and notes as posted on the menu.
-END:VEVENT
-BEGIN:VEVENT
-UID:20260312-rocky-lunch@linq
-DTSTAMP:20260206T045449Z
-DTSTART;VALUE=DATE:20260312
-SUMMARY:Ham and Cheese Melt | Turkey Roast Sliced
-DESCRIPTION:See LINQ Connect for sides, vegetables, fruit, milk, condiments, dessert, and notes as posted on the menu.
-END:VEVENT
-BEGIN:VEVENT
-UID:20260313-rocky-lunch@linq
-DTSTAMP:20260206T045449Z
-DTSTART;VALUE=DATE:20260313
-SUMMARY:Cheese Pizza Dippers | Pepperoni Pizza Dippers | Turkey & Cheese Snack Pack; Grape Uncrustables
-DESCRIPTION:See LINQ Connect for sides, vegetables, fruit, milk, condiments, dessert, and notes as posted on the menu.
-END:VEVENT
-BEGIN:VEVENT
-UID:20260316-rocky-lunch@linq
-DTSTAMP:20260206T045449Z
-DTSTART;VALUE=DATE:20260316
-SUMMARY:Hamburger on a Bun | Sweet & Sour Chicken Recipe
-DESCRIPTION:See LINQ Connect for sides, vegetables, fruit, milk, condiments, dessert, and notes as posted on the menu.
-END:VEVENT
-BEGIN:VEVENT
-UID:20260317-rocky-lunch@linq
-DTSTAMP:20260206T045449Z
-DTSTART;VALUE=DATE:20260317
-SUMMARY:Spaghetti Meat Sauce | Spicy Chicken Sandwich | Crispy Chicken Sandwich
-DESCRIPTION:See LINQ Connect for sides, vegetables, fruit, milk, condiments, dessert, and notes as posted on the menu.
-END:VEVENT
-BEGIN:VEVENT
-UID:20260318-rocky-lunch@linq
-DTSTAMP:20260206T045449Z
-DTSTART;VALUE=DATE:20260318
-SUMMARY:Chicken Corn Dog | Scrambled Eggs
-DESCRIPTION:See LINQ Connect for sides, vegetables, fruit, milk, condiments, dessert, and notes as posted on the menu.
-END:VEVENT
-BEGIN:VEVENT
-UID:20260319-rocky-lunch@linq
-DTSTAMP:20260206T045449Z
-DTSTART;VALUE=DATE:20260319
-SUMMARY:Taco Soup | Hot Dog on a Bun
-DESCRIPTION:See LINQ Connect for sides, vegetables, fruit, milk, condiments, dessert, and notes as posted on the menu.
-END:VEVENT
-BEGIN:VEVENT
-UID:20260320-rocky-lunch@linq
-DTSTAMP:20260206T045449Z
-DTSTART;VALUE=DATE:20260320
-SUMMARY:Mozzarella Breadsticks | Turkey Ham & Cheese Any’timers | Uncrustables Strawberry
-DESCRIPTION:See LINQ Connect for sides, vegetables, fruit, milk, condiments, dessert, and notes as posted on the menu.
-END:VEVENT
-BEGIN:VEVENT
-UID:20260324-rocky-lunch@linq
-DTSTAMP:20260206T045449Z
-DTSTART;VALUE=DATE:20260324
-SUMMARY:Teriyaki Chicken Recipe | Hamburger on a Bun
-DESCRIPTION:See LINQ Connect for sides, vegetables, fruit, milk, condiments, dessert, and notes as posted on the menu.
-END:VEVENT
-BEGIN:VEVENT
-UID:20260325-rocky-lunch@linq
-DTSTAMP:20260206T045449Z
-DTSTART;VALUE=DATE:20260325
-SUMMARY:Mini Calzones | Mini Corndogs
-DESCRIPTION:See LINQ Connect for sides, vegetables, fruit, milk, condiments, dessert, and notes as posted on the menu.
-END:VEVENT
-BEGIN:VEVENT
-UID:20260326-rocky-lunch@linq
-DTSTAMP:20260206T045449Z
-DTSTART;VALUE=DATE:20260326
-SUMMARY:Chicken Drumstick | Hot Dog on a Bun
-DESCRIPTION:See LINQ Connect for sides, vegetables, fruit, milk, condiments, dessert, and notes as posted on the menu.
-END:VEVENT
-BEGIN:VEVENT
-UID:20260327-rocky-lunch@linq
-DTSTAMP:20260206T045449Z
-DTSTART;VALUE=DATE:20260327
-SUMMARY:Big Daddy’s Cheese Pizza | Big Daddy’s Pepperoni Pizza | Turkey & Cheese Snack Pack; Grape Uncrustables
-DESCRIPTION:See LINQ Connect for sides, vegetables, fruit, milk, condiments, dessert, and notes as posted on the menu.
-END:VEVENT
-BEGIN:VEVENT
-UID:20260330-rocky-lunch@linq
-DTSTAMP:20260206T045449Z
-DTSTART;VALUE=DATE:20260330
-SUMMARY:French Toast Sticks | Hamburger on a Bun
-DESCRIPTION:See LINQ Connect for sides, vegetables, fruit, milk, condiments, dessert, and notes as posted on the menu.
-END:VEVENT
-BEGIN:VEVENT
-UID:20260331-rocky-lunch@linq
-DTSTAMP:20260206T045449Z
-DTSTART;VALUE=DATE:20260331
-SUMMARY:Beef Soft Tacos | Spicy Chicken Sandwich | Crispy Chicken Sandwich
-DESCRIPTION:See LINQ Connect for sides, vegetables, fruit, milk, condiments, dessert, and notes as posted on the menu.
-END:VEVENT
-BEGIN:VEVENT
-UID:20260401-rocky-lunch@linq
-DTSTAMP:20260206T045449Z
-DTSTART;VALUE=DATE:20260401
-SUMMARY:Chicken Nuggets | Chicken Corn Dog
-DESCRIPTION:See LINQ Connect for sides, vegetables, fruit, milk, condiments, dessert, and notes as posted on the menu.
-END:VEVENT
-BEGIN:VEVENT
-UID:20260402-rocky-lunch@linq
-DTSTAMP:20260206T045449Z
-DTSTART;VALUE=DATE:20260402
-SUMMARY:Chicken Noodle Soup (Elementary) | Mozzarella Breadsticks | Ham and Cheese Melt
-DESCRIPTION:See LINQ Connect for sides, vegetables, fruit, milk, condiments, dessert, and notes as posted on the menu.
-END:VEVENT
-BEGIN:VEVENT
-UID:20260403-rocky-lunch@linq
-DTSTAMP:20260206T045449Z
-DTSTART;VALUE=DATE:20260403
-SUMMARY:Cheese Pizza Dippers | Pepperoni Pizza Dippers | Turkey & Cheese Snack Pack; Grape Uncrustables
-DESCRIPTION:See LINQ Connect for sides, vegetables, fruit, milk, condiments, dessert, and notes as posted on the menu.
-END:VEVENT
-BEGIN:VEVENT
-UID:20260413-rocky-lunch@linq
-DTSTAMP:20260206T045449Z
-DTSTART;VALUE=DATE:20260413
-SUMMARY:Orange Chicken | Hamburger on a Bun
-DESCRIPTION:See LINQ Connect for sides, vegetables, fruit, milk, condiments, dessert, and notes as posted on the menu.
-END:VEVENT
-BEGIN:VEVENT
-UID:20260414-rocky-lunch@linq
-DTSTAMP:20260206T045449Z
-DTSTART;VALUE=DATE:20260414
-SUMMARY:Sloppy Joe on a Bun | Crispy Chicken Sandwich | Spicy Chicken Sandwich
-DESCRIPTION:See LINQ Connect for sides, vegetables, fruit, milk, condiments, dessert, and notes as posted on the menu.
-END:VEVENT
-BEGIN:VEVENT
-UID:20260415-rocky-lunch@linq
-DTSTAMP:20260206T045449Z
-DTSTART;VALUE=DATE:20260415
-SUMMARY:Mini Calzones | Mini Corndogs
-DESCRIPTION:See LINQ Connect for sides, vegetables, fruit, milk, condiments, dessert, and notes as posted on the menu.
-END:VEVENT
-BEGIN:VEVENT
-UID:20260416-rocky-lunch@linq
-DTSTAMP:20260206T045449Z
-DTSTART;VALUE=DATE:20260416
-SUMMARY:Alpine Chicken Bowl (Elementary) | Hot Dog on a Bun
-DESCRIPTION:See LINQ Connect for sides, vegetables, fruit, milk, condiments, dessert, and notes as posted on the menu.
-END:VEVENT
-BEGIN:VEVENT
-UID:20260417-rocky-lunch@linq
-DTSTAMP:20260206T045449Z
-DTSTART;VALUE=DATE:20260417
-SUMMARY:Big Daddy's Cheese Pizza | Big Daddy's Pepperoni Pizza | Turkey Ham & Cheese Any’timers; Uncrustables Honey
-DESCRIPTION:See LINQ Connect for sides, vegetables, fruit, milk, condiments, dessert, and notes as posted on the menu.
-END:VEVENT
-BEGIN:VEVENT
-UID:20260420-rocky-lunch@linq
-DTSTAMP:20260206T045449Z
-DTSTART;VALUE=DATE:20260420
-SUMMARY:Confetti Mini Pancakes | Hamburger on a Bun
-DESCRIPTION:See LINQ Connect for sides, vegetables, fruit, milk, condiments, dessert, and notes as posted on the menu.
-END:VEVENT
-BEGIN:VEVENT
-UID:20260421-rocky-lunch@linq
-DTSTAMP:20260206T045449Z
-DTSTART;VALUE=DATE:20260421
-SUMMARY:Nachos (Chips & Cheese) | Crispy Chicken Sandwich | Spicy Chicken Sandwich
-DESCRIPTION:See LINQ Connect for sides, vegetables, fruit, milk, condiments, dessert, and notes as posted on the menu.
-END:VEVENT
-BEGIN:VEVENT
-UID:20260422-rocky-lunch@linq
-DTSTAMP:20260206T045449Z
-DTSTART;VALUE=DATE:20260422
-SUMMARY:Rib Sandwich | Chicken Corn Dog
-DESCRIPTION:See LINQ Connect for sides, vegetables, fruit, milk, condiments, dessert, and notes as posted on the menu.
-END:VEVENT
-BEGIN:VEVENT
-UID:20260423-rocky-lunch@linq
-DTSTAMP:20260206T045449Z
-DTSTART;VALUE=DATE:20260423
-SUMMARY:Ham and Cheese Melt | Turkey Roast Sliced
-DESCRIPTION:See LINQ Connect for sides, vegetables, fruit, milk, condiments, dessert, and notes as posted on the menu.
-END:VEVENT
-BEGIN:VEVENT
-UID:20260424-rocky-lunch@linq
-DTSTAMP:20260206T045449Z
-DTSTART;VALUE=DATE:20260424
-SUMMARY:Cheese Pizza Dippers | Pepperoni Pizza Dippers | Turkey & Cheese Snack Pack; Grape Uncrustables
-DESCRIPTION:See LINQ Connect for sides, vegetables, fruit, milk, condiments, dessert, and notes as posted on the menu.
-END:VEVENT
-BEGIN:VEVENT
-UID:20260427-rocky-lunch@linq
-DTSTAMP:20260206T045449Z
-DTSTART;VALUE=DATE:20260427
-SUMMARY:Hamburger on a Bun | Sweet & Sour Chicken Recipe
-DESCRIPTION:See LINQ Connect for sides, vegetables, fruit, milk, condiments, dessert, and notes as posted on the menu.
-END:VEVENT
-BEGIN:VEVENT
-UID:20260428-rocky-lunch@linq
-DTSTAMP:20260206T045449Z
-DTSTART;VALUE=DATE:20260428
-SUMMARY:Spaghetti Meat Sauce | Spicy Chicken Sandwich | Crispy Chicken Sandwich
-DESCRIPTION:See LINQ Connect for sides, vegetables, fruit, milk, condiments, dessert, and notes as posted on the menu.
-END:VEVENT
-BEGIN:VEVENT
-UID:20260429-rocky-lunch@linq
-DTSTAMP:20260206T045449Z
-DTSTART;VALUE=DATE:20260429
-SUMMARY:Chicken Corn Dog | Scrambled Eggs
-DESCRIPTION:See LINQ Connect for sides, vegetables, fruit, milk, condiments, dessert, and notes as posted on the menu.
-END:VEVENT
-BEGIN:VEVENT
-UID:20260430-rocky-lunch@linq
-DTSTAMP:20260206T045449Z
-DTSTART;VALUE=DATE:20260430
-SUMMARY:Taco Soup | Hot Dog on a Bun
-DESCRIPTION:See LINQ Connect for sides, vegetables, fruit, milk, condiments, dessert, and notes as posted on the menu.
-END:VEVENT
-BEGIN:VEVENT
-UID:20260501-rocky-lunch@linq
-DTSTAMP:20260206T045449Z
-DTSTART;VALUE=DATE:20260501
-SUMMARY:Mozzarella Breadsticks | Turkey Ham & Cheese Any’timers | Uncrustables Strawberry
-DESCRIPTION:See LINQ Connect for sides, vegetables, fruit, milk, condiments, dessert, and notes as posted on the menu.
-END:VEVENT
-BEGIN:VEVENT
-UID:20260504-rocky-lunch@linq
-DTSTAMP:20260206T045449Z
-DTSTART;VALUE=DATE:20260504
-SUMMARY:Teriyaki Chicken Recipe | Hamburger on a Bun
-DESCRIPTION:See LINQ Connect for sides, vegetables, fruit, milk, condiments, dessert, and notes as posted on the menu.
-END:VEVENT
-BEGIN:VEVENT
-UID:20260505-rocky-lunch@linq
-DTSTAMP:20260206T045449Z
-DTSTART;VALUE=DATE:20260505
-SUMMARY:Beef Soft Tacos | Spicy Chicken Sandwich | Crispy Chicken Sandwich
-DESCRIPTION:See LINQ Connect for sides, vegetables, fruit, milk, condiments, dessert, and notes as posted on the menu.
-END:VEVENT
-BEGIN:VEVENT
-UID:20260506-rocky-lunch@linq
-DTSTAMP:20260206T045449Z
-DTSTART;VALUE=DATE:20260506
-SUMMARY:Mini Calzones | Mini Corndogs
-DESCRIPTION:See LINQ Connect for sides, vegetables, fruit, milk, condiments, dessert, and notes as posted on the menu.
-END:VEVENT
-BEGIN:VEVENT
-UID:20260507-rocky-lunch@linq
-DTSTAMP:20260206T045449Z
-DTSTART;VALUE=DATE:20260507
-SUMMARY:Chicken Drumstick | Hot Dog on a Bun
-DESCRIPTION:See LINQ Connect for sides, vegetables, fruit, milk, condiments, dessert, and notes as posted on the menu.
-END:VEVENT
-BEGIN:VEVENT
-UID:20260508-rocky-lunch@linq
-DTSTAMP:20260206T045449Z
-DTSTART;VALUE=DATE:20260508
-SUMMARY:Big Daddy's Cheese Pizza | Big Daddy's Pepperoni Pizza | Uncrustables Strawberry; Turkey Ham & Cheese Any’timers
-DESCRIPTION:See LINQ Connect for sides, vegetables, fruit, milk, condiments, dessert, and notes as posted on the menu.
-END:VEVENT
-BEGIN:VEVENT
-UID:20260511-rocky-lunch@linq
-DTSTAMP:20260206T045449Z
-DTSTART;VALUE=DATE:20260511
-SUMMARY:French Toast Sticks | Hamburger on a Bun
-DESCRIPTION:See LINQ Connect for sides, vegetables, fruit, milk, condiments, dessert, and notes as posted on the menu.
-END:VEVENT
-BEGIN:VEVENT
-UID:20260512-rocky-lunch@linq
-DTSTAMP:20260206T045449Z
-DTSTART;VALUE=DATE:20260512
-SUMMARY:Macaroni & Cheese (non-WG) | Spicy Chicken Sandwich | Crispy Chicken Sandwich
-DESCRIPTION:See LINQ Connect for sides, vegetables, fruit, milk, condiments, dessert, and notes as posted on the menu.
-END:VEVENT
-BEGIN:VEVENT
-UID:20260513-rocky-lunch@linq
-DTSTAMP:20260206T045449Z
-DTSTART;VALUE=DATE:20260513
-SUMMARY:Chicken Nuggets | Chicken Corn Dog
-DESCRIPTION:See LINQ Connect for sides, vegetables, fruit, milk, condiments, dessert, and notes as posted on the menu.
-END:VEVENT
-BEGIN:VEVENT
-UID:20260514-rocky-lunch@linq
-DTSTAMP:20260206T045449Z
-DTSTART;VALUE=DATE:20260514
-SUMMARY:Chicken Noodle Soup (Elementary) | Mozzarella Breadsticks | Ham and Cheese Melt
-DESCRIPTION:See LINQ Connect for sides, vegetables, fruit, milk, condiments, dessert, and notes as posted on the menu.
-END:VEVENT
-BEGIN:VEVENT
-UID:20260515-rocky-lunch@linq
-DTSTAMP:20260206T045449Z
-DTSTART;VALUE=DATE:20260515
-SUMMARY:Cheese Pizza Dippers | Pepperoni Pizza Dippers | Turkey & Cheese Snack Pack; Grape Uncrustables
-DESCRIPTION:See LINQ Connect for sides, vegetables, fruit, milk, condiments, dessert, and notes as posted on the menu.
-END:VEVENT
-BEGIN:VEVENT
-UID:20260518-rocky-lunch@linq
-DTSTAMP:20260206T045449Z
-DTSTART;VALUE=DATE:20260518
-SUMMARY:Orange Chicken | Hamburger on a Bun
-DESCRIPTION:See LINQ Connect for sides, vegetables, fruit, milk, condiments, dessert, and notes as posted on the menu.
-END:VEVENT
-BEGIN:VEVENT
-UID:20260519-rocky-lunch@linq
-DTSTAMP:20260206T045449Z
-DTSTART;VALUE=DATE:20260519
-SUMMARY:Sloppy Joe on a Bun | Crispy Chicken Sandwich | Spicy Chicken Sandwich
-DESCRIPTION:See LINQ Connect for sides, vegetables, fruit, milk, condiments, dessert, and notes as posted on the menu.
-END:VEVENT
-BEGIN:VEVENT
-UID:20260520-rocky-lunch@linq
-DTSTAMP:20260206T045449Z
-DTSTART;VALUE=DATE:20260520
-SUMMARY:Mini Calzones | Mini Corndogs
-DESCRIPTION:See LINQ Connect for sides, vegetables, fruit, milk, condiments, dessert, and notes as posted on the menu.
-END:VEVENT
-BEGIN:VEVENT
-UID:20260521-rocky-lunch@linq
-DTSTAMP:20260206T045449Z
-DTSTART;VALUE=DATE:20260521
-SUMMARY:Alpine Chicken Bowl (Elementary) | Hot Dog on a Bun
-DESCRIPTION:See LINQ Connect for sides, vegetables, fruit, milk, condiments, dessert, and notes as posted on the menu.
-END:VEVENT
-BEGIN:VEVENT
-UID:20260522-rocky-lunch@linq
-DTSTAMP:20260206T045449Z
-DTSTART;VALUE=DATE:20260522
-SUMMARY:Big Daddy's Cheese Pizza | Big Daddy's Pepperoni Pizza | Turkey Ham & Cheese Any’timers; Uncrustables Honey
-DESCRIPTION:See LINQ Connect for sides, vegetables, fruit, milk, condiments, dessert, and notes as posted on the menu.
+UID:20260819-rme-lunch@linq
+DTSTAMP:20260819T000000Z
+DTSTART;VALUE=DATE:20260819
+DTEND;VALUE=DATE:20260820
+SUMMARY:Chicken Nuggets| Chicken Corn Dog| Grape Uncrustables
+DESCRIPTION:See LINQ Connect for sides\, fruit\, milk\, and condiments.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20260820-rme-lunch@linq
+DTSTAMP:20260820T000000Z
+DTSTART;VALUE=DATE:20260820
+DTEND;VALUE=DATE:20260821
+SUMMARY:Taco Soup| Deli Sandwich (Ham & Turkey)| Grape Uncrustables
+DESCRIPTION:See LINQ Connect for sides\, fruit\, milk\, and condiments.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20260821-rme-lunch@linq
+DTSTAMP:20260821T000000Z
+DTSTART;VALUE=DATE:20260821
+DTEND;VALUE=DATE:20260822
+SUMMARY:Big Daddy's Cheese Pizza| Big Daddy's Pepperoni Pizza| Snack Wrap| 
+ Grape Uncrustables
+DESCRIPTION:See LINQ Connect for sides\, fruit\, milk\, and condiments.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20260824-rme-lunch@linq
+DTSTAMP:20260824T000000Z
+DTSTART;VALUE=DATE:20260824
+DTEND;VALUE=DATE:20260825
+SUMMARY:French Toast Sticks| Hamburger on a Bun| Uncrustables Strawberry
+DESCRIPTION:See LINQ Connect for sides\, fruit\, milk\, and condiments.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20260825-rme-lunch@linq
+DTSTAMP:20260825T000000Z
+DTSTART;VALUE=DATE:20260825
+DTEND;VALUE=DATE:20260826
+SUMMARY:Beef Soft Tacos| Hot Dog on a Bun| Uncrustables Strawberry
+DESCRIPTION:See LINQ Connect for sides\, fruit\, milk\, and condiments.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20260826-rme-lunch@linq
+DTSTAMP:20260826T000000Z
+DTSTART;VALUE=DATE:20260826
+DTEND;VALUE=DATE:20260827
+SUMMARY:Mini Calzones| Crispy Chicken Sandwich| Gold Creek Spicy Chicken Sa
+ ndwich| Uncrustables Strawberry
+DESCRIPTION:See LINQ Connect for sides\, fruit\, milk\, and condiments.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20260827-rme-lunch@linq
+DTSTAMP:20260827T000000Z
+DTSTART;VALUE=DATE:20260827
+DTEND;VALUE=DATE:20260828
+SUMMARY:Alpine Chicken Bowl (Elementary)| Ham and Cheese Melt| Uncrustables
+  Strawberry
+DESCRIPTION:See LINQ Connect for sides\, fruit\, milk\, and condiments.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20260828-rme-lunch@linq
+DTSTAMP:20260828T000000Z
+DTSTART;VALUE=DATE:20260828
+DTEND;VALUE=DATE:20260829
+SUMMARY:Cheese Pizza Dippers| Pepperoni Pizza Dippers| Mini Corndogs| Uncru
+ stables Strawberry
+DESCRIPTION:See LINQ Connect for sides\, fruit\, milk\, and condiments.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20260831-rme-lunch@linq
+DTSTAMP:20260831T000000Z
+DTSTART;VALUE=DATE:20260831
+DTEND;VALUE=DATE:20260901
+SUMMARY:Orange Chicken| Hot Dog on a Bun| Grape Uncrustables
+DESCRIPTION:See LINQ Connect for sides\, fruit\, milk\, and condiments.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20260901-rme-lunch@linq
+DTSTAMP:20260901T000000Z
+DTSTART;VALUE=DATE:20260901
+DTEND;VALUE=DATE:20260902
+SUMMARY:Nachos (Chips & Cheese)| Gold Creek Chicken Sandwich| Gold Creek Sp
+ icy Chicken Sandwich| Grape Uncrustables
+DESCRIPTION:See LINQ Connect for sides\, fruit\, milk\, and condiments.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20260902-rme-lunch@linq
+DTSTAMP:20260902T000000Z
+DTSTART;VALUE=DATE:20260902
+DTEND;VALUE=DATE:20260903
+SUMMARY:Mozzarella Breadsticks| Mini Corndogs| Grape Uncrustables
+DESCRIPTION:See LINQ Connect for sides\, fruit\, milk\, and condiments.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20260903-rme-lunch@linq
+DTSTAMP:20260903T000000Z
+DTSTART;VALUE=DATE:20260903
+DTEND;VALUE=DATE:20260904
+SUMMARY:Chicken Noodle Soup (Elementary)| Hamburger on a Bun| Grape Uncrust
+ ables
+DESCRIPTION:See LINQ Connect for sides\, fruit\, milk\, and condiments.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20260904-rme-lunch@linq
+DTSTAMP:20260904T000000Z
+DTSTART;VALUE=DATE:20260904
+DTEND;VALUE=DATE:20260905
+SUMMARY:Big Daddy's Cheese Pizza| Big Daddy's Pepperoni Pizza| Deli Sandwic
+ h (Ham & Turkey)| Grape Uncrustables
+DESCRIPTION:See LINQ Connect for sides\, fruit\, milk\, and condiments.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20260908-rme-lunch@linq
+DTSTAMP:20260908T000000Z
+DTSTART;VALUE=DATE:20260908
+DTEND;VALUE=DATE:20260909
+SUMMARY:Confetti Mini Pancakes| Hamburger on a Bun| Uncrustables Strawberry
+DESCRIPTION:See LINQ Connect for sides\, fruit\, milk\, and condiments.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20260909-rme-lunch@linq
+DTSTAMP:20260909T000000Z
+DTSTART;VALUE=DATE:20260909
+DTEND;VALUE=DATE:20260910
+SUMMARY:Rib Sandwich| Snack Wrap| Uncrustables Strawberry
+DESCRIPTION:See LINQ Connect for sides\, fruit\, milk\, and condiments.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20260910-rme-lunch@linq
+DTSTAMP:20260910T000000Z
+DTSTART;VALUE=DATE:20260910
+DTEND;VALUE=DATE:20260911
+SUMMARY:Beef Country Fried Steak| Ham and Cheese Melt| Uncrustables Strawbe
+ rry
+DESCRIPTION:See LINQ Connect for sides\, fruit\, milk\, and condiments.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20260911-rme-lunch@linq
+DTSTAMP:20260911T000000Z
+DTSTART;VALUE=DATE:20260911
+DTEND;VALUE=DATE:20260912
+SUMMARY:Cheese Pizza Dippers| Pepperoni Pizza Dippers| Gold Creek Chicken S
+ andwich| Gold Creek Spicy Chicken Sandwich| Uncrustables Strawberry
+DESCRIPTION:See LINQ Connect for sides\, fruit\, milk\, and condiments.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20260914-rme-lunch@linq
+DTSTAMP:20260914T000000Z
+DTSTART;VALUE=DATE:20260914
+DTEND;VALUE=DATE:20260915
+SUMMARY:Sweet & Sour Chicken Recipe| Hamburger on a Bun| Grape Uncrustables
+DESCRIPTION:See LINQ Connect for sides\, fruit\, milk\, and condiments.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20260915-rme-lunch@linq
+DTSTAMP:20260915T000000Z
+DTSTART;VALUE=DATE:20260915
+DTEND;VALUE=DATE:20260916
+SUMMARY:Sloppy Joe on a Bun| Mini Corndogs| Grape Uncrustables
+DESCRIPTION:See LINQ Connect for sides\, fruit\, milk\, and condiments.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20260916-rme-lunch@linq
+DTSTAMP:20260916T000000Z
+DTSTART;VALUE=DATE:20260916
+DTEND;VALUE=DATE:20260917
+SUMMARY:Spaghetti Meat Sauce| Gold Creek Chicken Sandwich| Gold Creek Spicy
+  Chicken Sandwich| Grape Uncrustables
+DESCRIPTION:See LINQ Connect for sides\, fruit\, milk\, and condiments.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20260917-rme-lunch@linq
+DTSTAMP:20260917T000000Z
+DTSTART;VALUE=DATE:20260917
+DTEND;VALUE=DATE:20260918
+SUMMARY:Chicken Drumstick Gold Creek| Deli Sandwich (Ham & Turkey)| Grape U
+ ncrustables
+DESCRIPTION:See LINQ Connect for sides\, fruit\, milk\, and condiments.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20260918-rme-lunch@linq
+DTSTAMP:20260918T000000Z
+DTSTART;VALUE=DATE:20260918
+DTEND;VALUE=DATE:20260919
+SUMMARY:Mini Calzones| Hot Dog on a Bun| Grape Uncrustables
+DESCRIPTION:See LINQ Connect for sides\, fruit\, milk\, and condiments.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20260921-rme-lunch@linq
+DTSTAMP:20260921T000000Z
+DTSTART;VALUE=DATE:20260921
+DTEND;VALUE=DATE:20260922
+SUMMARY:Teriyaki Chicken Recipe| Hamburger on a Bun| Grape Uncrustables
+DESCRIPTION:See LINQ Connect for sides\, fruit\, milk\, and condiments.
+TRANSP:TRANSPARENT
 END:VEVENT
 END:VCALENDAR
