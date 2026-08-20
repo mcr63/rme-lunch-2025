@@ -15,9 +15,9 @@ jobs:
   update:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v5
 
-      - uses: actions/setup-python@v5
+      - uses: actions/setup-python@v6
         with:
           python-version: "3.12"
 
@@ -28,6 +28,9 @@ jobs:
         env:
           ICS_PATH: RME-Lunch.ics
           CAL_NAME: Rocky Mountain Lunch (RME)
+          # If the LINQ WAF blocks the runner's IP (symptom: every chunk 403s),
+          # set a LINQ_PROXY repo secret pointing at an egress it accepts.
+          LINQ_PROXY: ${{ secrets.LINQ_PROXY }}
           # Override these to point at a different school:
           # LINQ_DISTRICT_ID: ...
           # LINQ_BUILDING_ID: ...
