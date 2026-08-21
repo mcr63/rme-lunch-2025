@@ -1,11 +1,24 @@
 # .github/workflows/lunch-menu.yml
 name: Update lunch menu calendar
 
+# DISABLED on a schedule -- this job cannot work on GitHub-hosted runners.
+#
+# LINQ's load balancer (Server: awselb/2.0) returns a bare 403 Forbidden to
+# GitHub's Azure IP ranges before the request ever reaches their application.
+# It is an IP-level deny, not a bot check: the identical request with a
+# byte-accurate Chrome header set was refused on all 28 attempts, while the
+# same request from a home network returns 200 with real menu data.
+#
+# The menu is now refreshed by a launchd job on the Mac mini, which pushes
+# straight to main:
+#   ~/.rme-lunch/update-lunch.sh   (installed by install-rme-lunch.sh)
+#   launchctl list | grep com.mcr63.rme-lunch
+#
+# workflow_dispatch is kept so this can still be run by hand -- useful for
+# re-testing whether LINQ has since unblocked the runner ranges.
 on:
-  schedule:
-    # 12:15 UTC = 6:15 AM Mountain (daylight). Cron is UTC year-round,
-    # so this drifts to 5:15 AM in winter, which is fine for a menu.
-    - cron: "15 12 * * 1-5"
+  # schedule:
+  #   - cron: "15 12 * * 1-5"
   workflow_dispatch: {}
 
 permissions:
