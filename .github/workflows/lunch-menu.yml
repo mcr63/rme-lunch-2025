@@ -1,24 +1,11 @@
-# .github/workflows/lunch-menu.yml
+# Schedule removed — the LINQ Connect API blocks GitHub-hosted runner IPs.
+# The script is now run locally by scripts/run_and_push.sh via launchd
+# (~/Library/LaunchAgents/com.mattrobertson.rme-lunch.plist) on weekdays at 6:15 AM.
+# Keep workflow_dispatch so a manual trigger from the Actions tab still works
+# when run from a non-blocked environment.
 name: Update lunch menu calendar
 
-# DISABLED on a schedule -- this job cannot work on GitHub-hosted runners.
-#
-# LINQ's load balancer (Server: awselb/2.0) returns a bare 403 Forbidden to
-# GitHub's Azure IP ranges before the request ever reaches their application.
-# It is an IP-level deny, not a bot check: the identical request with a
-# byte-accurate Chrome header set was refused on all 28 attempts, while the
-# same request from a home network returns 200 with real menu data.
-#
-# The menu is now refreshed by a launchd job on the Mac mini, which pushes
-# straight to main:
-#   ~/.rme-lunch/update-lunch.sh   (installed by install-rme-lunch.sh)
-#   launchctl list | grep com.mcr63.rme-lunch
-#
-# workflow_dispatch is kept so this can still be run by hand -- useful for
-# re-testing whether LINQ has since unblocked the runner ranges.
 on:
-  # schedule:
-  #   - cron: "15 12 * * 1-5"
   workflow_dispatch: {}
 
 permissions:
@@ -28,9 +15,9 @@ jobs:
   update:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v5
+      - uses: actions/checkout@v4
 
-      - uses: actions/setup-python@v6
+      - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
 
@@ -41,12 +28,6 @@ jobs:
         env:
           ICS_PATH: RME-Lunch.ics
           CAL_NAME: Rocky Mountain Lunch (RME)
-          # If the LINQ WAF blocks the runner's IP (symptom: every chunk 403s),
-          # set a LINQ_PROXY repo secret pointing at an egress it accepts.
-          LINQ_PROXY: ${{ secrets.LINQ_PROXY }}
-          # Override these to point at a different school:
-          # LINQ_DISTRICT_ID: ...
-          # LINQ_BUILDING_ID: ...
 
       - name: Commit if changed
         run: |
