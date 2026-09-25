@@ -6,21 +6,6 @@ METHOD:PUBLISH
 X-WR-CALNAME:Rocky Mountain Lunch (RME)
 X-WR-TIMEZONE:America/Denver
 BEGIN:VEVENT
-UID:20260917-rme-lunch@linq
-DTSTAMP:20260917T000000Z
-DTSTART;VALUE=DATE:20260917
-DTEND;VALUE=DATE:20260918
-SUMMARY:Chicken Drumstick Gold Creek| Deli Sandwich (Ham & Turkey)| Grape U
- ncrustables| GF Deli Sandwich (Ham & Turkey)
-DESCRIPTION:Side: LS GF Chicken Gravy Mix\, Homemade Roll\, String Cheese\n
- Vegetable: Mashed Potatoes\, Colorful Carrots\, Vegetable Bag (Broc/Cuc/Ce
- l)\, Side Salad\, Bagged Baby Carrots\nFruit: Plum\, Strawberry Applesauce
- \nMilk: 1% White Milk\, Fat Free Chocolate Milk\nCondiments: Jelly Packets
- \, Ranch Cups\, Lettuce\, Shredded\, Pickle Dill Chips\, Mayo\, Mustard Pa
- cket
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:20260918-rme-lunch@linq
 DTSTAMP:20260918T000000Z
 DTSTART;VALUE=DATE:20260918
@@ -83,10 +68,11 @@ DTSTART;VALUE=DATE:20260924
 DTEND;VALUE=DATE:20260925
 SUMMARY:Taco Soup| Deli Sandwich (Ham & Turkey)| Grape Uncrustables
 DESCRIPTION:Side: Doritos Cool Ranch Chips\, Baked Scoops Chips\, String Ch
- eese\nVegetable: Fresh Veggie Bag (Cuc/Tom/Car)\, Green Beans\nFruit: Kiwi
- \, Mandarin Oranges\nMilk: 1% White Milk\, Fat Free Chocolate Milk\nCondim
- ents: Sour Cream Packets\, Shredded Cheddar Cheese\, Sauce Taco IW Packets
- \, Mayo\, Mustard Packet\, Lettuce\, Shredded\, Pickle Dill Chips
+ eese\, Doritos Nacho Cheese Chips\nVegetable: Fresh Veggie Bag (Cuc/Tom/Ca
+ r)\, Green Beans\, Side Salad\nFruit: Mandarin Oranges\, Banana\, Plum\nMi
+ lk: 1% White Milk\, Fat Free Chocolate Milk\nCondiments: Sour Cream Packet
+ s\, Shredded Cheddar Cheese\, Sauce Taco IW Packets\, Mayo\, Mustard Packe
+ t\, Lettuce\, Shredded\, Pickle Dill Chips\, Ranch Cups
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -95,11 +81,12 @@ DTSTAMP:20260925T000000Z
 DTSTART;VALUE=DATE:20260925
 DTEND;VALUE=DATE:20260926
 SUMMARY:Big Daddy's Cheese Pizza| Big Daddy's Pepperoni Pizza| Snack Wrap| 
- Grape Uncrustables
+ Grape Uncrustables| Deli Sandwich (Ham & Turkey)
 DESCRIPTION:Side: String Cheese\, Bug Bites Grahams Crackers\nVegetable: Ba
- gged Baby Carrots\, Baked Beans\nFruit: Apple Crunchables\, Plum\nMilk: 1%
-  White Milk\, Fat Free Chocolate Milk\nCondiments: Ranch Cups\, Sauce BBQ 
- Cup\, Lettuce\, Shredded\, Shredded Cheddar Cheese\nOther: GF Pizza Pocket
+ gged Baby Carrots\, Baked Beans\, Fresh Veggie Bag (Cuc/Tom/Car)\nFruit: A
+ pple Crunchables\, Plum\nMilk: 1% White Milk\, Fat Free Chocolate Milk\nCo
+ ndiments: Ranch Cups\, Sauce BBQ Cup\, Lettuce\, Shredded\, Shredded Chedd
+ ar Cheese\nOther: GF Pizza Pocket
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -203,9 +190,10 @@ DTSTAMP:20261007T000000Z
 DTSTART;VALUE=DATE:20261007
 DTEND;VALUE=DATE:20261008
 SUMMARY:Chicken Corn Dog| Chicken Large Popcorn WG Dark| Grape Uncrustables
-DESCRIPTION:Vegetable: Potato Seasoned Twister Fries\, Fresh Veggie Bag (Cu
- c/Tom/Car)\nFruit: Fresh Fruit Assortment\, Canned Fruit\nMilk: 1% White M
- ilk\, Fat Free Chocolate Milk\nCondiments: Ketchup Packet\, Fry Sauce
+DESCRIPTION:Side: String Cheese\nVegetable: Potato Seasoned Twister Fries\,
+  Fresh Veggie Bag (Cuc/Tom/Car)\nFruit: Fresh Fruit Assortment\, Canned Fr
+ uit\nMilk: 1% White Milk\, Fat Free Chocolate Milk\nCondiments: Ketchup Pa
+ cket\, Fry Sauce
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -227,10 +215,9 @@ DTSTART;VALUE=DATE:20261009
 DTEND;VALUE=DATE:20261010
 SUMMARY:Pizza Big Daddy Four Meat| Big Daddy's Cheese Pizza| Big Daddy's Pe
  pperoni Pizza| Mini Corndogs| Grape Uncrustables
-DESCRIPTION:Side: String Cheese\nVegetable: Steamed Peas\, Vegetable Bag (B
- roc/Cuc/Cel)\nFruit: Fresh Fruit Assortment\, Apple Crunchables\nMilk: 1% 
- White Milk\, Fat Free Chocolate Milk\nCondiments: Ketchup Packet\nDessert:
-  Churro Bites
+DESCRIPTION:Vegetable: Steamed Peas\, Vegetable Bag (Broc/Cuc/Cel)\nFruit: 
+ Fresh Fruit Assortment\, Apple Crunchables\nMilk: 1% White Milk\, Fat Free
+  Chocolate Milk\nCondiments: Ketchup Packet\nDessert: Churro Bites
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -368,6 +355,19 @@ DESCRIPTION:Side: Doritos Cool Ranch Chips\, Baked Scoops Chips\, String Ch
  eese\nVegetable: Fresh Veggie Bag (Cuc/Tom/Car)\, Green Beans\nFruit: Cann
  ed Fruit\, Fresh Fruit Assortment\nMilk: 1% White Milk\, Fat Free Chocolat
  e Milk\nCondiments: Sour Cream Packets\, Shredded Cheddar Cheese
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20261030-rme-lunch@linq
+DTSTAMP:20261030T000000Z
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261031
+SUMMARY:Big Daddy's Cheese Pizza| Big Daddy's Pepperoni Pizza| Snack Wrap| 
+ Grape Uncrustables
+DESCRIPTION:Side: String Cheese\nVegetable: Bagged Baby Carrots\, Baked Bea
+ ns\nFruit: Fresh Fruit Assortment\, Apple Crunchables\nMilk: 1% White Milk
+ \, Fat Free Chocolate Milk\nCondiments: Ranch Cups\, Sauce BBQ Cup\, Lettu
+ ce\, Shredded\nDessert: Cookie Holiday
 TRANSP:TRANSPARENT
 END:VEVENT
 END:VCALENDAR
