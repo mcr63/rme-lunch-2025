@@ -6,20 +6,6 @@ METHOD:PUBLISH
 X-WR-CALNAME:Rocky Mountain Lunch (RME)
 X-WR-TIMEZONE:America/Denver
 BEGIN:VEVENT
-UID:20260918-rme-lunch@linq
-DTSTAMP:20260918T000000Z
-DTSTART;VALUE=DATE:20260918
-DTEND;VALUE=DATE:20260919
-SUMMARY:Mini Calzones| Hot Dog on a Bun| Grape Uncrustables| Deli Sandwich 
- (Ham & Turkey)
-DESCRIPTION:Side: String Cheese\, Doritos Cool Ranch Chips\nVegetable: Mari
- nara Sauce\, Baked Beans\, Vegetable Bag (Broc/Cuc/Cel)\nFruit: Apples Sli
- ced Bags\, Plum\, Strawberry Applesauce\nMilk: 1% White Milk\, Fat Free Ch
- ocolate Milk\nCondiments: Mustard Packet\, Ketchup Packet\, Mayo\, Ranch C
- ups\nOther: GF Pizza Pocket
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:20260921-rme-lunch@linq
 DTSTAMP:20260921T000000Z
 DTSTART;VALUE=DATE:20260921
@@ -84,9 +70,9 @@ SUMMARY:Big Daddy's Cheese Pizza| Big Daddy's Pepperoni Pizza| Snack Wrap|
  Grape Uncrustables| Deli Sandwich (Ham & Turkey)
 DESCRIPTION:Side: String Cheese\, Bug Bites Grahams Crackers\nVegetable: Ba
  gged Baby Carrots\, Baked Beans\, Fresh Veggie Bag (Cuc/Tom/Car)\nFruit: A
- pple Crunchables\, Plum\nMilk: 1% White Milk\, Fat Free Chocolate Milk\nCo
- ndiments: Ranch Cups\, Sauce BBQ Cup\, Lettuce\, Shredded\, Shredded Chedd
- ar Cheese\nOther: GF Pizza Pocket
+ pple Crunchables\, Plum\, Banana\nMilk: 1% White Milk\, Fat Free Chocolate
+  Milk\nCondiments: Ranch Cups\, Sauce BBQ Cup\, Lettuce\, Shredded\, Shred
+ ded Cheddar Cheese\nOther: GF Pizza Pocket
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -189,11 +175,12 @@ UID:20261007-rme-lunch@linq
 DTSTAMP:20261007T000000Z
 DTSTART;VALUE=DATE:20261007
 DTEND;VALUE=DATE:20261008
-SUMMARY:Chicken Corn Dog| Chicken Large Popcorn WG Dark| Grape Uncrustables
+SUMMARY:Chicken Corn Dog| Popcorn Chicken Gold Creek| Grape Uncrustables
 DESCRIPTION:Side: String Cheese\nVegetable: Potato Seasoned Twister Fries\,
-  Fresh Veggie Bag (Cuc/Tom/Car)\nFruit: Fresh Fruit Assortment\, Canned Fr
- uit\nMilk: 1% White Milk\, Fat Free Chocolate Milk\nCondiments: Ketchup Pa
- cket\, Fry Sauce
+  Fresh Veggie Bag (Cuc/Tom/Car)\nFruit: Kiwi\, Mandarin Oranges\nMilk: 1% 
+ White Milk\, Fat Free Chocolate Milk\nCondiments: Ketchup Packet\, Fry Sau
+ ce\, Sauce BBQ Cup\, Mustard Packet\, Ranch Cups\nOther: Chicken Nuggets G
+ F
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -203,9 +190,11 @@ DTSTART;VALUE=DATE:20261008
 DTEND;VALUE=DATE:20261009
 SUMMARY:Pretzel\, Soft\, WG| Grape Uncrustables| Hamburger on a Bun
 DESCRIPTION:Side: Sauce Cheddar Cheese\, Chili\, Turkey Meat\, Chex Mix Sim
- ply Cheddar\nVegetable: Green Beans\, Bagged Baby Carrots\nFruit: Fresh Fr
- uit Assortment\, Canned Fruit\nMilk: 1% White Milk\, Fat Free Chocolate Mi
- lk\nCondiments: Cheese American Sliced\, Ketchup Packet
+ ply Cheddar\nVegetable: Green Beans\, Fresh Veggie Bag (Cuc/Tom/Car)\nFrui
+ t: Clementines\, Pineapple Tidbits\nMilk: 1% White Milk\, Fat Free Chocola
+ te Milk\nCondiments: Cheese American Sliced\, Ketchup Packet\, Lettuce\, S
+ hredded\, Pickle Dill Chips\, Mustard Packet\, Mayo\nOther: Bun Hamburger 
+ GF
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -215,9 +204,10 @@ DTSTART;VALUE=DATE:20261009
 DTEND;VALUE=DATE:20261010
 SUMMARY:Pizza Big Daddy Four Meat| Big Daddy's Cheese Pizza| Big Daddy's Pe
  pperoni Pizza| Mini Corndogs| Grape Uncrustables
-DESCRIPTION:Vegetable: Steamed Peas\, Vegetable Bag (Broc/Cuc/Cel)\nFruit: 
- Fresh Fruit Assortment\, Apple Crunchables\nMilk: 1% White Milk\, Fat Free
-  Chocolate Milk\nCondiments: Ketchup Packet\nDessert: Churro Bites
+DESCRIPTION:Vegetable: Steamed Peas\, Bagged Baby Carrots\nFruit: Apple Cru
+ nchables\, Plum\nMilk: 1% White Milk\, Fat Free Chocolate Milk\nCondiments
+ : Ketchup Packet\, Mustard Packet\, Fry Sauce\, Ranch Cups\nDessert: Churr
+ o Bites\nOther: GF Pizza Pocket\, Cookie Choc Chip GF
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -228,9 +218,9 @@ DTEND;VALUE=DATE:20261013
 SUMMARY:Chicken Tenders Gold Creek| Chicken Corn Dog| Uncrustables Strawber
  ry
 DESCRIPTION:Side: String Cheese\nVegetable: Potato\, Tater Tot Ore Ida\, Si
- de Salad\nFruit: Fresh Fruit Assortment\, Canned Fruit\nMilk: 1% White Mil
- k\, Fat Free Chocolate Milk\nCondiments: Sauce BBQ Cup\, Ranch Cups\, Hone
- y Mustard
+ de Salad\nFruit: Peaches Sliced\, Grapes\nMilk: 1% White Milk\, Fat Free C
+ hocolate Milk\nCondiments: Sauce BBQ Cup\, Ranch Cups\, Honey Mustard\, Ke
+ tchup Packet\, Fry Sauce\nOther: Chicken Nuggets GF
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
