@@ -6,20 +6,6 @@ METHOD:PUBLISH
 X-WR-CALNAME:Rocky Mountain Lunch (RME)
 X-WR-TIMEZONE:America/Denver
 BEGIN:VEVENT
-UID:20260921-rme-lunch@linq
-DTSTAMP:20260921T000000Z
-DTSTART;VALUE=DATE:20260921
-DTEND;VALUE=DATE:20260922
-SUMMARY:Teriyaki Chicken Recipe| Hamburger on a Bun| Grape Uncrustables
-DESCRIPTION:Side: Rice\, Pot Stickers\nVegetable: Bagged Baby Carrots\, Ste
- amed Broccoli\, Vegetable Bag (Broc/Cuc/Cel)\nFruit: Pineapple Tidbits\, P
- lum\, Strawberry Applesauce\nMilk: 1% White Milk\, Fat Free Chocolate Milk
- \nCondiments: Teriyaki Sauce Minh\, Lettuce\, Shredded\, Pickle Dill Chips
- \, Mayo\, Mustard Packet\, Ketchup Packet\, Ranch Cups\nDessert: Chocolate
-  Creamie\nOther: Bun Hamburger GF
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:20260922-rme-lunch@linq
 DTSTAMP:20260922T000000Z
 DTSTART;VALUE=DATE:20260922
@@ -80,12 +66,14 @@ UID:20260928-rme-lunch@linq
 DTSTAMP:20260928T000000Z
 DTSTART;VALUE=DATE:20260928
 DTEND;VALUE=DATE:20260929
-SUMMARY:French Toast Sticks| Hamburger on a Bun| Uncrustables Strawberry
+SUMMARY:French Toast Sticks| Hamburger on a Bun| Uncrustables Strawberry| G
+ rape Uncrustables
 DESCRIPTION:Side: Egg Omelet w/ Cheese\, String Cheese\nVegetable: Potato S
- miles\, Bagged Baby Carrots\nFruit: Banana\, Mandarin Oranges\nMilk: 1% Wh
- ite Milk\, Fat Free Chocolate Milk\, Strawberry Milk Fat Free\nCondiments:
-  Cheese American Sliced\, Fry Sauce\, Ketchup Packet\, Syrup\, Lettuce\, S
- hredded\, Pickle Dill Chips\, Mustard Packet\nOther: Bun Hamburger GF
+ miles\, Bagged Baby Carrots\nFruit: Banana\, Mandarin Oranges\, Plum\, Cin
+ namon Applesauce\nMilk: 1% White Milk\, Fat Free Chocolate Milk\, Strawber
+ ry Milk Fat Free\nCondiments: Cheese American Sliced\, Fry Sauce\, Ketchup
+  Packet\, Syrup\, Lettuce\, Shredded\, Pickle Dill Chips\, Mustard Packet\
+ , Ranch Cups\nOther: Bun Hamburger GF
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
