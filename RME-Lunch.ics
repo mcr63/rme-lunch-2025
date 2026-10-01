@@ -6,19 +6,6 @@ METHOD:PUBLISH
 X-WR-CALNAME:Rocky Mountain Lunch (RME)
 X-WR-TIMEZONE:America/Denver
 BEGIN:VEVENT
-UID:20260923-rme-lunch@linq
-DTSTAMP:20260923T000000Z
-DTSTART;VALUE=DATE:20260923
-DTEND;VALUE=DATE:20260924
-SUMMARY:Chicken Tenders Gold Creek| Chicken Nuggets| Chicken Corn Dog| Grap
- e Uncrustables
-DESCRIPTION:Side: String Cheese\nVegetable: Potato Twister Fries\, Side Sal
- ad\nFruit: Cantaloupe\, Strawberry Dessert\, Plum\nMilk: 1% White Milk\, F
- at Free Chocolate Milk\nCondiments: Fry Sauce\, Ketchup Packet\, Ranch Cup
- s\, Mustard Packet\, Sauce BBQ Cup\nOther: Chicken Nuggets GF
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:20260924-rme-lunch@linq
 DTSTAMP:20260924T000000Z
 DTSTART;VALUE=DATE:20260924
@@ -37,8 +24,8 @@ UID:20260925-rme-lunch@linq
 DTSTAMP:20260925T000000Z
 DTSTART;VALUE=DATE:20260925
 DTEND;VALUE=DATE:20260926
-SUMMARY:Big Daddy's Cheese Pizza| Big Daddy's Pepperoni Pizza| Snack Wrap| 
- Grape Uncrustables| Deli Sandwich (Ham & Turkey)
+SUMMARY:Big Daddy's Cheese Pizza| Big Daddy's Pepperoni Pizza| Chicken Snac
+ k Wrap| Grape Uncrustables| Deli Sandwich (Ham & Turkey)
 DESCRIPTION:Side: String Cheese\, Bug Bites Grahams Crackers\nVegetable: Ba
  gged Baby Carrots\, Baked Beans\, Fresh Veggie Bag (Cuc/Tom/Car)\nFruit: A
  pple Crunchables\, Plum\, Banana\nMilk: 1% White Milk\, Fat Free Chocolate
@@ -83,11 +70,11 @@ DTEND;VALUE=DATE:20261001
 SUMMARY:Mini Calzones| Crispy Chicken Sandwich| Uncrustables Strawberry| Sp
  icy Chicken Sandwich Gold Creek
 DESCRIPTION:Side: Harvest Cheddar Sunchips\nVegetable: Marinara Sauce\, Col
- orful Carrots\, Side Salad\nFruit: Cantaloupe\, Pears Sliced\nMilk: 1% Whi
- te Milk\, Fat Free Chocolate Milk\nCondiments: Lettuce\, Shredded\, Pickle
-  Dill Chips\, Mayo\, Mustard Packet\, Ketchup Packet\, Sauce BBQ Cup\, Ran
- ch Cups\nDessert: Chocolate Chip Cookies\nOther: Chicken Nuggets GF\, Cook
- ie Choc Chip GF
+ orful Carrots\, Side Salad\, Bagged Baby Carrots\nFruit: Cantaloupe\, Pear
+ s Sliced\nMilk: 1% White Milk\, Fat Free Chocolate Milk\nCondiments: Lettu
+ ce\, Shredded\, Pickle Dill Chips\, Mayo\, Mustard Packet\, Ketchup Packet
+ \, Sauce BBQ Cup\, Ranch Cups\nDessert: Chocolate Chip Cookies\nOther: Chi
+ cken Nuggets GF\, Cookie Choc Chip GF
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -95,8 +82,8 @@ UID:20261001-rme-lunch@linq
 DTSTAMP:20261001T000000Z
 DTSTART;VALUE=DATE:20261001
 DTEND;VALUE=DATE:20261002
-SUMMARY:Alpine Chicken Bowl (Elementary)| Ham and Cheese Melt| Uncrustables
-  Strawberry
+SUMMARY:Alpine Chicken Bowl (Elementary)| Chicken Breaded Patty Gold Creek|
+  Ham and Cheese Melt| Uncrustables Strawberry
 DESCRIPTION:Side: Homemade Roll\, String Cheese\nVegetable: Corn\, Fresh Ve
  getable Bags  (cel/tom/car)\nFruit: Clementines\nMilk: 1% White Milk\, Fat
   Free Chocolate Milk\nCondiments: Jelly Packets\, Ranch Cups\nFruit Juice:
@@ -151,10 +138,10 @@ DTSTART;VALUE=DATE:20261007
 DTEND;VALUE=DATE:20261008
 SUMMARY:Chicken Corn Dog| Popcorn Chicken Gold Creek| Grape Uncrustables
 DESCRIPTION:Side: String Cheese\nVegetable: Potato Seasoned Twister Fries\,
-  Fresh Veggie Bag (Cuc/Tom/Car)\nFruit: Kiwi\, Mandarin Oranges\nMilk: 1% 
- White Milk\, Fat Free Chocolate Milk\nCondiments: Ketchup Packet\, Fry Sau
- ce\, Sauce BBQ Cup\, Mustard Packet\, Ranch Cups\nOther: Chicken Nuggets G
- F
+  Fresh Veggie Bag (Cuc/Tom/Car)\nFruit: Mandarin Oranges\, Grapes\nMilk: 1
+ % White Milk\, Fat Free Chocolate Milk\nCondiments: Ketchup Packet\, Fry S
+ auce\, Sauce BBQ Cup\, Mustard Packet\, Ranch Cups\nOther: Chicken Nuggets
+  GF
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -216,7 +203,7 @@ UID:20261014-rme-lunch@linq
 DTSTAMP:20261014T000000Z
 DTSTART;VALUE=DATE:20261014
 DTEND;VALUE=DATE:20261015
-SUMMARY:Rib Sandwich| Snack Wrap| Uncrustables Strawberry
+SUMMARY:Rib Sandwich| Chicken Snack Wrap| Uncrustables Strawberry
 DESCRIPTION:Side: Harvest Cheddar Sunchips\, String Cheese\nVegetable: Corn
  \, Bagged Baby Carrots\nFruit: Grapes\, Apples Sliced Bags\nMilk: 1% White
   Milk\, Fat Free Chocolate Milk\, Strawberry Milk Fat Free\nCondiments: Ra
@@ -231,9 +218,10 @@ DTSTART;VALUE=DATE:20261020
 DTEND;VALUE=DATE:20261021
 SUMMARY:Sweet & Sour Chicken Recipe| Hamburger on a Bun| Grape Uncrustables
 DESCRIPTION:Side: Rice\, Cherry Yogurt\, Chocolate Scooby Grahams\nVegetabl
- e: Side Salad\, Steamed Broccoli\nFruit: Fresh Fruit Assortment\, Canned F
- ruit\nMilk: 1% White Milk\, Fat Free Chocolate Milk\nCondiments: Cheese Ch
- eddar Slice\, Hamburger Condiments\, Ranch Cups
+ e: Side Salad\, Steamed Broccoli\nFruit: Clementines\, Pineapple Tidbits\n
+ Milk: 1% White Milk\, Fat Free Chocolate Milk\nCondiments: Cheese Cheddar 
+ Slice\, Ranch Cups\, Lettuce\, Shredded\, Pickle Dill Chips\, Mayo\, Musta
+ rd Packet\, Ketchup Packet\nOther: Bun Hamburger GF
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -328,8 +316,8 @@ UID:20261030-rme-lunch@linq
 DTSTAMP:20261030T000000Z
 DTSTART;VALUE=DATE:20261030
 DTEND;VALUE=DATE:20261031
-SUMMARY:Big Daddy's Cheese Pizza| Big Daddy's Pepperoni Pizza| Snack Wrap| 
- Grape Uncrustables
+SUMMARY:Big Daddy's Cheese Pizza| Big Daddy's Pepperoni Pizza| Chicken Snac
+ k Wrap| Grape Uncrustables
 DESCRIPTION:Side: String Cheese\nVegetable: Bagged Baby Carrots\, Baked Bea
  ns\nFruit: Fresh Fruit Assortment\, Apple Crunchables\nMilk: 1% White Milk
  \, Fat Free Chocolate Milk\nCondiments: Ranch Cups\, Sauce BBQ Cup\, Lettu
