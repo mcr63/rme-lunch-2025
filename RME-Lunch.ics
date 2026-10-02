@@ -6,20 +6,6 @@ METHOD:PUBLISH
 X-WR-CALNAME:Rocky Mountain Lunch (RME)
 X-WR-TIMEZONE:America/Denver
 BEGIN:VEVENT
-UID:20260924-rme-lunch@linq
-DTSTAMP:20260924T000000Z
-DTSTART;VALUE=DATE:20260924
-DTEND;VALUE=DATE:20260925
-SUMMARY:Taco Soup| Deli Sandwich (Ham & Turkey)| Grape Uncrustables
-DESCRIPTION:Side: Doritos Cool Ranch Chips\, Baked Scoops Chips\, String Ch
- eese\, Doritos Nacho Cheese Chips\nVegetable: Fresh Veggie Bag (Cuc/Tom/Ca
- r)\, Green Beans\, Side Salad\nFruit: Mandarin Oranges\, Banana\, Plum\nMi
- lk: 1% White Milk\, Fat Free Chocolate Milk\nCondiments: Sour Cream Packet
- s\, Shredded Cheddar Cheese\, Sauce Taco IW Packets\, Mayo\, Mustard Packe
- t\, Lettuce\, Shredded\, Pickle Dill Chips\, Ranch Cups
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:20260925-rme-lunch@linq
 DTSTAMP:20260925T000000Z
 DTSTART;VALUE=DATE:20260925
@@ -84,10 +70,11 @@ DTSTART;VALUE=DATE:20261001
 DTEND;VALUE=DATE:20261002
 SUMMARY:Alpine Chicken Bowl (Elementary)| Chicken Breaded Patty Gold Creek|
   Ham and Cheese Melt| Uncrustables Strawberry
-DESCRIPTION:Side: Homemade Roll\, String Cheese\nVegetable: Corn\, Fresh Ve
- getable Bags  (cel/tom/car)\nFruit: Clementines\nMilk: 1% White Milk\, Fat
-  Free Chocolate Milk\nCondiments: Jelly Packets\, Ranch Cups\nFruit Juice:
-  Juice Fruit Punch IW\nOther: GF Ham & Cheese Sandwich
+DESCRIPTION:Side: Homemade Roll\, Yogurt Straw/Banana\nVegetable: Corn\, Fr
+ esh Vegetable Bags  (cel/tom/car)\, Bagged Baby Carrots\nFruit: Clementine
+ s\, Plum\nMilk: 1% White Milk\, Fat Free Chocolate Milk\nCondiments: Jelly
+  Packets\, Ranch Cups\nFruit Juice: Juice Fruit Punch IW\nOther: GF Ham & 
+ Cheese Sandwich
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -232,9 +219,10 @@ DTEND;VALUE=DATE:20261022
 SUMMARY:Spaghetti Meat Sauce| Chicken Sandwich Gold Creek| Spicy Chicken Sa
  ndwich Gold Creek| Grape Uncrustables
 DESCRIPTION:Side: Penne Pasta\, String Cheese\, Garlic Breadstick\nVegetabl
- e: Steamed Peas\, Vegetable Bag (Broc/Cuc/Cel)\nFruit: Fresh Fruit Assortm
- ent\nMilk: 1% White Milk\, Fat Free Chocolate Milk\nCondiments: Chicken Sa
- ndwich Condiments\, Ranch Cups\nFruit Juice: Berry Juice
+ e: Steamed Peas\, Vegetable Bag (Broc/Cuc/Cel)\nFruit: Grapes\nMilk: 1% Wh
+ ite Milk\, Fat Free Chocolate Milk\nCondiments: Ranch Cups\, Lettuce\, Shr
+ edded\, Pickle Dill Chips\, Mayo\, Ketchup Packet\, Mustard Packet\nFruit 
+ Juice: Apple Juice\nOther: Chicken Nuggets GF
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -243,11 +231,12 @@ DTSTAMP:20261022T000000Z
 DTSTART;VALUE=DATE:20261022
 DTEND;VALUE=DATE:20261023
 SUMMARY:Chicken Drumstick Gold Creek| Deli Sandwich (Ham & Turkey)| Grape U
- ncrustables
+ ncrustables| GF Deli Sandwich (Ham & Turkey)
 DESCRIPTION:Side: LS GF Chicken Gravy Mix\, Homemade Roll\, String Cheese\n
- Vegetable: Mashed Potatoes\, Colorful Carrots\, Vegetable Bag (Broc/Cuc/Ce
- l)\nFruit: Fresh Fruit Assortment\, Canned Fruit\nMilk: 1% White Milk\, Fa
- t Free Chocolate Milk\nCondiments: Jelly Packets
+ Vegetable: Mashed Potatoes\, Colorful Carrots\, Side Salad\nFruit: Plum\, 
+ Mandarin Oranges\nMilk: 1% White Milk\, Fat Free Chocolate Milk\nCondiment
+ s: Jelly Packets\, Lettuce\, Shredded\, Pickle Dill Chips\, Mayo\, Mustard
+  Packet
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -257,9 +246,10 @@ DTSTART;VALUE=DATE:20261023
 DTEND;VALUE=DATE:20261024
 SUMMARY:Mini Calzones| Hot Dog on a Bun| Grape Uncrustables
 DESCRIPTION:Side: String Cheese\, Doritos Cool Ranch Chips\nVegetable: Mari
- nara Sauce\, Baked Beans\, Side Salad\nFruit: Fresh Fruit Assortment\, Can
- ned Fruit\nMilk: 1% White Milk\, Fat Free Chocolate Milk\nCondiments: Must
- ard Packet\, Ketchup Packet
+ nara Sauce\, Baked Beans\, Fresh Veggie Bag (Cuc/Tom/Car)\nFruit: Apples S
+ liced Bags\, Peaches Sliced\nMilk: 1% White Milk\, Fat Free Chocolate Milk
+ \nCondiments: Mustard Packet\, Ketchup Packet\, Ranch Cups\nOther: GF Pizz
+ a Pocket
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -269,9 +259,10 @@ DTSTART;VALUE=DATE:20261026
 DTEND;VALUE=DATE:20261027
 SUMMARY:Teriyaki Chicken Recipe| Hamburger on a Bun| Grape Uncrustables
 DESCRIPTION:Side: Rice\, Pot Stickers\nVegetable: Bagged Baby Carrots\, Ste
- amed Broccoli\nFruit: Canned Fruit\, Fresh Fruit Assortment\nMilk: 1% Whit
- e Milk\, Fat Free Chocolate Milk\nCondiments: Hamburger Condiments\, Teriy
- aki Sauce Minh\nDessert: Chocolate Creamie\, Banana Creamie
+ amed Broccoli\nFruit: Mandarin Oranges\, Banana\nMilk: 1% White Milk\, Fat
+  Free Chocolate Milk\nCondiments: Teriyaki Sauce Minh\, Pickle Dill Chips\
+ , Lettuce\, Shredded\, Mayo\, Mustard Packet\, Ketchup Packet\, Ranch Cups
+ \nDessert: Chocolate Creamie\, Banana Creamie\nOther: Bun Hamburger GF
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
