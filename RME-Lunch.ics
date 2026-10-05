@@ -6,20 +6,6 @@ METHOD:PUBLISH
 X-WR-CALNAME:Rocky Mountain Lunch (RME)
 X-WR-TIMEZONE:America/Denver
 BEGIN:VEVENT
-UID:20260925-rme-lunch@linq
-DTSTAMP:20260925T000000Z
-DTSTART;VALUE=DATE:20260925
-DTEND;VALUE=DATE:20260926
-SUMMARY:Big Daddy's Cheese Pizza| Big Daddy's Pepperoni Pizza| Chicken Snac
- k Wrap| Grape Uncrustables| Deli Sandwich (Ham & Turkey)
-DESCRIPTION:Side: String Cheese\, Bug Bites Grahams Crackers\nVegetable: Ba
- gged Baby Carrots\, Baked Beans\, Fresh Veggie Bag (Cuc/Tom/Car)\nFruit: A
- pple Crunchables\, Plum\, Banana\nMilk: 1% White Milk\, Fat Free Chocolate
-  Milk\nCondiments: Ranch Cups\, Sauce BBQ Cup\, Lettuce\, Shredded\, Shred
- ded Cheddar Cheese\nOther: GF Pizza Pocket
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:20260928-rme-lunch@linq
 DTSTAMP:20260928T000000Z
 DTSTART;VALUE=DATE:20260928
@@ -85,10 +71,10 @@ DTEND;VALUE=DATE:20261003
 SUMMARY:Cheese Pizza Dippers| Pepperoni Pizza Dippers| Mini Corndogs| Uncru
  stables Strawberry
 DESCRIPTION:Side: Yogurt Straw/Banana\nVegetable: Fresh Vegetable Bags  (ce
- l/tom/car)\, Steamed Peas\, Marinara Sauce\nFruit: Peaches Sliced\, Apples
-  Sliced Bags\nMilk: 1% White Milk\, Fat Free Chocolate Milk\nCondiments: R
- anch Cups\, Ketchup Packet\, Mustard Packet\, Fry Sauce\nDessert: Scooby S
- nacks\nOther: GF Pizza Pocket\, Cookie Choc Chip GF
+ l/tom/car)\, Steamed Peas\, Marinara Sauce\nFruit: Apples Sliced Bags\, Cl
+ ementines\nMilk: 1% White Milk\, Fat Free Chocolate Milk\nCondiments: Ranc
+ h Cups\, Ketchup Packet\, Mustard Packet\, Fry Sauce\nDessert: Scooby Snac
+ ks\nOther: GF Pizza Pocket\, Cookie Choc Chip GF
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -233,10 +219,10 @@ DTEND;VALUE=DATE:20261023
 SUMMARY:Chicken Drumstick Gold Creek| Deli Sandwich (Ham & Turkey)| Grape U
  ncrustables| GF Deli Sandwich (Ham & Turkey)
 DESCRIPTION:Side: LS GF Chicken Gravy Mix\, Homemade Roll\, String Cheese\n
- Vegetable: Mashed Potatoes\, Colorful Carrots\, Side Salad\nFruit: Plum\, 
- Mandarin Oranges\nMilk: 1% White Milk\, Fat Free Chocolate Milk\nCondiment
- s: Jelly Packets\, Lettuce\, Shredded\, Pickle Dill Chips\, Mayo\, Mustard
-  Packet
+ Vegetable: Mashed Potatoes\, Colorful Carrots\, Side Salad\nFruit: Mandari
+ n Oranges\, Apple\nMilk: 1% White Milk\, Fat Free Chocolate Milk\nCondimen
+ ts: Jelly Packets\, Lettuce\, Shredded\, Pickle Dill Chips\, Mayo\, Mustar
+ d Packet
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -246,10 +232,9 @@ DTSTART;VALUE=DATE:20261023
 DTEND;VALUE=DATE:20261024
 SUMMARY:Mini Calzones| Hot Dog on a Bun| Grape Uncrustables
 DESCRIPTION:Side: String Cheese\, Doritos Cool Ranch Chips\nVegetable: Mari
- nara Sauce\, Baked Beans\, Fresh Veggie Bag (Cuc/Tom/Car)\nFruit: Apples S
- liced Bags\, Peaches Sliced\nMilk: 1% White Milk\, Fat Free Chocolate Milk
- \nCondiments: Mustard Packet\, Ketchup Packet\, Ranch Cups\nOther: GF Pizz
- a Pocket
+ nara Sauce\, Baked Beans\, Fresh Veggie Bag (Cuc/Tom/Car)\nFruit: Peaches 
+ Sliced\, Plum\nMilk: 1% White Milk\, Fat Free Chocolate Milk\nCondiments: 
+ Mustard Packet\, Ketchup Packet\, Ranch Cups\nOther: GF Pizza Pocket
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -273,9 +258,10 @@ DTEND;VALUE=DATE:20261028
 SUMMARY:Macaroni & Cheese  (non-WG)| Chicken Sandwich Gold Creek| Spicy Chi
  cken Sandwich Gold Creek| Grape Uncrustables
 DESCRIPTION:Side: Garlic Breadstick\, Muffin Blueberry WG IW\, Yogurt Straw
- /Banana\nVegetable: Side Salad\, Corn\nFruit: Canned Fruit\, Fresh Fruit A
- ssortment\, Strawberry Dessert\nMilk: 1% White Milk\, Fat Free Chocolate M
- ilk\nCondiments: Chicken Sandwich Condiments\, Ranch Cups
+ /Banana\nVegetable: Side Salad\, Corn\nFruit: Strawberry Dessert\, Apples 
+ Sliced Bags\nMilk: 1% White Milk\, Fat Free Chocolate Milk\nCondiments: Ra
+ nch Cups\, Lettuce\, Shredded\, Pickle Dill Chips\, Ketchup Packet\, Musta
+ rd Packet\, Mayo\nOther: Chicken Nuggets GF
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -284,10 +270,11 @@ DTSTAMP:20261028T000000Z
 DTSTART;VALUE=DATE:20261028
 DTEND;VALUE=DATE:20261029
 SUMMARY:Chicken Nuggets| Chicken Corn Dog| Grape Uncrustables
-DESCRIPTION:Side: String Cheese\, Yogurt Assortment\nVegetable: Potato Twis
- ter Fries\, Side Salad\nFruit: Canned Fruit\, Fresh Fruit Assortment\nMilk
- : 1% White Milk\, Fat Free Chocolate Milk\nCondiments: Fry Sauce\, Ketchup
-  Packet\, Ranch Cups
+DESCRIPTION:Side: String Cheese\, Yogurt Straw/Banana\nVegetable: Potato Tw
+ ister Fries\, Side Salad\nFruit: Grapes\, Pineapple Tidbits\nMilk: 1% Whit
+ e Milk\, Fat Free Chocolate Milk\nCondiments: Fry Sauce\, Ketchup Packet\,
+  Ranch Cups\, Mustard Packet\, Sauce BBQ Cup\, Sauce Sweet & Sour\nOther: 
+ Corn Dog Chicken GF
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -297,9 +284,10 @@ DTSTART;VALUE=DATE:20261029
 DTEND;VALUE=DATE:20261030
 SUMMARY:Taco Soup| Deli Sandwich (Ham & Turkey)| Grape Uncrustables
 DESCRIPTION:Side: Doritos Cool Ranch Chips\, Baked Scoops Chips\, String Ch
- eese\nVegetable: Fresh Veggie Bag (Cuc/Tom/Car)\, Green Beans\nFruit: Cann
- ed Fruit\, Fresh Fruit Assortment\nMilk: 1% White Milk\, Fat Free Chocolat
- e Milk\nCondiments: Sour Cream Packets\, Shredded Cheddar Cheese
+ eese\nVegetable: Fresh Veggie Bag (Cuc/Tom/Car)\, Green Beans\nFruit: Peac
+ hes Sliced\, Plum\nMilk: 1% White Milk\, Fat Free Chocolate Milk\nCondimen
+ ts: Sour Cream Packets\, Shredded Cheddar Cheese\, Lettuce\, Shredded\, Pi
+ ckle Dill Chips\, Mayo\, Mustard Packet
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -310,9 +298,9 @@ DTEND;VALUE=DATE:20261031
 SUMMARY:Big Daddy's Cheese Pizza| Big Daddy's Pepperoni Pizza| Chicken Snac
  k Wrap| Grape Uncrustables
 DESCRIPTION:Side: String Cheese\nVegetable: Bagged Baby Carrots\, Baked Bea
- ns\nFruit: Fresh Fruit Assortment\, Apple Crunchables\nMilk: 1% White Milk
- \, Fat Free Chocolate Milk\nCondiments: Ranch Cups\, Sauce BBQ Cup\, Lettu
- ce\, Shredded\nDessert: Cookie Holiday
+ ns\nFruit: Apple Crunchables\, Clementines\nMilk: 1% White Milk\, Fat Free
+  Chocolate Milk\nCondiments: Ranch Cups\, Sauce BBQ Cup\, Lettuce\, Shredd
+ ed\nDessert: Cookie Holiday\nOther: GF Pizza Pocket\, Cookie Choc Chip GF
 TRANSP:TRANSPARENT
 END:VEVENT
 END:VCALENDAR
