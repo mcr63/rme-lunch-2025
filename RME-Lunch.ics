@@ -6,21 +6,6 @@ METHOD:PUBLISH
 X-WR-CALNAME:Rocky Mountain Lunch (RME)
 X-WR-TIMEZONE:America/Denver
 BEGIN:VEVENT
-UID:20260928-rme-lunch@linq
-DTSTAMP:20260928T000000Z
-DTSTART;VALUE=DATE:20260928
-DTEND;VALUE=DATE:20260929
-SUMMARY:French Toast Sticks| Hamburger on a Bun| Uncrustables Strawberry| G
- rape Uncrustables
-DESCRIPTION:Side: Egg Omelet w/ Cheese\, String Cheese\nVegetable: Potato S
- miles\, Bagged Baby Carrots\nFruit: Banana\, Mandarin Oranges\, Plum\, Cin
- namon Applesauce\nMilk: 1% White Milk\, Fat Free Chocolate Milk\, Strawber
- ry Milk Fat Free\nCondiments: Cheese American Sliced\, Fry Sauce\, Ketchup
-  Packet\, Syrup\, Lettuce\, Shredded\, Pickle Dill Chips\, Mustard Packet\
- , Ranch Cups\nOther: Bun Hamburger GF
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:20260929-rme-lunch@linq
 DTSTAMP:20260929T000000Z
 DTSTART;VALUE=DATE:20260929
@@ -82,12 +67,12 @@ UID:20261005-rme-lunch@linq
 DTSTAMP:20261005T000000Z
 DTSTART;VALUE=DATE:20261005
 DTEND;VALUE=DATE:20261006
-SUMMARY:Dutch Waffle| Hot Dog on a Bun| Grape Uncrustables
+SUMMARY:Dutch Waffle| Hot Dog on a Bun| Uncrustables Strawberry
 DESCRIPTION:Side: Jimmy Dean Sausage Patty\, String Cheese\, Muffin Choc Ch
  ip WG IW\nVegetable: Steamed Broccoli\, Bagged Baby Carrots\nFruit: Banana
- \, Pears Sliced\nMilk: 1% White Milk\, Fat Free Chocolate Milk\nCondiments
- : Syrup\, Ketchup Packet\, Mayo\, Mustard Packet\, Ranch Cups\nOther: Bun 
- Hot Dog GF
+ \, Pears Sliced\, Clementines\nMilk: 1% White Milk\, Fat Free Chocolate Mi
+ lk\nCondiments: Syrup\, Ketchup Packet\, Mayo\, Mustard Packet\, Ranch Cup
+ s\nOther: Bun Hot Dog GF
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -97,11 +82,11 @@ DTSTART;VALUE=DATE:20261006
 DTEND;VALUE=DATE:20261007
 SUMMARY:Nachos (Chips & Cheese)| Chicken Sandwich Gold Creek| Spicy Chicken
   Sandwich Gold Creek| Grape Uncrustables
-DESCRIPTION:Side: Taco Meat\, Cherry Yogurt\nVegetable: Refried Beans\, Cor
- n\nFruit: Apples Sliced Bags\, Peaches Sliced\nMilk: 1% White Milk\, Fat F
- ree Chocolate Milk\nCondiments: Sour Cream Packets\, Salsa Mild\, Sauce Ta
- co IW Packets\, Lettuce\, Shredded\, Pickle Dill Chips\, Mayo\, Mustard Pa
- cket\, Ketchup Packet
+DESCRIPTION:Side: Taco Meat\, Cherry Yogurt\, Muffin Choc Chip WG IW\nVeget
+ able: Refried Beans\, Corn\nFruit: Apples Sliced Bags\, Peaches Sliced\nMi
+ lk: 1% White Milk\, Fat Free Chocolate Milk\nCondiments: Sour Cream Packet
+ s\, Salsa Mild\, Sauce Taco IW Packets\, Lettuce\, Shredded\, Pickle Dill 
+ Chips\, Mayo\, Mustard Packet\, Ketchup Packet
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
