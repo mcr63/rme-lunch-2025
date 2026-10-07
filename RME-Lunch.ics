@@ -6,20 +6,6 @@ METHOD:PUBLISH
 X-WR-CALNAME:Rocky Mountain Lunch (RME)
 X-WR-TIMEZONE:America/Denver
 BEGIN:VEVENT
-UID:20260929-rme-lunch@linq
-DTSTAMP:20260929T000000Z
-DTSTART;VALUE=DATE:20260929
-DTEND;VALUE=DATE:20260930
-SUMMARY:Beef Soft Tacos| Hot Dog on a Bun| Uncrustables Strawberry
-DESCRIPTION:Side: Goldfish Crackers\, String Cheese\nVegetable: Refried Bea
- ns\, Side Salad\nFruit: Clementines\, Mandarin Oranges\, Plum\, Banana\nMi
- lk: 1% White Milk\, Fat Free Chocolate Milk\nCondiments: Shredded Cheddar 
- Cheese\, Salsa Mild\, Sour Cream Packets\, Lettuce\, Shredded\, Mustard Pa
- cket\, Ketchup Packet\, Mayo\nFruit Juice: Froot Jooce Cups Watermelon\, F
- root Jooce Cups Mango\nOther: Bun Hot Dog GF
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:20260930-rme-lunch@linq
 DTSTAMP:20260930T000000Z
 DTSTART;VALUE=DATE:20260930
@@ -81,12 +67,13 @@ DTSTAMP:20261006T000000Z
 DTSTART;VALUE=DATE:20261006
 DTEND;VALUE=DATE:20261007
 SUMMARY:Nachos (Chips & Cheese)| Chicken Sandwich Gold Creek| Spicy Chicken
-  Sandwich Gold Creek| Grape Uncrustables
+  Sandwich Gold Creek| Uncrustables Strawberry
 DESCRIPTION:Side: Taco Meat\, Cherry Yogurt\, Muffin Choc Chip WG IW\nVeget
- able: Refried Beans\, Corn\nFruit: Apples Sliced Bags\, Peaches Sliced\nMi
- lk: 1% White Milk\, Fat Free Chocolate Milk\nCondiments: Sour Cream Packet
- s\, Salsa Mild\, Sauce Taco IW Packets\, Lettuce\, Shredded\, Pickle Dill 
- Chips\, Mayo\, Mustard Packet\, Ketchup Packet
+ able: Refried Beans\, Corn\nFruit: Apples Sliced Bags\, Peaches Sliced\, S
+ trawberry Applesauce\, Clementines\nMilk: 1% White Milk\, Fat Free Chocola
+ te Milk\nCondiments: Sour Cream Packets\, Salsa Mild\, Sauce Taco IW Packe
+ ts\, Lettuce\, Shredded\, Pickle Dill Chips\, Mayo\, Mustard Packet\, Ketc
+ hup Packet
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -108,12 +95,11 @@ DTSTAMP:20261008T000000Z
 DTSTART;VALUE=DATE:20261008
 DTEND;VALUE=DATE:20261009
 SUMMARY:Pretzel\, Soft\, WG| Grape Uncrustables| Hamburger on a Bun
-DESCRIPTION:Side: Sauce Cheddar Cheese\, Chili\, Turkey Meat\, Chex Mix Sim
- ply Cheddar\nVegetable: Green Beans\, Fresh Veggie Bag (Cuc/Tom/Car)\nFrui
- t: Clementines\, Pineapple Tidbits\nMilk: 1% White Milk\, Fat Free Chocola
- te Milk\nCondiments: Cheese American Sliced\, Ketchup Packet\, Lettuce\, S
- hredded\, Pickle Dill Chips\, Mustard Packet\, Mayo\nOther: Bun Hamburger 
- GF
+DESCRIPTION:Side: Sauce Cheddar Cheese\, Chili\, Turkey Meat\nVegetable: Gr
+ een Beans\, Fresh Veggie Bag (Cuc/Tom/Car)\nFruit: Clementines\, Pineapple
+  Tidbits\nMilk: 1% White Milk\, Fat Free Chocolate Milk\nCondiments: Chees
+ e American Sliced\, Ketchup Packet\, Lettuce\, Shredded\, Pickle Dill Chip
+ s\, Mustard Packet\, Mayo\nDessert: Scooby Snacks\nOther: Bun Hamburger GF
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
