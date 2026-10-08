@@ -6,21 +6,6 @@ METHOD:PUBLISH
 X-WR-CALNAME:Rocky Mountain Lunch (RME)
 X-WR-TIMEZONE:America/Denver
 BEGIN:VEVENT
-UID:20260930-rme-lunch@linq
-DTSTAMP:20260930T000000Z
-DTSTART;VALUE=DATE:20260930
-DTEND;VALUE=DATE:20261001
-SUMMARY:Mini Calzones| Crispy Chicken Sandwich| Uncrustables Strawberry| Sp
- icy Chicken Sandwich Gold Creek
-DESCRIPTION:Side: Harvest Cheddar Sunchips\nVegetable: Marinara Sauce\, Col
- orful Carrots\, Side Salad\, Bagged Baby Carrots\nFruit: Cantaloupe\, Pear
- s Sliced\nMilk: 1% White Milk\, Fat Free Chocolate Milk\nCondiments: Lettu
- ce\, Shredded\, Pickle Dill Chips\, Mayo\, Mustard Packet\, Ketchup Packet
- \, Sauce BBQ Cup\, Ranch Cups\nDessert: Chocolate Chip Cookies\nOther: Chi
- cken Nuggets GF\, Cookie Choc Chip GF
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:20261001-rme-lunch@linq
 DTSTAMP:20261001T000000Z
 DTSTART;VALUE=DATE:20261001
@@ -81,12 +66,13 @@ UID:20261007-rme-lunch@linq
 DTSTAMP:20261007T000000Z
 DTSTART;VALUE=DATE:20261007
 DTEND;VALUE=DATE:20261008
-SUMMARY:Chicken Corn Dog| Popcorn Chicken Gold Creek| Grape Uncrustables
+SUMMARY:Chicken Corn Dog| Popcorn Chicken Gold Creek| Uncrustables Strawber
+ ry
 DESCRIPTION:Side: String Cheese\nVegetable: Potato Seasoned Twister Fries\,
-  Fresh Veggie Bag (Cuc/Tom/Car)\nFruit: Mandarin Oranges\, Grapes\nMilk: 1
- % White Milk\, Fat Free Chocolate Milk\nCondiments: Ketchup Packet\, Fry S
- auce\, Sauce BBQ Cup\, Mustard Packet\, Ranch Cups\nOther: Chicken Nuggets
-  GF
+  Fresh Veggie Bag (Cuc/Tom/Car)\nFruit: Mandarin Oranges\, Grapes\, Clemen
+ tines\nMilk: 1% White Milk\, Fat Free Chocolate Milk\nCondiments: Ketchup 
+ Packet\, Fry Sauce\, Sauce BBQ Cup\, Mustard Packet\, Ranch Cups\, Honey M
+ ustard\nOther: Chicken Nuggets GF
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
