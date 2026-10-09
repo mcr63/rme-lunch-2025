@@ -6,20 +6,6 @@ METHOD:PUBLISH
 X-WR-CALNAME:Rocky Mountain Lunch (RME)
 X-WR-TIMEZONE:America/Denver
 BEGIN:VEVENT
-UID:20261001-rme-lunch@linq
-DTSTAMP:20261001T000000Z
-DTSTART;VALUE=DATE:20261001
-DTEND;VALUE=DATE:20261002
-SUMMARY:Alpine Chicken Bowl (Elementary)| Chicken Breaded Patty Gold Creek|
-  Ham and Cheese Melt| Uncrustables Strawberry
-DESCRIPTION:Side: Homemade Roll\, Yogurt Straw/Banana\nVegetable: Corn\, Fr
- esh Vegetable Bags  (cel/tom/car)\, Bagged Baby Carrots\nFruit: Clementine
- s\, Plum\nMilk: 1% White Milk\, Fat Free Chocolate Milk\nCondiments: Jelly
-  Packets\, Ranch Cups\nFruit Juice: Juice Fruit Punch IW\nOther: GF Ham & 
- Cheese Sandwich
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:20261002-rme-lunch@linq
 DTSTAMP:20261002T000000Z
 DTSTART;VALUE=DATE:20261002
@@ -82,10 +68,11 @@ DTSTART;VALUE=DATE:20261008
 DTEND;VALUE=DATE:20261009
 SUMMARY:Pretzel\, Soft\, WG| Grape Uncrustables| Hamburger on a Bun
 DESCRIPTION:Side: Sauce Cheddar Cheese\, Chili\, Turkey Meat\nVegetable: Gr
- een Beans\, Fresh Veggie Bag (Cuc/Tom/Car)\nFruit: Clementines\, Pineapple
-  Tidbits\nMilk: 1% White Milk\, Fat Free Chocolate Milk\nCondiments: Chees
- e American Sliced\, Ketchup Packet\, Lettuce\, Shredded\, Pickle Dill Chip
- s\, Mustard Packet\, Mayo\nDessert: Scooby Snacks\nOther: Bun Hamburger GF
+ een Beans\, Fresh Veggie Bag (Cuc/Tom/Car)\, Bagged Baby Carrots\nFruit: C
+ lementines\, Pineapple Tidbits\, Grapes\nMilk: 1% White Milk\, Fat Free Ch
+ ocolate Milk\nCondiments: Cheese American Sliced\, Ketchup Packet\, Lettuc
+ e\, Shredded\, Pickle Dill Chips\, Mustard Packet\, Mayo\, Fry Sauce\, Ran
+ ch Cups\nDessert: Scooby Snacks\nOther: Bun Hamburger GF
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -258,6 +245,119 @@ DESCRIPTION:Side: String Cheese\nVegetable: Bagged Baby Carrots\, Baked Bea
  ns\nFruit: Apple Crunchables\, Clementines\nMilk: 1% White Milk\, Fat Free
   Chocolate Milk\nCondiments: Ranch Cups\, Sauce BBQ Cup\, Lettuce\, Shredd
  ed\nDessert: Cookie Holiday\nOther: GF Pizza Pocket\, Cookie Choc Chip GF
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20261103-rme-lunch@linq
+DTSTAMP:20261103T000000Z
+DTSTART;VALUE=DATE:20261103
+DTEND;VALUE=DATE:20261104
+SUMMARY:French Toast Sticks| Hamburger on a Bun| Uncrustables Strawberry
+DESCRIPTION:Side: Egg Omelet w/ Cheese\, String Cheese\nVegetable: Potato S
+ miles\, Bagged Baby Carrots\, Refried Beans\nFruit: Fresh Fruit Assortment
+ \, Canned Fruit\nMilk: 1% White Milk\, Fat Free Chocolate Milk\nCondiments
+ : Cheese American Sliced\, Fry Sauce\, Ketchup Packet\, Syrup
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20261104-rme-lunch@linq
+DTSTAMP:20261104T000000Z
+DTSTART;VALUE=DATE:20261104
+DTEND;VALUE=DATE:20261105
+SUMMARY:Mini Calzones| Crispy Chicken Sandwich| Uncrustables Strawberry| Sp
+ icy Chicken Sandwich Gold Creek
+DESCRIPTION:Side: Original Sunchips\nVegetable: Marinara Sauce\, Colorful C
+ arrots\, Side Salad\nFruit: Fresh Fruit Assortment\, Canned Fruit\nMilk: F
+ at Free Chocolate Milk\, 1% White Milk\nCondiments: Chicken Sandwich Condi
+ ments
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20261105-rme-lunch@linq
+DTSTAMP:20261105T000000Z
+DTSTART;VALUE=DATE:20261105
+DTEND;VALUE=DATE:20261106
+SUMMARY:Alpine Chicken Bowl (Elementary)| Ham and Cheese Melt| Uncrustables
+  Strawberry
+DESCRIPTION:Side: Homemade Roll\, String Cheese\nVegetable: Corn\, Fresh Ve
+ getable Bags  (cel/tom/car)\nFruit: Fresh Fruit Assortment\nMilk: 1% White
+  Milk\, Fat Free Chocolate Milk\nCondiments: Jelly Packets\nFruit Juice: A
+ pple Juice
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20261106-rme-lunch@linq
+DTSTAMP:20261106T000000Z
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261107
+SUMMARY:Cheese Pizza Dippers| Pepperoni Pizza Dippers| Mini Corndogs| Uncru
+ stables Strawberry
+DESCRIPTION:Side: Raspberry Yogurt\, Doritos Cool Ranch Chips\nVegetable: F
+ resh Vegetable Bags  (cel/tom/car)\, Steamed Peas\, Marinara Sauce\nFruit:
+  Fresh Fruit Assortment\, Canned Fruit\nMilk: 1% White Milk\, Fat Free Cho
+ colate Milk\nCondiments: Ranch Cups
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20261109-rme-lunch@linq
+DTSTAMP:20261109T000000Z
+DTSTART;VALUE=DATE:20261109
+DTEND;VALUE=DATE:20261110
+SUMMARY:Orange Chicken| Hot Dog on a Bun| Grape Uncrustables
+DESCRIPTION:Side: Rice\, Muffin Choc Chip WG IW\nVegetable: Steamed Broccol
+ i\, Bagged Baby Carrots\nFruit: Fresh Fruit Assortment\, Canned Fruit\nMil
+ k: 1% White Milk\, Fat Free Chocolate Milk\nCondiments: Ketchup Packet\, M
+ ustard Packet\, Ranch Cups
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20261110-rme-lunch@linq
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20261110
+DTEND;VALUE=DATE:20261111
+SUMMARY:Nachos (Chips & Cheese)| Chicken Sandwich Gold Creek| Spicy Chicken
+  Sandwich Gold Creek| Grape Uncrustables
+DESCRIPTION:Side: Taco Meat\, Cherry Yogurt\nVegetable: Refried Beans\, Cor
+ n\nFruit: Fresh Fruit Assortment\, Strawberry Applesauce\nMilk: 1% White M
+ ilk\, Fat Free Chocolate Milk\nCondiments: Sour Cream Packets\, Salsa Mild
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20261111-rme-lunch@linq
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20261111
+DTEND;VALUE=DATE:20261112
+SUMMARY:Mozzarella Breadsticks| Mini Corndogs| Grape Uncrustables
+DESCRIPTION:Side: String Cheese\nVegetable: Potato Wedges\, Marinara Sauce\
+ , Side Salad\nFruit: Fresh Fruit Assortment\, Canned Fruit\nMilk: 1% White
+  Milk\, Fat Free Chocolate Milk\nCondiments: Ranch Cups\, Fry Sauce\, Ketc
+ hup Packet\nDessert: Chocolate Chip Cookies
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20261112-rme-lunch@linq
+DTSTAMP:20261112T000000Z
+DTSTART;VALUE=DATE:20261112
+DTEND;VALUE=DATE:20261113
+SUMMARY:Chicken Noodle Soup (Elementary)| Hamburger on a Bun| Grape Uncrust
+ ables
+DESCRIPTION:Side: Garlic Breadstick\nVegetable: Green Beans\, Bagged Baby C
+ arrots\nFruit: Fresh Fruit Assortment\, Canned Fruit\nMilk: 1% White Milk\
+ , Fat Free Chocolate Milk\nCondiments: Cheese Cheddar Slice\, Hamburger Co
+ ndiments\, Ranch Cups
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20261113-rme-lunch@linq
+DTSTAMP:20261113T000000Z
+DTSTART;VALUE=DATE:20261113
+DTEND;VALUE=DATE:20261114
+SUMMARY:Big Daddy's Cheese Pizza| Big Daddy's Pepperoni Pizza| Deli Sandwic
+ h (Ham & Turkey)| Grape Uncrustables
+DESCRIPTION:Side: String Cheese\, Chex Mix Simply Cheddar\nVegetable: Fresh
+  Vegetable Bags  (cel/tom/car)\, Steamed Peas\nFruit: Fresh Fruit Assortme
+ nt\, Apple Crunchables\nMilk: 1% White Milk\, Fat Free Chocolate Milk\, St
+ rawberry Milk Fat Free
 TRANSP:TRANSPARENT
 END:VEVENT
 END:VCALENDAR
