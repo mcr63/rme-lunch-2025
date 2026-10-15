@@ -6,20 +6,6 @@ METHOD:PUBLISH
 X-WR-CALNAME:Rocky Mountain Lunch (RME)
 X-WR-TIMEZONE:America/Denver
 BEGIN:VEVENT
-UID:20261007-rme-lunch@linq
-DTSTAMP:20261007T000000Z
-DTSTART;VALUE=DATE:20261007
-DTEND;VALUE=DATE:20261008
-SUMMARY:Chicken Corn Dog| Popcorn Chicken Gold Creek| Uncrustables Strawber
- ry
-DESCRIPTION:Side: String Cheese\nVegetable: Potato Seasoned Twister Fries\,
-  Fresh Veggie Bag (Cuc/Tom/Car)\nFruit: Mandarin Oranges\, Grapes\, Clemen
- tines\nMilk: 1% White Milk\, Fat Free Chocolate Milk\nCondiments: Ketchup 
- Packet\, Fry Sauce\, Sauce BBQ Cup\, Mustard Packet\, Ranch Cups\, Honey M
- ustard\nOther: Chicken Nuggets GF
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:20261008-rme-lunch@linq
 DTSTAMP:20261008T000000Z
 DTSTART;VALUE=DATE:20261008
@@ -80,12 +66,13 @@ UID:20261014-rme-lunch@linq
 DTSTAMP:20261014T000000Z
 DTSTART;VALUE=DATE:20261014
 DTEND;VALUE=DATE:20261015
-SUMMARY:Rib Sandwich| Chicken Snack Wrap| Uncrustables Strawberry
+SUMMARY:Rib Sandwich| Chicken Snack Wrap| Uncrustables Strawberry| Grape Un
+ crustables| Yogurt Parfait
 DESCRIPTION:Side: Harvest Cheddar Sunchips\, String Cheese\nVegetable: Corn
- \, Bagged Baby Carrots\nFruit: Grapes\, Apples Sliced Bags\nMilk: 1% White
-  Milk\, Fat Free Chocolate Milk\, Strawberry Milk Fat Free\nCondiments: Ra
- nch Cups\, Sauce BBQ Cup\, Lettuce\, Shredded\nFruit Juice: Froot Jooce Cu
- ps Strawberry\nOther: Chicken Nuggets GF
+ \, Bagged Baby Carrots\nFruit: Grapes\, Apples Sliced Bags\, Mandarin Oran
+ ges\nMilk: 1% White Milk\, Fat Free Chocolate Milk\, Strawberry Milk Fat F
+ ree\nCondiments: Ranch Cups\, Sauce BBQ Cup\, Lettuce\, Shredded\nFruit Ju
+ ice: Froot Jooce Cups Strawberry\nOther: Chicken Nuggets GF
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -214,9 +201,10 @@ DTSTART;VALUE=DATE:20261103
 DTEND;VALUE=DATE:20261104
 SUMMARY:French Toast Sticks| Hamburger on a Bun| Uncrustables Strawberry
 DESCRIPTION:Side: Egg Omelet w/ Cheese\, String Cheese\nVegetable: Potato S
- miles\, Bagged Baby Carrots\nFruit: Fresh Fruit Assortment\, Canned Fruit\
- nMilk: 1% White Milk\, Fat Free Chocolate Milk\nCondiments: Cheese America
- n Sliced\, Fry Sauce\, Ketchup Packet\, Syrup
+ miles\, Bagged Baby Carrots\nFruit: Mandarin Oranges\, Banana\nMilk: 1% Wh
+ ite Milk\, Fat Free Chocolate Milk\nCondiments: Cheese American Sliced\, F
+ ry Sauce\, Ketchup Packet\, Syrup\, Lettuce\, Shredded\, Pickle Dill Chips
+ \, Mayo\, Mustard Packet\nOther: Bun Hamburger GF
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -356,6 +344,19 @@ DESCRIPTION:Side: Harvest Cheddar Sunchips\, String Cheese\nVegetable: Corn
  \, Side Salad\nFruit: Fresh Fruit Assortment\nMilk: 1% White Milk\, Fat Fr
  ee Chocolate Milk\nCondiments: Ranch Cups\, Sauce BBQ Cup\nFruit Juice: Fr
  oot Jooce Cup Variety
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20261119-rme-lunch@linq
+DTSTAMP:20261119T000000Z
+DTSTART;VALUE=DATE:20261119
+DTEND;VALUE=DATE:20261120
+SUMMARY:Ham and Cheese Melt| Uncrustables Strawberry| Turkey Roast Sliced
+DESCRIPTION:Side: Homemade Roll\, String Cheese\, Turkey Gravy Mix\nVegetab
+ le: Mashed Potatoes\, Fresh Veggie Bag (Cuc/Tom/Car)\, Green Beans\nFruit:
+  Fresh Fruit Assortment\nMilk: Fat Free Chocolate Milk\, 1% White Milk\nCo
+ ndiments: Ranch Cups\, Jelly Packets\nDessert: Cookie Holiday\nFruit Juice
+ : Blue Raspberry Applesauce
 TRANSP:TRANSPARENT
 END:VEVENT
 END:VCALENDAR
