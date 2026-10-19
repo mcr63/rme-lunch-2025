@@ -6,19 +6,6 @@ METHOD:PUBLISH
 X-WR-CALNAME:Rocky Mountain Lunch (RME)
 X-WR-TIMEZONE:America/Denver
 BEGIN:VEVENT
-UID:20261009-rme-lunch@linq
-DTSTAMP:20261009T000000Z
-DTSTART;VALUE=DATE:20261009
-DTEND;VALUE=DATE:20261010
-SUMMARY:Pizza Big Daddy Four Meat| Big Daddy's Cheese Pizza| Big Daddy's Pe
- pperoni Pizza| Mini Corndogs| Grape Uncrustables
-DESCRIPTION:Vegetable: Steamed Peas\, Bagged Baby Carrots\nFruit: Plum\, Cl
- ementines\, Apples Sliced Bags\nMilk: 1% White Milk\, Fat Free Chocolate M
- ilk\nCondiments: Ketchup Packet\, Mustard Packet\, Fry Sauce\, Ranch Cups\
- nDessert: Churro Bites\nOther: GF Pizza Pocket
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:20261012-rme-lunch@linq
 DTSTAMP:20261012T000000Z
 DTSTART;VALUE=DATE:20261012
@@ -356,6 +343,18 @@ DESCRIPTION:Side: Muffin Strawberry WG IW\nVegetable: Marinara Sauce\, Bake
  d Beans\, Fresh Veggie Bag (Cuc/Tom/Car)\nFruit: Fresh Fruit Assortment\, 
  Canned Fruit\nMilk: 1% White Milk\, Fat Free Chocolate Milk\nCondiments: C
  hicken Sandwich Condiments\, Ranch Cups
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20261123-rme-lunch@linq
+DTSTAMP:20261123T000000Z
+DTSTART;VALUE=DATE:20261123
+DTEND;VALUE=DATE:20261124
+SUMMARY:Sweet & Sour Chicken Recipe| Hamburger on a Bun| Grape Uncrustables
+DESCRIPTION:Side: Rice\, Cherry Yogurt\, Chocolate Scooby Grahams\nVegetabl
+ e: Side Salad\, Steamed Broccoli\nFruit: Fresh Fruit Assortment\, Canned F
+ ruit\nMilk: 1% White Milk\, Fat Free Chocolate Milk\nCondiments: Cheese Ch
+ eddar Slice\, Hamburger Condiments\, Ranch Cups
 TRANSP:TRANSPARENT
 END:VEVENT
 END:VCALENDAR
