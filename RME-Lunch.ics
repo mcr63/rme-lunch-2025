@@ -6,19 +6,6 @@ METHOD:PUBLISH
 X-WR-CALNAME:Rocky Mountain Lunch (RME)
 X-WR-TIMEZONE:America/Denver
 BEGIN:VEVENT
-UID:20261012-rme-lunch@linq
-DTSTAMP:20261012T000000Z
-DTSTART;VALUE=DATE:20261012
-DTEND;VALUE=DATE:20261013
-SUMMARY:Chicken Tenders Gold Creek| Chicken Corn Dog| Grape Uncrustables| F
- ield Trip Anytimer| Mini Corndogs
-DESCRIPTION:Side: String Cheese\, Raspberry Yogurt\nVegetable: Potato\, Tat
- er Tot Ore Ida\, Side Salad\nFruit: Grapes\, Plum\, Clementines\nMilk: 1% 
- White Milk\, Fat Free Chocolate Milk\nCondiments: Sauce BBQ Cup\, Ranch Cu
- ps\, Honey Mustard\, Ketchup Packet\, Fry Sauce
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:20261013-rme-lunch@linq
 DTSTAMP:20261013T000000Z
 DTSTART;VALUE=DATE:20261013
@@ -355,6 +342,18 @@ DESCRIPTION:Side: Rice\, Cherry Yogurt\, Chocolate Scooby Grahams\nVegetabl
  e: Side Salad\, Steamed Broccoli\nFruit: Fresh Fruit Assortment\, Canned F
  ruit\nMilk: 1% White Milk\, Fat Free Chocolate Milk\nCondiments: Cheese Ch
  eddar Slice\, Hamburger Condiments\, Ranch Cups
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20261124-rme-lunch@linq
+DTSTAMP:20261124T000000Z
+DTSTART;VALUE=DATE:20261124
+DTEND;VALUE=DATE:20261125
+SUMMARY:Sloppy Joe on a Bun| Mini Corndogs| Grape Uncrustables
+DESCRIPTION:Side: Muffin Choc Chip WG IW\nVegetable: Corn\, Bagged Baby Car
+ rots\nFruit: Fresh Fruit Assortment\, Applesauce Mango peach\nMilk: 1% Whi
+ te Milk\, Fat Free Chocolate Milk\nCondiments: Ranch Cups\, Ketchup Packet
+ \, Mustard Packet
 TRANSP:TRANSPARENT
 END:VEVENT
 END:VCALENDAR
