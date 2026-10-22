@@ -6,20 +6,6 @@ METHOD:PUBLISH
 X-WR-CALNAME:Rocky Mountain Lunch (RME)
 X-WR-TIMEZONE:America/Denver
 BEGIN:VEVENT
-UID:20261014-rme-lunch@linq
-DTSTAMP:20261014T000000Z
-DTSTART;VALUE=DATE:20261014
-DTEND;VALUE=DATE:20261015
-SUMMARY:Rib Sandwich| Chicken Snack Wrap| Uncrustables Strawberry| Grape Un
- crustables| Yogurt Parfait
-DESCRIPTION:Side: Harvest Cheddar Sunchips\, String Cheese\nVegetable: Corn
- \, Bagged Baby Carrots\nFruit: Grapes\, Apples Sliced Bags\, Mandarin Oran
- ges\nMilk: 1% White Milk\, Fat Free Chocolate Milk\, Strawberry Milk Fat F
- ree\nCondiments: Ranch Cups\, Sauce BBQ Cup\, Lettuce\, Shredded\nFruit Ju
- ice: Froot Jooce Cups Strawberry\nOther: Chicken Nuggets GF
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:20261020-rme-lunch@linq
 DTSTAMP:20261020T000000Z
 DTSTART;VALUE=DATE:20261020
@@ -42,10 +28,11 @@ DTEND;VALUE=DATE:20261022
 SUMMARY:Spaghetti Meat Sauce| Chicken Sandwich Gold Creek| Spicy Chicken Sa
  ndwich Gold Creek| Grape Uncrustables
 DESCRIPTION:Side: Penne Pasta\, String Cheese\, Garlic Breadstick\nVegetabl
- e: Steamed Peas\, Vegetable Bag (Broc/Cuc/Cel)\nFruit: Grapes\nMilk: 1% Wh
- ite Milk\, Fat Free Chocolate Milk\nCondiments: Ranch Cups\, Lettuce\, Shr
- edded\, Pickle Dill Chips\, Mayo\, Ketchup Packet\, Mustard Packet\nFruit 
- Juice: Apple Juice\nOther: Chicken Nuggets GF
+ e: Steamed Peas\, Vegetable Bag (Broc/Cuc/Cel)\nFruit: Grapes\, Pineapple 
+ Tidbits\, Apples Sliced Bags\nMilk: 1% White Milk\, Fat Free Chocolate Mil
+ k\nCondiments: Ranch Cups\, Lettuce\, Shredded\, Pickle Dill Chips\, Mayo\
+ , Ketchup Packet\, Mustard Packet\nFruit Juice: Apple Juice\nOther: Chicke
+ n Nuggets GF
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -137,7 +124,7 @@ SUMMARY:Big Daddy's Cheese Pizza| Big Daddy's Pepperoni Pizza| Chicken Snac
 DESCRIPTION:Side: String Cheese\nVegetable: Bagged Baby Carrots\, Baked Bea
  ns\nFruit: Apple Crunchables\, Clementines\nMilk: 1% White Milk\, Fat Free
   Chocolate Milk\nCondiments: Ranch Cups\, Sauce BBQ Cup\, Lettuce\, Shredd
- ed\nDessert: Cookie Holiday\nOther: GF Pizza Pocket\, Cookie Choc Chip GF
+ ed\nOther: GF Pizza Pocket
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
