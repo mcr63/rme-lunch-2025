@@ -41,12 +41,12 @@ DTSTAMP:20261022T000000Z
 DTSTART;VALUE=DATE:20261022
 DTEND;VALUE=DATE:20261023
 SUMMARY:Chicken Drumstick Gold Creek| Deli Sandwich (Ham & Turkey)| Grape U
- ncrustables| GF Deli Sandwich (Ham & Turkey)
+ ncrustables| GF Deli Sandwich (Ham & Turkey)| Yogurt Parfait
 DESCRIPTION:Side: LS GF Chicken Gravy Mix\, Homemade Roll\, String Cheese\n
  Vegetable: Mashed Potatoes\, Colorful Carrots\, Side Salad\nFruit: Mandari
- n Oranges\, Apple\nMilk: 1% White Milk\, Fat Free Chocolate Milk\nCondimen
- ts: Jelly Packets\, Lettuce\, Shredded\, Pickle Dill Chips\, Mayo\, Mustar
- d Packet
+ n Oranges\, Apple\, Grapes\nMilk: 1% White Milk\, Fat Free Chocolate Milk\
+ nCondiments: Jelly Packets\, Lettuce\, Shredded\, Pickle Dill Chips\, Mayo
+ \, Mustard Packet
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -145,12 +145,13 @@ UID:20261104-rme-lunch@linq
 DTSTAMP:20261104T000000Z
 DTSTART;VALUE=DATE:20261104
 DTEND;VALUE=DATE:20261105
-SUMMARY:Mini Calzones| Crispy Chicken Sandwich| Uncrustables Strawberry| Sp
- icy Chicken Sandwich Gold Creek
-DESCRIPTION:Side: Original Sunchips\nVegetable: Marinara Sauce\, Colorful C
- arrots\, Side Salad\nFruit: Fresh Fruit Assortment\, Canned Fruit\nMilk: F
- at Free Chocolate Milk\, 1% White Milk\nCondiments: Chicken Sandwich Condi
- ments
+SUMMARY:Mini Calzones| Crispy Chicken Sandwich| Spicy Chicken Sandwich Gold
+  Creek| Uncrustables Strawberry
+DESCRIPTION:Side: Doritos Cool Ranch Chips\nVegetable: Marinara Sauce\, Col
+ orful Carrots\, Fresh Vegetable Bags  (cel/tom/car)\nFruit: Oranges\nMilk:
+  1% White Milk\, Fat Free Chocolate Milk\nCondiments: Lettuce\, Shredded\,
+  Pickle Dill Chips\, Mayo\, Mustard Packet\, Ketchup Packet\, Sauce BBQ Cu
+ p\nFruit Juice: Blue Raspberry Applesauce\nOther: GF Pizza Pocket
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -161,9 +162,9 @@ DTEND;VALUE=DATE:20261106
 SUMMARY:Alpine Chicken Bowl (Elementary)| Ham and Cheese Melt| Uncrustables
   Strawberry
 DESCRIPTION:Side: Homemade Roll\, String Cheese\nVegetable: Corn\, Fresh Ve
- getable Bags  (cel/tom/car)\nFruit: Fresh Fruit Assortment\nMilk: 1% White
-  Milk\, Fat Free Chocolate Milk\nCondiments: Jelly Packets\nFruit Juice: A
- pple Juice
+ getable Bags  (cel/tom/car)\nFruit: Apples Sliced Bags\nMilk: 1% White Mil
+ k\, Fat Free Chocolate Milk\nCondiments: Jelly Packets\, Ranch Cups\, Fry 
+ Sauce\nFruit Juice: Berry Juice\nOther: Chicken Nuggets GF
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
