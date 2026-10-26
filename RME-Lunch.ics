@@ -54,11 +54,13 @@ UID:20261023-rme-lunch@linq
 DTSTAMP:20261023T000000Z
 DTSTART;VALUE=DATE:20261023
 DTEND;VALUE=DATE:20261024
-SUMMARY:Mini Calzones| Hot Dog on a Bun| Grape Uncrustables
-DESCRIPTION:Side: String Cheese\, Doritos Cool Ranch Chips\nVegetable: Mari
- nara Sauce\, Baked Beans\, Fresh Veggie Bag (Cuc/Tom/Car)\nFruit: Peaches 
- Sliced\, Plum\nMilk: 1% White Milk\, Fat Free Chocolate Milk\nCondiments: 
- Mustard Packet\, Ketchup Packet\, Ranch Cups\nOther: GF Pizza Pocket
+SUMMARY:Mini Calzones| Hot Dog on a Bun| Grape Uncrustables| Uncrustables S
+ trawberry| Deli Sandwich (Ham & Turkey)
+DESCRIPTION:Side: String Cheese\, Doritos Cool Ranch Chips\, Doritos Nacho 
+ Cheese Chips\nVegetable: Marinara Sauce\, Baked Beans\, Fresh Veggie Bag (
+ Cuc/Tom/Car)\nFruit: Peaches Sliced\, Plum\, Grapes\, Mandarin Oranges\, A
+ pple\nMilk: 1% White Milk\, Fat Free Chocolate Milk\nCondiments: Mustard P
+ acket\, Ketchup Packet\, Ranch Cups\nOther: GF Pizza Pocket
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -174,10 +176,11 @@ DTSTART;VALUE=DATE:20261106
 DTEND;VALUE=DATE:20261107
 SUMMARY:Cheese Pizza Dippers| Pepperoni Pizza Dippers| Mini Corndogs| Uncru
  stables Strawberry
-DESCRIPTION:Side: Raspberry Yogurt\, Doritos Cool Ranch Chips\nVegetable: F
- resh Vegetable Bags  (cel/tom/car)\, Marinara Sauce\, Baked Beans\nFruit: 
- Fresh Fruit Assortment\, Canned Fruit\nMilk: 1% White Milk\, Fat Free Choc
- olate Milk\nCondiments: Ranch Cups
+DESCRIPTION:Side: Raspberry Yogurt\, Doritos Cool Ranch Chips\nVegetable: M
+ arinara Sauce\, Baked Beans\, Bagged Baby Carrots\nFruit: Peaches Sliced\,
+  Plum\nMilk: 1% White Milk\, Fat Free Chocolate Milk\nCondiments: Ranch Cu
+ ps\, Ketchup Packet\, Mustard Packet\, Fry Sauce\nOther: Corn Dog Chicken 
+ GF
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -187,9 +190,9 @@ DTSTART;VALUE=DATE:20261109
 DTEND;VALUE=DATE:20261110
 SUMMARY:Orange Chicken| Hot Dog on a Bun| Grape Uncrustables
 DESCRIPTION:Side: Rice\, Muffin Choc Chip WG IW\nVegetable: Steamed Broccol
- i\, Bagged Baby Carrots\nFruit: Fresh Fruit Assortment\, Canned Fruit\nMil
- k: 1% White Milk\, Fat Free Chocolate Milk\nCondiments: Ketchup Packet\, M
- ustard Packet\, Ranch Cups
+ i\, Side Salad\nFruit: Mandarin Oranges\, Banana\nMilk: 1% White Milk\, Fa
+ t Free Chocolate Milk\nCondiments: Ketchup Packet\, Mustard Packet\, Ranch
+  Cups\nOther: Bun Hot Dog GF
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -200,8 +203,10 @@ DTEND;VALUE=DATE:20261111
 SUMMARY:Nachos (Chips & Cheese)| Chicken Sandwich Gold Creek| Spicy Chicken
   Sandwich Gold Creek| Grape Uncrustables
 DESCRIPTION:Side: Taco Meat\, Cherry Yogurt\nVegetable: Refried Beans\, Cor
- n\nFruit: Fresh Fruit Assortment\, Strawberry Applesauce\nMilk: 1% White M
- ilk\, Fat Free Chocolate Milk\nCondiments: Sour Cream Packets\, Salsa Mild
+ n\nFruit: Strawberry Applesauce\, Oranges\nMilk: 1% White Milk\, Fat Free 
+ Chocolate Milk\nCondiments: Sour Cream Packets\, Salsa Mild\, Lettuce\, Sh
+ redded\, Pickle Dill Chips\, Mayo\, Mustard Packet\, Ketchup Packet\, Sauc
+ e Taco IW Packets
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -328,6 +333,18 @@ DESCRIPTION:Side: Muffin Choc Chip WG IW\nVegetable: Corn\, Bagged Baby Car
  rots\nFruit: Fresh Fruit Assortment\, Applesauce Mango peach\nMilk: 1% Whi
  te Milk\, Fat Free Chocolate Milk\nCondiments: Ranch Cups\, Ketchup Packet
  \, Mustard Packet
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20261130-rme-lunch@linq
+DTSTAMP:20261130T000000Z
+DTSTART;VALUE=DATE:20261130
+DTEND;VALUE=DATE:20261201
+SUMMARY:Teriyaki Chicken Recipe| Hamburger on a Bun| Grape Uncrustables
+DESCRIPTION:Side: Rice\, Pot Stickers\nVegetable: Bagged Baby Carrots\, Ste
+ amed Broccoli\nFruit: Fresh Fruit Assortment\, Canned Fruit\nMilk: 1% Whit
+ e Milk\, Fat Free Chocolate Milk\nCondiments: Hamburger Condiments\, Teriy
+ aki Sauce Minh\nDessert: Chocolate Creamie\, Banana Creamie
 TRANSP:TRANSPARENT
 END:VEVENT
 END:VCALENDAR
