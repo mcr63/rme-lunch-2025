@@ -68,7 +68,8 @@ UID:20261026-rme-lunch@linq
 DTSTAMP:20261026T000000Z
 DTSTART;VALUE=DATE:20261026
 DTEND;VALUE=DATE:20261027
-SUMMARY:Teriyaki Chicken Recipe| Hamburger on a Bun| Grape Uncrustables
+SUMMARY:Teriyaki Chicken Recipe| Hamburger on a Bun| Uncrustables Strawberr
+ y
 DESCRIPTION:Side: Rice\, Pot Stickers\nVegetable: Bagged Baby Carrots\, Ste
  amed Broccoli\nFruit: Mandarin Oranges\, Banana\nMilk: 1% White Milk\, Fat
   Free Chocolate Milk\nCondiments: Teriyaki Sauce Minh\, Pickle Dill Chips\
@@ -345,6 +346,19 @@ DESCRIPTION:Side: Rice\, Pot Stickers\nVegetable: Bagged Baby Carrots\, Ste
  amed Broccoli\nFruit: Fresh Fruit Assortment\, Canned Fruit\nMilk: 1% Whit
  e Milk\, Fat Free Chocolate Milk\nCondiments: Hamburger Condiments\, Teriy
  aki Sauce Minh\nDessert: Chocolate Creamie\, Banana Creamie
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20261201-rme-lunch@linq
+DTSTAMP:20261201T000000Z
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261202
+SUMMARY:Macaroni & Cheese  (non-WG)| Chicken Sandwich Gold Creek| Spicy Chi
+ cken Sandwich Gold Creek| Grape Uncrustables
+DESCRIPTION:Side: Garlic Breadstick\, Muffin Blueberry WG IW\, Yogurt Straw
+ /Banana\nVegetable: Side Salad\, Corn\nFruit: Fresh Fruit Assortment\, Str
+ awberry Dessert\nMilk: 1% White Milk\, Fat Free Chocolate Milk\nCondiments
+ : Chicken Sandwich Condiments\, Ranch Cups
 TRANSP:TRANSPARENT
 END:VEVENT
 END:VCALENDAR
