@@ -6,21 +6,6 @@ METHOD:PUBLISH
 X-WR-CALNAME:Rocky Mountain Lunch (RME)
 X-WR-TIMEZONE:America/Denver
 BEGIN:VEVENT
-UID:20261021-rme-lunch@linq
-DTSTAMP:20261021T000000Z
-DTSTART;VALUE=DATE:20261021
-DTEND;VALUE=DATE:20261022
-SUMMARY:Spaghetti Meat Sauce| Chicken Sandwich Gold Creek| Spicy Chicken Sa
- ndwich Gold Creek| Grape Uncrustables
-DESCRIPTION:Side: Penne Pasta\, String Cheese\, Garlic Breadstick\nVegetabl
- e: Steamed Peas\, Vegetable Bag (Broc/Cuc/Cel)\nFruit: Grapes\, Pineapple 
- Tidbits\, Apples Sliced Bags\nMilk: 1% White Milk\, Fat Free Chocolate Mil
- k\nCondiments: Ranch Cups\, Lettuce\, Shredded\, Pickle Dill Chips\, Mayo\
- , Ketchup Packet\, Mustard Packet\nFruit Juice: Apple Juice\nOther: Chicke
- n Nuggets GF
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:20261022-rme-lunch@linq
 DTSTAMP:20261022T000000Z
 DTSTART;VALUE=DATE:20261022
@@ -82,11 +67,12 @@ DTSTAMP:20261028T000000Z
 DTSTART;VALUE=DATE:20261028
 DTEND;VALUE=DATE:20261029
 SUMMARY:Chicken Nuggets| Chicken Corn Dog| Uncrustables Strawberry
-DESCRIPTION:Side: String Cheese\, Cherry Yogurt\nVegetable: Potato Twister 
- Fries\, Side Salad\nFruit: Grapes\, Strawberry Dessert\nMilk: 1% White Mil
- k\, Fat Free Chocolate Milk\nCondiments: Fry Sauce\, Ketchup Packet\, Ranc
- h Cups\, Mustard Packet\, Sauce BBQ Cup\, Sauce Sweet & Sour\nOther: Corn 
- Dog Chicken GF
+DESCRIPTION:Side: String Cheese\, Cherry Yogurt\, Muffin Blueberry WG IW\nV
+ egetable: Potato Twister Fries\, Side Salad\, Potato\, Tater Tot Ore Ida\n
+ Fruit: Grapes\, Strawberry Dessert\, Apples Sliced Bags\, Apple\, Pineappl
+ e Tidbits\nMilk: 1% White Milk\, Fat Free Chocolate Milk\nCondiments: Fry 
+ Sauce\, Ketchup Packet\, Ranch Cups\, Mustard Packet\, Sauce BBQ Cup\, Hon
+ ey Mustard\nOther: Corn Dog Chicken GF
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -357,6 +343,18 @@ SUMMARY:Chicken Nuggets| Chicken Corn Dog| Grape Uncrustables
 DESCRIPTION:Side: String Cheese\nVegetable: Potato Twister Fries\, Side Sal
  ad\nFruit: Fresh Fruit Assortment\, Canned Fruit\nMilk: 1% White Milk\, Fa
  t Free Chocolate Milk\nCondiments: Fry Sauce\, Ketchup Packet\, Ranch Cups
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20261203-rme-lunch@linq
+DTSTAMP:20261203T000000Z
+DTSTART;VALUE=DATE:20261203
+DTEND;VALUE=DATE:20261204
+SUMMARY:Taco Soup| Deli Sandwich (Ham & Turkey)| Grape Uncrustables
+DESCRIPTION:Side: Doritos Cool Ranch Chips\, Baked Scoops Chips\, String Ch
+ eese\nVegetable: Fresh Veggie Bag (Cuc/Tom/Car)\, Green Beans\nFruit: Fres
+ h Fruit Assortment\, Canned Fruit\nMilk: 1% White Milk\, Fat Free Chocolat
+ e Milk\nCondiments: Sour Cream Packets\, Shredded Cheddar Cheese
 TRANSP:TRANSPARENT
 END:VEVENT
 END:VCALENDAR
