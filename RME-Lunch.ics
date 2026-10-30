@@ -6,20 +6,6 @@ METHOD:PUBLISH
 X-WR-CALNAME:Rocky Mountain Lunch (RME)
 X-WR-TIMEZONE:America/Denver
 BEGIN:VEVENT
-UID:20261022-rme-lunch@linq
-DTSTAMP:20261022T000000Z
-DTSTART;VALUE=DATE:20261022
-DTEND;VALUE=DATE:20261023
-SUMMARY:Chicken Drumstick Gold Creek| Deli Sandwich (Ham & Turkey)| Grape U
- ncrustables| GF Deli Sandwich (Ham & Turkey)| Yogurt Parfait
-DESCRIPTION:Side: LS GF Chicken Gravy Mix\, Homemade Roll\, String Cheese\n
- Vegetable: Mashed Potatoes\, Colorful Carrots\, Side Salad\nFruit: Mandari
- n Oranges\, Apple\, Grapes\nMilk: 1% White Milk\, Fat Free Chocolate Milk\
- nCondiments: Jelly Packets\, Lettuce\, Shredded\, Pickle Dill Chips\, Mayo
- \, Mustard Packet
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:20261023-rme-lunch@linq
 DTSTAMP:20261023T000000Z
 DTSTART;VALUE=DATE:20261023
@@ -80,12 +66,14 @@ UID:20261029-rme-lunch@linq
 DTSTAMP:20261029T000000Z
 DTSTART;VALUE=DATE:20261029
 DTEND;VALUE=DATE:20261030
-SUMMARY:Taco Soup| Deli Sandwich (Ham & Turkey)| Grape Uncrustables
+SUMMARY:Taco Soup| Deli Sandwich (Ham & Turkey)| Uncrustables Strawberry| Y
+ ogurt Parfait
 DESCRIPTION:Side: Doritos Cool Ranch Chips\, Baked Scoops Chips\, String Ch
- eese\nVegetable: Fresh Veggie Bag (Cuc/Tom/Car)\, Green Beans\nFruit: Peac
- hes Sliced\, Plum\nMilk: 1% White Milk\, Fat Free Chocolate Milk\nCondimen
- ts: Sour Cream Packets\, Shredded Cheddar Cheese\, Lettuce\, Shredded\, Pi
- ckle Dill Chips\, Mayo\, Mustard Packet
+ eese\, Doritos Nacho Cheese Chips\nVegetable: Fresh Veggie Bag (Cuc/Tom/Ca
+ r)\, Green Beans\, Bagged Baby Carrots\nFruit: Peaches Sliced\, Plum\, Gra
+ pes\nMilk: 1% White Milk\, Fat Free Chocolate Milk\nCondiments: Sour Cream
+  Packets\, Shredded Cheddar Cheese\, Lettuce\, Shredded\, Pickle Dill Chip
+ s\, Mayo\, Mustard Packet\, Ranch Cups
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -355,6 +343,19 @@ DESCRIPTION:Side: Doritos Cool Ranch Chips\, Baked Scoops Chips\, String Ch
  eese\nVegetable: Fresh Veggie Bag (Cuc/Tom/Car)\, Green Beans\nFruit: Fres
  h Fruit Assortment\, Canned Fruit\nMilk: 1% White Milk\, Fat Free Chocolat
  e Milk\nCondiments: Sour Cream Packets\, Shredded Cheddar Cheese
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20261204-rme-lunch@linq
+DTSTAMP:20261204T000000Z
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261205
+SUMMARY:Big Daddy's Cheese Pizza| Big Daddy's Pepperoni Pizza| Chicken Snac
+ k Wrap| Grape Uncrustables
+DESCRIPTION:Side: String Cheese\, Bug Bites Grahams Crackers\nVegetable: Ba
+ gged Baby Carrots\, Baked Beans\nFruit: Fresh Fruit Assortment\, Apple Cru
+ nchables\nMilk: 1% White Milk\, Fat Free Chocolate Milk\nCondiments: Ranch
+  Cups\, Sauce BBQ Cup\, Lettuce\, Shredded
 TRANSP:TRANSPARENT
 END:VEVENT
 END:VCALENDAR
