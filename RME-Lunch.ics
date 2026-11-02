@@ -6,20 +6,6 @@ METHOD:PUBLISH
 X-WR-CALNAME:Rocky Mountain Lunch (RME)
 X-WR-TIMEZONE:America/Denver
 BEGIN:VEVENT
-UID:20261023-rme-lunch@linq
-DTSTAMP:20261023T000000Z
-DTSTART;VALUE=DATE:20261023
-DTEND;VALUE=DATE:20261024
-SUMMARY:Mini Calzones| Hot Dog on a Bun| Grape Uncrustables| Uncrustables S
- trawberry| Deli Sandwich (Ham & Turkey)
-DESCRIPTION:Side: String Cheese\, Doritos Cool Ranch Chips\, Doritos Nacho 
- Cheese Chips\nVegetable: Marinara Sauce\, Baked Beans\, Fresh Veggie Bag (
- Cuc/Tom/Car)\nFruit: Peaches Sliced\, Plum\, Grapes\, Mandarin Oranges\, A
- pple\nMilk: 1% White Milk\, Fat Free Chocolate Milk\nCondiments: Mustard P
- acket\, Ketchup Packet\, Ranch Cups\nOther: GF Pizza Pocket
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:20261026-rme-lunch@linq
 DTSTAMP:20261026T000000Z
 DTSTART;VALUE=DATE:20261026
@@ -84,9 +70,10 @@ DTEND;VALUE=DATE:20261031
 SUMMARY:Big Daddy's Cheese Pizza| Big Daddy's Pepperoni Pizza| Chicken Snac
  k Wrap| Grape Uncrustables
 DESCRIPTION:Side: String Cheese\nVegetable: Bagged Baby Carrots\, Baked Bea
- ns\nFruit: Apple Crunchables\, Clementines\nMilk: 1% White Milk\, Fat Free
-  Chocolate Milk\nCondiments: Ranch Cups\, Sauce BBQ Cup\, Lettuce\, Shredd
- ed\nOther: GF Pizza Pocket
+ ns\nFruit: Apple Crunchables\, Clementines\, Plum\, Apples Sliced Bags\, S
+ trawberry Applesauce\nMilk: 1% White Milk\, Fat Free Chocolate Milk\nCondi
+ ments: Ranch Cups\, Sauce BBQ Cup\, Lettuce\, Shredded\, Honey Mustard\nOt
+ her: GF Pizza Pocket
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -202,7 +189,7 @@ DTSTAMP:20261113T000000Z
 DTSTART;VALUE=DATE:20261113
 DTEND;VALUE=DATE:20261114
 SUMMARY:Big Daddy's Cheese Pizza| Big Daddy's Pepperoni Pizza| Deli Sandwic
- h (Ham & Turkey)| Grape Uncrustables
+ h (Ham & Turkey)| Grape Uncrustables| Field Trip Anytimer
 DESCRIPTION:Side: String Cheese\, Chex Mix Simply Cheddar\nVegetable: Steam
  ed Peas\, Bagged Baby Carrots\nFruit: Apple Crunchables\, Plum\nMilk: 1% W
  hite Milk\, Fat Free Chocolate Milk\, Strawberry Milk Fat Free\nCondiments
@@ -356,6 +343,18 @@ DESCRIPTION:Side: String Cheese\, Bug Bites Grahams Crackers\nVegetable: Ba
  gged Baby Carrots\, Baked Beans\nFruit: Fresh Fruit Assortment\, Apple Cru
  nchables\nMilk: 1% White Milk\, Fat Free Chocolate Milk\nCondiments: Ranch
   Cups\, Sauce BBQ Cup\, Lettuce\, Shredded
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20261207-rme-lunch@linq
+DTSTAMP:20261207T000000Z
+DTSTART;VALUE=DATE:20261207
+DTEND;VALUE=DATE:20261208
+SUMMARY:French Toast Sticks| Hamburger on a Bun| Uncrustables Strawberry
+DESCRIPTION:Side: Egg Omelet w/ Cheese\, String Cheese\nVegetable: Potato S
+ miles\, Bagged Baby Carrots\nFruit: Fresh Fruit Assortment\, Canned Fruit\
+ nMilk: 1% White Milk\, Fat Free Chocolate Milk\nCondiments: Cheese America
+ n Sliced\, Fry Sauce\, Ketchup Packet\, Syrup
 TRANSP:TRANSPARENT
 END:VEVENT
 END:VCALENDAR
