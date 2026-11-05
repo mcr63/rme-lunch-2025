@@ -6,20 +6,6 @@ METHOD:PUBLISH
 X-WR-CALNAME:Rocky Mountain Lunch (RME)
 X-WR-TIMEZONE:America/Denver
 BEGIN:VEVENT
-UID:20261028-rme-lunch@linq
-DTSTAMP:20261028T000000Z
-DTSTART;VALUE=DATE:20261028
-DTEND;VALUE=DATE:20261029
-SUMMARY:Chicken Nuggets| Chicken Corn Dog| Uncrustables Strawberry
-DESCRIPTION:Side: String Cheese\, Cherry Yogurt\, Muffin Blueberry WG IW\nV
- egetable: Potato Twister Fries\, Side Salad\, Potato\, Tater Tot Ore Ida\n
- Fruit: Grapes\, Strawberry Dessert\, Apples Sliced Bags\, Apple\, Pineappl
- e Tidbits\nMilk: 1% White Milk\, Fat Free Chocolate Milk\nCondiments: Fry 
- Sauce\, Ketchup Packet\, Ranch Cups\, Mustard Packet\, Sauce BBQ Cup\, Hon
- ey Mustard\nOther: Corn Dog Chicken GF
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:20261029-rme-lunch@linq
 DTSTAMP:20261029T000000Z
 DTSTART;VALUE=DATE:20261029
@@ -137,10 +123,10 @@ DTSTART;VALUE=DATE:20261111
 DTEND;VALUE=DATE:20261112
 SUMMARY:Mozzarella Breadsticks| Mini Corndogs| Grape Uncrustables
 DESCRIPTION:Side: String Cheese\nVegetable: Potato Wedges\, Marinara Sauce\
- , Fresh Vegetable Bags  (cel/tom/car)\nFruit: Fresh Pears\, Peaches Sliced
- \nMilk: 1% White Milk\, Fat Free Chocolate Milk\nCondiments: Ranch Cups\, 
- Fry Sauce\, Ketchup Packet\, Mustard Packet\nDessert: Chocolate Chip Cooki
- es\nOther: Cookie Choc Chip GF\, Corn Dog Chicken GF
+ , Fresh Vegetable Bags  (cel/tom/car)\nFruit: Peaches Sliced\, Grapes\nMil
+ k: 1% White Milk\, Fat Free Chocolate Milk\nCondiments: Ranch Cups\, Fry S
+ auce\, Ketchup Packet\, Mustard Packet\nDessert: Chocolate Chip Cookies\nO
+ ther: Cookie Choc Chip GF\, Corn Dog Chicken GF
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -165,9 +151,9 @@ DTEND;VALUE=DATE:20261114
 SUMMARY:Big Daddy's Cheese Pizza| Big Daddy's Pepperoni Pizza| Deli Sandwic
  h (Ham & Turkey)| Grape Uncrustables| Field Trip Anytimer
 DESCRIPTION:Side: String Cheese\, Chex Mix Simply Cheddar\nVegetable: Steam
- ed Peas\, Bagged Baby Carrots\nFruit: Apple Crunchables\, Plum\nMilk: 1% W
- hite Milk\, Fat Free Chocolate Milk\, Strawberry Milk Fat Free\nCondiments
- : Ranch Cups\nOther: GF Pizza Pocket
+ ed Peas\, Bagged Baby Carrots\nFruit: Apple Crunchables\, Fresh Pears\nMil
+ k: 1% White Milk\, Fat Free Chocolate Milk\, Strawberry Milk Fat Free\nCon
+ diments: Ranch Cups\nOther: GF Pizza Pocket
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -355,6 +341,19 @@ DESCRIPTION:Side: Original Sunchips\nVegetable: Marinara Sauce\, Colorful C
  arrots\, Side Salad\nFruit: Fresh Fruit Assortment\, Canned Fruit\nMilk: F
  at Free Chocolate Milk\, 1% White Milk\nCondiments: Chicken Sandwich Condi
  ments
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20261210-rme-lunch@linq
+DTSTAMP:20261210T000000Z
+DTSTART;VALUE=DATE:20261210
+DTEND;VALUE=DATE:20261211
+SUMMARY:Alpine Chicken Bowl (Elementary)| Ham and Cheese Melt| Uncrustables
+  Strawberry
+DESCRIPTION:Side: Homemade Roll\, String Cheese\nVegetable: Corn\, Fresh Ve
+ getable Bags  (cel/tom/car)\nFruit: Fresh Fruit Assortment\nMilk: 1% White
+  Milk\, Fat Free Chocolate Milk\nCondiments: Jelly Packets\nFruit Juice: A
+ pple Juice
 TRANSP:TRANSPARENT
 END:VEVENT
 END:VCALENDAR
