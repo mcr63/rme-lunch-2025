@@ -6,21 +6,6 @@ METHOD:PUBLISH
 X-WR-CALNAME:Rocky Mountain Lunch (RME)
 X-WR-TIMEZONE:America/Denver
 BEGIN:VEVENT
-UID:20261029-rme-lunch@linq
-DTSTAMP:20261029T000000Z
-DTSTART;VALUE=DATE:20261029
-DTEND;VALUE=DATE:20261030
-SUMMARY:Taco Soup| Deli Sandwich (Ham & Turkey)| Uncrustables Strawberry| Y
- ogurt Parfait
-DESCRIPTION:Side: Doritos Cool Ranch Chips\, Baked Scoops Chips\, String Ch
- eese\, Doritos Nacho Cheese Chips\nVegetable: Fresh Veggie Bag (Cuc/Tom/Ca
- r)\, Green Beans\, Bagged Baby Carrots\nFruit: Peaches Sliced\, Plum\, Gra
- pes\nMilk: 1% White Milk\, Fat Free Chocolate Milk\nCondiments: Sour Cream
-  Packets\, Shredded Cheddar Cheese\, Lettuce\, Shredded\, Pickle Dill Chip
- s\, Mayo\, Mustard Packet\, Ranch Cups
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:20261030-rme-lunch@linq
 DTSTAMP:20261030T000000Z
 DTSTART;VALUE=DATE:20261030
@@ -54,13 +39,13 @@ DTSTAMP:20261104T000000Z
 DTSTART;VALUE=DATE:20261104
 DTEND;VALUE=DATE:20261105
 SUMMARY:Mini Calzones| Crispy Chicken Sandwich| Spicy Chicken Sandwich Gold
-  Creek| Uncrustables Strawberry
+  Creek| Grape Uncrustables
 DESCRIPTION:Side: Doritos Cool Ranch Chips\nVegetable: Marinara Sauce\, Col
  orful Carrots\, Fresh Vegetable Bags  (cel/tom/car)\nFruit: Oranges\, Mand
- arin Oranges\nMilk: 1% White Milk\, Fat Free Chocolate Milk\nCondiments: L
- ettuce\, Shredded\, Pickle Dill Chips\, Mayo\, Mustard Packet\, Ketchup Pa
- cket\, Sauce BBQ Cup\nFruit Juice: Blue Raspberry Applesauce\nOther: GF Pi
- zza Pocket
+ arin Oranges\, Banana\nMilk: 1% White Milk\, Fat Free Chocolate Milk\nCond
+ iments: Lettuce\, Shredded\, Pickle Dill Chips\, Mayo\, Mustard Packet\, K
+ etchup Packet\, Sauce BBQ Cup\, Ranch Cups\nFruit Juice: Blue Raspberry Ap
+ plesauce\nOther: GF Pizza Pocket
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -69,11 +54,12 @@ DTSTAMP:20261105T000000Z
 DTSTART;VALUE=DATE:20261105
 DTEND;VALUE=DATE:20261106
 SUMMARY:Alpine Chicken Bowl (Elementary)| Ham and Cheese Melt| Uncrustables
-  Strawberry
+  Strawberry| Grape Uncrustables| Yogurt Parfait
 DESCRIPTION:Side: Homemade Roll\, String Cheese\nVegetable: Corn\, Fresh Ve
- getable Bags  (cel/tom/car)\nFruit: Apples Sliced Bags\nMilk: 1% White Mil
- k\, Fat Free Chocolate Milk\nCondiments: Jelly Packets\, Ranch Cups\, Fry 
- Sauce\nFruit Juice: Berry Juice\nOther: Chicken Nuggets GF
+ getable Bags  (cel/tom/car)\, Bagged Baby Carrots\nFruit: Apples Sliced Ba
+ gs\, Mandarin Oranges\nMilk: 1% White Milk\, Fat Free Chocolate Milk\nCond
+ iments: Jelly Packets\, Ranch Cups\, Fry Sauce\nFruit Juice: Berry Juice\n
+ Other: Chicken Nuggets GF
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -190,9 +176,10 @@ DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261119
 SUMMARY:Rib Sandwich| Chicken Snack Wrap| Uncrustables Strawberry
 DESCRIPTION:Side: Harvest Cheddar Sunchips\, String Cheese\nVegetable: Corn
- \, Side Salad\nFruit: Fresh Fruit Assortment\nMilk: 1% White Milk\, Fat Fr
- ee Chocolate Milk\nCondiments: Ranch Cups\, Sauce BBQ Cup\nFruit Juice: Fr
- oot Jooce Cup Variety
+ \, Bagged Baby Carrots\nFruit: Fresh Pears\nMilk: 1% White Milk\, Fat Free
+  Chocolate Milk\nCondiments: Ranch Cups\, Sauce BBQ Cup\, Lettuce\, Shredd
+ ed\, Shredded Cheddar Cheese\nFruit Juice: Froot Jooce Cups Strawberry\nOt
+ her: Corn Dog Chicken GF
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -203,9 +190,9 @@ DTEND;VALUE=DATE:20261120
 SUMMARY:Ham and Cheese Melt| Uncrustables Strawberry| Turkey Roast Sliced
 DESCRIPTION:Side: Homemade Roll\, String Cheese\, Turkey Gravy Mix\nVegetab
  le: Mashed Potatoes\, Fresh Veggie Bag (Cuc/Tom/Car)\, Green Beans\nFruit:
-  Fresh Fruit Assortment\nMilk: Fat Free Chocolate Milk\, 1% White Milk\nCo
- ndiments: Ranch Cups\, Jelly Packets\nDessert: Cookie Holiday\nFruit Juice
- : Blue Raspberry Applesauce
+  Oranges\nMilk: Fat Free Chocolate Milk\, 1% White Milk\nCondiments: Ranch
+  Cups\, Jelly Packets\, Fry Sauce\nDessert: Pumpkin Chocolate Chip Cookie\
+ nFruit Juice: Blue Raspberry Applesauce\nOther: Cookie Choc Chip GF
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -354,6 +341,19 @@ DESCRIPTION:Side: Homemade Roll\, String Cheese\nVegetable: Corn\, Fresh Ve
  getable Bags  (cel/tom/car)\nFruit: Fresh Fruit Assortment\nMilk: 1% White
   Milk\, Fat Free Chocolate Milk\nCondiments: Jelly Packets\nFruit Juice: A
  pple Juice
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20261211-rme-lunch@linq
+DTSTAMP:20261211T000000Z
+DTSTART;VALUE=DATE:20261211
+DTEND;VALUE=DATE:20261212
+SUMMARY:Cheese Pizza Dippers| Pepperoni Pizza Dippers| Mini Corndogs| Uncru
+ stables Strawberry
+DESCRIPTION:Side: Raspberry Yogurt\nVegetable: Fresh Vegetable Bags  (cel/t
+ om/car)\, Steamed Peas\, Marinara Sauce\nFruit: Fresh Fruit Assortment\, C
+ anned Fruit\nMilk: 1% White Milk\, Fat Free Chocolate Milk\nCondiments: Ra
+ nch Cups\nDessert: Scooby Snacks
 TRANSP:TRANSPARENT
 END:VEVENT
 END:VCALENDAR
