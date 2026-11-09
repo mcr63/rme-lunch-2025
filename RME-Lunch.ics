@@ -6,20 +6,6 @@ METHOD:PUBLISH
 X-WR-CALNAME:Rocky Mountain Lunch (RME)
 X-WR-TIMEZONE:America/Denver
 BEGIN:VEVENT
-UID:20261030-rme-lunch@linq
-DTSTAMP:20261030T000000Z
-DTSTART;VALUE=DATE:20261030
-DTEND;VALUE=DATE:20261031
-SUMMARY:Big Daddy's Cheese Pizza| Big Daddy's Pepperoni Pizza| Chicken Snac
- k Wrap| Grape Uncrustables
-DESCRIPTION:Side: String Cheese\nVegetable: Bagged Baby Carrots\, Baked Bea
- ns\nFruit: Apple Crunchables\, Clementines\, Plum\, Apples Sliced Bags\, S
- trawberry Applesauce\nMilk: 1% White Milk\, Fat Free Chocolate Milk\nCondi
- ments: Ranch Cups\, Sauce BBQ Cup\, Lettuce\, Shredded\, Honey Mustard\nOt
- her: GF Pizza Pocket
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:20261103-rme-lunch@linq
 DTSTAMP:20261103T000000Z
 DTSTART;VALUE=DATE:20261103
@@ -69,11 +55,12 @@ DTSTART;VALUE=DATE:20261106
 DTEND;VALUE=DATE:20261107
 SUMMARY:Cheese Pizza Dippers| Pepperoni Pizza Dippers| Mini Corndogs| Uncru
  stables Strawberry
-DESCRIPTION:Side: Raspberry Yogurt\, Doritos Cool Ranch Chips\nVegetable: M
- arinara Sauce\, Baked Beans\, Bagged Baby Carrots\nFruit: Peaches Sliced\,
-  Plum\nMilk: 1% White Milk\, Fat Free Chocolate Milk\nCondiments: Ranch Cu
- ps\, Ketchup Packet\, Mustard Packet\, Fry Sauce\nOther: Corn Dog Chicken 
- GF
+DESCRIPTION:Side: Raspberry Yogurt\, Doritos Cool Ranch Chips\, Doritos Nac
+ ho Cheese Chips\nVegetable: Marinara Sauce\, Baked Beans\, Bagged Baby Car
+ rots\nFruit: Peaches Sliced\, Fresh Pears\, Apples Sliced Bags\, Diced Pea
+ ches\nMilk: 1% White Milk\, Fat Free Chocolate Milk\nCondiments: Ranch Cup
+ s\, Ketchup Packet\, Mustard Packet\, Fry Sauce\nOther: Corn Dog Chicken G
+ F
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -202,10 +189,11 @@ DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
 SUMMARY:Cheese Pizza Dippers| Pepperoni Pizza Dippers| Chicken Sandwich Gol
  d Creek| Spicy Chicken Sandwich Gold Creek| Uncrustables Strawberry
-DESCRIPTION:Side: Muffin Strawberry WG IW\nVegetable: Marinara Sauce\, Bake
- d Beans\, Fresh Veggie Bag (Cuc/Tom/Car)\nFruit: Fresh Fruit Assortment\, 
- Canned Fruit\nMilk: 1% White Milk\, Fat Free Chocolate Milk\nCondiments: C
- hicken Sandwich Condiments\, Ranch Cups
+DESCRIPTION:Side: Muffin Choc Chip WG IW\nVegetable: Marinara Sauce\, Baked
+  Beans\, Bagged Baby Carrots\nFruit: Apples Sliced Bags\, Peaches Sliced\n
+ Milk: 1% White Milk\, Fat Free Chocolate Milk\nCondiments: Ranch Cups\, Le
+ ttuce\, Shredded\, Pickle Dill Chips\, Mayo\, Mustard Packet\, Ketchup Pac
+ ket\, Sauce BBQ Cup\nOther: GF Pizza Pocket
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -214,10 +202,11 @@ DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261123
 DTEND;VALUE=DATE:20261124
 SUMMARY:Sweet & Sour Chicken Recipe| Hamburger on a Bun| Grape Uncrustables
-DESCRIPTION:Side: Rice\, Cherry Yogurt\, Chocolate Scooby Grahams\nVegetabl
- e: Side Salad\, Steamed Broccoli\nFruit: Fresh Fruit Assortment\, Canned F
- ruit\nMilk: 1% White Milk\, Fat Free Chocolate Milk\nCondiments: Cheese Ch
- eddar Slice\, Hamburger Condiments\, Ranch Cups
+DESCRIPTION:Side: Rice\, Cherry Yogurt\, Bug Bites Grahams Crackers\nVegeta
+ ble: Side Salad\, Steamed Broccoli\nFruit: Mandarin Oranges\, Apples Slice
+ d Bags\nMilk: 1% White Milk\, Fat Free Chocolate Milk\nCondiments: Cheese 
+ Cheddar Slice\, Ranch Cups\, Pickle Dill Chips\, Lettuce\, Shredded\, Ketc
+ hup Packet\, Mustard Packet\, Fry Sauce\, Mayo\nOther: Bun Hamburger GF
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -354,6 +343,18 @@ DESCRIPTION:Side: Raspberry Yogurt\nVegetable: Fresh Vegetable Bags  (cel/t
  om/car)\, Steamed Peas\, Marinara Sauce\nFruit: Fresh Fruit Assortment\, C
  anned Fruit\nMilk: 1% White Milk\, Fat Free Chocolate Milk\nCondiments: Ra
  nch Cups\nDessert: Scooby Snacks
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20261214-rme-lunch@linq
+DTSTAMP:20261214T000000Z
+DTSTART;VALUE=DATE:20261214
+DTEND;VALUE=DATE:20261215
+SUMMARY:Orange Chicken| Hot Dog on a Bun| Grape Uncrustables
+DESCRIPTION:Side: Rice\, Muffin Choc Chip WG IW\nVegetable: Steamed Broccol
+ i\, Bagged Baby Carrots\nFruit: Fresh Fruit Assortment\, Canned Fruit\nMil
+ k: 1% White Milk\, Fat Free Chocolate Milk\nCondiments: Ketchup Packet\, M
+ ustard Packet\, Ranch Cups
 TRANSP:TRANSPARENT
 END:VEVENT
 END:VCALENDAR
