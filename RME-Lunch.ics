@@ -68,11 +68,11 @@ UID:20261109-rme-lunch@linq
 DTSTAMP:20261109T000000Z
 DTSTART;VALUE=DATE:20261109
 DTEND;VALUE=DATE:20261110
-SUMMARY:Orange Chicken| Hot Dog on a Bun| Grape Uncrustables
+SUMMARY:Orange Chicken| Hot Dog on a Bun| Uncrustables Strawberry
 DESCRIPTION:Side: Rice\, Muffin Choc Chip WG IW\nVegetable: Steamed Broccol
- i\, Side Salad\nFruit: Mandarin Oranges\, Banana\nMilk: 1% White Milk\, Fa
- t Free Chocolate Milk\nCondiments: Ketchup Packet\, Mustard Packet\, Ranch
-  Cups\nOther: Bun Hot Dog GF
+ i\, Side Salad\nFruit: Mandarin Oranges\, Banana\, Peaches Sliced\nMilk: 1
+ % White Milk\, Fat Free Chocolate Milk\nCondiments: Ketchup Packet\, Musta
+ rd Packet\, Ranch Cups\nOther: Bun Hot Dog GF
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -203,10 +203,10 @@ DTSTART;VALUE=DATE:20261123
 DTEND;VALUE=DATE:20261124
 SUMMARY:Sweet & Sour Chicken Recipe| Hamburger on a Bun| Grape Uncrustables
 DESCRIPTION:Side: Rice\, Cherry Yogurt\, Bug Bites Grahams Crackers\nVegeta
- ble: Side Salad\, Steamed Broccoli\nFruit: Mandarin Oranges\, Apples Slice
- d Bags\nMilk: 1% White Milk\, Fat Free Chocolate Milk\nCondiments: Cheese 
- Cheddar Slice\, Ranch Cups\, Pickle Dill Chips\, Lettuce\, Shredded\, Ketc
- hup Packet\, Mustard Packet\, Fry Sauce\, Mayo\nOther: Bun Hamburger GF
+ ble: Steamed Broccoli\, Baked Beans\nFruit: Mandarin Oranges\, Apples Slic
+ ed Bags\nMilk: 1% White Milk\, Fat Free Chocolate Milk\nCondiments: Cheese
+  Cheddar Slice\, Ranch Cups\, Pickle Dill Chips\, Lettuce\, Shredded\, Ket
+ chup Packet\, Mustard Packet\, Fry Sauce\, Mayo\nOther: Bun Hamburger GF
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -216,9 +216,9 @@ DTSTART;VALUE=DATE:20261124
 DTEND;VALUE=DATE:20261125
 SUMMARY:Sloppy Joe on a Bun| Mini Corndogs| Grape Uncrustables
 DESCRIPTION:Side: Muffin Choc Chip WG IW\nVegetable: Corn\, Bagged Baby Car
- rots\nFruit: Fresh Fruit Assortment\, Applesauce Mango peach\nMilk: 1% Whi
- te Milk\, Fat Free Chocolate Milk\nCondiments: Ranch Cups\, Ketchup Packet
- \, Mustard Packet
+ rots\nFruit: Banana\, Applesauce Mango peach\nMilk: 1% White Milk\, Fat Fr
+ ee Chocolate Milk\nCondiments: Ranch Cups\, Ketchup Packet\, Mustard Packe
+ t\, Fry Sauce\nOther: Corn Dog Chicken GF
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -355,6 +355,18 @@ DESCRIPTION:Side: Rice\, Muffin Choc Chip WG IW\nVegetable: Steamed Broccol
  i\, Bagged Baby Carrots\nFruit: Fresh Fruit Assortment\, Canned Fruit\nMil
  k: 1% White Milk\, Fat Free Chocolate Milk\nCondiments: Ketchup Packet\, M
  ustard Packet\, Ranch Cups
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20261215-rme-lunch@linq
+DTSTAMP:20261215T000000Z
+DTSTART;VALUE=DATE:20261215
+DTEND;VALUE=DATE:20261216
+SUMMARY:Nachos (Chips & Cheese)| Chicken Sandwich Gold Creek| Spicy Chicken
+  Sandwich Gold Creek| Grape Uncrustables
+DESCRIPTION:Side: Taco Meat\, Cherry Yogurt\nVegetable: Refried Beans\, Cor
+ n\nFruit: Fresh Fruit Assortment\, Strawberry Applesauce\nMilk: 1% White M
+ ilk\, Fat Free Chocolate Milk\nCondiments: Sour Cream Packets\, Salsa Mild
 TRANSP:TRANSPARENT
 END:VEVENT
 END:VCALENDAR
