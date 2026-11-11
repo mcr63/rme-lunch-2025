@@ -6,20 +6,6 @@ METHOD:PUBLISH
 X-WR-CALNAME:Rocky Mountain Lunch (RME)
 X-WR-TIMEZONE:America/Denver
 BEGIN:VEVENT
-UID:20261103-rme-lunch@linq
-DTSTAMP:20261103T000000Z
-DTSTART;VALUE=DATE:20261103
-DTEND;VALUE=DATE:20261104
-SUMMARY:French Toast Sticks| Hamburger on a Bun| Grape Uncrustables
-DESCRIPTION:Side: Egg Omelet w/ Cheese\, String Cheese\nVegetable: Potato S
- miles\, Bagged Baby Carrots\nFruit: Mandarin Oranges\, Banana\, Clementine
- s\nMilk: 1% White Milk\, Fat Free Chocolate Milk\nCondiments: Cheese Ameri
- can Sliced\, Fry Sauce\, Ketchup Packet\, Syrup\, Lettuce\, Shredded\, Pic
- kle Dill Chips\, Mayo\, Mustard Packet\, Ranch Cups\nOther: Bun Hamburger 
- GF
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:20261104-rme-lunch@linq
 DTSTAMP:20261104T000000Z
 DTSTART;VALUE=DATE:20261104
@@ -81,12 +67,13 @@ DTSTAMP:20261110T000000Z
 DTSTART;VALUE=DATE:20261110
 DTEND;VALUE=DATE:20261111
 SUMMARY:Nachos (Chips & Cheese)| Chicken Sandwich Gold Creek| Spicy Chicken
-  Sandwich Gold Creek| Grape Uncrustables
-DESCRIPTION:Side: Taco Meat\, Cherry Yogurt\nVegetable: Refried Beans\, Cor
- n\nFruit: Strawberry Applesauce\, Oranges\nMilk: 1% White Milk\, Fat Free 
- Chocolate Milk\nCondiments: Sour Cream Packets\, Salsa Mild\, Lettuce\, Sh
- redded\, Pickle Dill Chips\, Mayo\, Mustard Packet\, Ketchup Packet\, Sauc
- e Taco IW Packets
+  Sandwich Gold Creek| Uncrustables Strawberry
+DESCRIPTION:Side: Taco Meat\, Cherry Yogurt\, Muffin Choc Chip WG IW\nVeget
+ able: Refried Beans\, Corn\, Side Salad\nFruit: Strawberry Applesauce\, Or
+ anges\, Apples Sliced Bags\, Mandarin Oranges\nMilk: 1% White Milk\, Fat F
+ ree Chocolate Milk\nCondiments: Sour Cream Packets\, Salsa Mild\, Lettuce\
+ , Shredded\, Pickle Dill Chips\, Mayo\, Mustard Packet\, Ketchup Packet\, 
+ Sauce Taco IW Packets
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -367,6 +354,18 @@ SUMMARY:Nachos (Chips & Cheese)| Chicken Sandwich Gold Creek| Spicy Chicken
 DESCRIPTION:Side: Taco Meat\, Cherry Yogurt\nVegetable: Refried Beans\, Cor
  n\nFruit: Fresh Fruit Assortment\, Strawberry Applesauce\nMilk: 1% White M
  ilk\, Fat Free Chocolate Milk\nCondiments: Sour Cream Packets\, Salsa Mild
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20261216-rme-lunch@linq
+DTSTAMP:20261216T000000Z
+DTSTART;VALUE=DATE:20261216
+DTEND;VALUE=DATE:20261217
+SUMMARY:Mozzarella Breadsticks| Mini Corndogs| Grape Uncrustables
+DESCRIPTION:Side: String Cheese\nVegetable: Potato Wedges\, Marinara Sauce\
+ , Side Salad\nFruit: Fresh Fruit Assortment\, Canned Fruit\nMilk: 1% White
+  Milk\, Fat Free Chocolate Milk\nCondiments: Ranch Cups\, Fry Sauce\, Ketc
+ hup Packet\nDessert: Chocolate Chip Cookies
 TRANSP:TRANSPARENT
 END:VEVENT
 END:VCALENDAR
