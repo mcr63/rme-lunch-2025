@@ -6,21 +6,6 @@ METHOD:PUBLISH
 X-WR-CALNAME:Rocky Mountain Lunch (RME)
 X-WR-TIMEZONE:America/Denver
 BEGIN:VEVENT
-UID:20261104-rme-lunch@linq
-DTSTAMP:20261104T000000Z
-DTSTART;VALUE=DATE:20261104
-DTEND;VALUE=DATE:20261105
-SUMMARY:Mini Calzones| Crispy Chicken Sandwich| Spicy Chicken Sandwich Gold
-  Creek| Grape Uncrustables
-DESCRIPTION:Side: Doritos Cool Ranch Chips\nVegetable: Marinara Sauce\, Col
- orful Carrots\, Fresh Vegetable Bags  (cel/tom/car)\nFruit: Oranges\, Mand
- arin Oranges\, Banana\nMilk: 1% White Milk\, Fat Free Chocolate Milk\nCond
- iments: Lettuce\, Shredded\, Pickle Dill Chips\, Mayo\, Mustard Packet\, K
- etchup Packet\, Sauce BBQ Cup\, Ranch Cups\nFruit Juice: Blue Raspberry Ap
- plesauce\nOther: GF Pizza Pocket
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:20261105-rme-lunch@linq
 DTSTAMP:20261105T000000Z
 DTSTART;VALUE=DATE:20261105
@@ -81,12 +66,14 @@ UID:20261111-rme-lunch@linq
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20261111
 DTEND;VALUE=DATE:20261112
-SUMMARY:Mozzarella Breadsticks| Mini Corndogs| Grape Uncrustables
+SUMMARY:Mozzarella Breadsticks| Mini Corndogs| Grape Uncrustables| Uncrusta
+ bles Strawberry
 DESCRIPTION:Side: String Cheese\nVegetable: Potato Wedges\, Marinara Sauce\
- , Fresh Vegetable Bags  (cel/tom/car)\nFruit: Peaches Sliced\, Grapes\nMil
- k: 1% White Milk\, Fat Free Chocolate Milk\nCondiments: Ranch Cups\, Fry S
- auce\, Ketchup Packet\, Mustard Packet\nDessert: Chocolate Chip Cookies\nO
- ther: Cookie Choc Chip GF\, Corn Dog Chicken GF
+ , Fresh Vegetable Bags  (cel/tom/car)\nFruit: Peaches Sliced\, Grapes\, Di
+ ced Peaches\, Strawberry Applesauce\nMilk: 1% White Milk\, Fat Free Chocol
+ ate Milk\nCondiments: Ranch Cups\, Fry Sauce\, Ketchup Packet\, Mustard Pa
+ cket\nDessert: Chocolate Chip Cookies\nOther: Cookie Choc Chip GF\, Corn D
+ og Chicken GF
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -136,11 +123,11 @@ DTSTART;VALUE=DATE:20261117
 DTEND;VALUE=DATE:20261118
 SUMMARY:Confetti Mini Pancakes| Hamburger on a Bun| Uncrustables Strawberry
 DESCRIPTION:Side: Jimmy Dean Sausage Patty\, Yogurt Straw/Banana\nVegetable
- : Fresh Veggie Bag (Cuc/Tom/Car)\, Broccoli Florets Frozen\nFruit: Oranges
- \, Pineapple Tidbits\nMilk: 1% White Milk\, Fat Free Chocolate Milk\nCondi
- ments: Cheese Cheddar Slice\, Syrup\, Lettuce\, Shredded\, Pickle Dill Chi
- ps\, Ketchup Packet\, Mustard Packet\, Mayo\nDessert: Double Fudge Cookie\
- nOther: Bun Hamburger GF\, Cookie Choc Chip GF
+ : Fresh Veggie Bag (Cuc/Tom/Car)\, Broccoli Florets Frozen\nFruit: Pineapp
+ le Tidbits\, Grapes\nMilk: 1% White Milk\, Fat Free Chocolate Milk\nCondim
+ ents: Cheese Cheddar Slice\, Syrup\, Lettuce\, Shredded\, Pickle Dill Chip
+ s\, Ketchup Packet\, Mustard Packet\, Mayo\nDessert: Double Fudge Cookie\n
+ Other: Bun Hamburger GF\, Cookie Choc Chip GF
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -149,11 +136,11 @@ DTSTAMP:20261118T000000Z
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261119
 SUMMARY:Rib Sandwich| Chicken Snack Wrap| Uncrustables Strawberry
-DESCRIPTION:Side: Harvest Cheddar Sunchips\, String Cheese\nVegetable: Corn
- \, Bagged Baby Carrots\nFruit: Fresh Pears\nMilk: 1% White Milk\, Fat Free
-  Chocolate Milk\nCondiments: Ranch Cups\, Sauce BBQ Cup\, Lettuce\, Shredd
- ed\, Shredded Cheddar Cheese\nFruit Juice: Froot Jooce Cups Strawberry\nOt
- her: Corn Dog Chicken GF
+DESCRIPTION:Side: Harvest Cheddar Sunchips\, Doritos Cool Ranch Chips\, Str
+ ing Cheese\nVegetable: Corn\, Bagged Baby Carrots\nFruit: Grapes\, Oranges
+ \nMilk: 1% White Milk\, Fat Free Chocolate Milk\nCondiments: Ranch Cups\, 
+ Sauce BBQ Cup\, Lettuce\, Shredded\, Shredded Cheddar Cheese\nFruit Juice:
+  Froot Jooce Cups Strawberry\nOther: Corn Dog Chicken GF
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -203,9 +190,9 @@ DTSTART;VALUE=DATE:20261124
 DTEND;VALUE=DATE:20261125
 SUMMARY:Sloppy Joe on a Bun| Mini Corndogs| Grape Uncrustables
 DESCRIPTION:Side: Muffin Choc Chip WG IW\nVegetable: Corn\, Bagged Baby Car
- rots\nFruit: Banana\, Applesauce Mango peach\nMilk: 1% White Milk\, Fat Fr
- ee Chocolate Milk\nCondiments: Ranch Cups\, Ketchup Packet\, Mustard Packe
- t\, Fry Sauce\nOther: Corn Dog Chicken GF
+ rots\nFruit: Applesauce Mango peach\nMilk: 1% White Milk\, Fat Free Chocol
+ ate Milk\nCondiments: Ranch Cups\, Ketchup Packet\, Mustard Packet\, Fry S
+ auce\nFruit Juice: Juice Fruit Punch IW\nOther: Corn Dog Chicken GF
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -214,10 +201,11 @@ DTSTAMP:20261130T000000Z
 DTSTART;VALUE=DATE:20261130
 DTEND;VALUE=DATE:20261201
 SUMMARY:Teriyaki Chicken Recipe| Hamburger on a Bun| Grape Uncrustables
-DESCRIPTION:Side: Rice\, Pot Stickers\nVegetable: Bagged Baby Carrots\, Ste
- amed Broccoli\nFruit: Fresh Fruit Assortment\, Canned Fruit\nMilk: 1% Whit
- e Milk\, Fat Free Chocolate Milk\nCondiments: Hamburger Condiments\, Teriy
- aki Sauce Minh\nDessert: Chocolate Creamie\, Banana Creamie
+DESCRIPTION:Side: Rice\, Pot Stickers\nVegetable: Steamed Broccoli\, Side S
+ alad\nFruit: Banana\, Peaches Sliced\nMilk: 1% White Milk\, Fat Free Choco
+ late Milk\nCondiments: Teriyaki Sauce Minh\, Pickle Dill Chips\, Lettuce\,
+  Shredded\, Mayo\, Ketchup Packet\, Mustard Packet\, Cheese Cheddar Slice\
+ nDessert: Chocolate Creamie\, Banana Creamie\nOther: Bun Hamburger GF
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -366,6 +354,19 @@ DESCRIPTION:Side: String Cheese\nVegetable: Potato Wedges\, Marinara Sauce\
  , Side Salad\nFruit: Fresh Fruit Assortment\, Canned Fruit\nMilk: 1% White
   Milk\, Fat Free Chocolate Milk\nCondiments: Ranch Cups\, Fry Sauce\, Ketc
  hup Packet\nDessert: Chocolate Chip Cookies
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20261217-rme-lunch@linq
+DTSTAMP:20261217T000000Z
+DTSTART;VALUE=DATE:20261217
+DTEND;VALUE=DATE:20261218
+SUMMARY:Chicken Noodle Soup (Elementary)| Hamburger on a Bun| Grape Uncrust
+ ables
+DESCRIPTION:Side: Garlic Breadstick\nVegetable: Green Beans\, Bagged Baby C
+ arrots\nFruit: Fresh Fruit Assortment\, Canned Fruit\nMilk: 1% White Milk\
+ , Fat Free Chocolate Milk\nCondiments: Cheese Cheddar Slice\, Hamburger Co
+ ndiments\, Ranch Cups
 TRANSP:TRANSPARENT
 END:VEVENT
 END:VCALENDAR
