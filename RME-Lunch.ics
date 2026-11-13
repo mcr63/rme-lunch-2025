@@ -6,20 +6,6 @@ METHOD:PUBLISH
 X-WR-CALNAME:Rocky Mountain Lunch (RME)
 X-WR-TIMEZONE:America/Denver
 BEGIN:VEVENT
-UID:20261105-rme-lunch@linq
-DTSTAMP:20261105T000000Z
-DTSTART;VALUE=DATE:20261105
-DTEND;VALUE=DATE:20261106
-SUMMARY:Alpine Chicken Bowl (Elementary)| Ham and Cheese Melt| Uncrustables
-  Strawberry| Grape Uncrustables| Yogurt Parfait
-DESCRIPTION:Side: Homemade Roll\, String Cheese\nVegetable: Corn\, Fresh Ve
- getable Bags  (cel/tom/car)\, Bagged Baby Carrots\nFruit: Apples Sliced Ba
- gs\, Mandarin Oranges\nMilk: 1% White Milk\, Fat Free Chocolate Milk\nCond
- iments: Jelly Packets\, Ranch Cups\, Fry Sauce\nFruit Juice: Berry Juice\n
- Other: Chicken Nuggets GF
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:20261106-rme-lunch@linq
 DTSTAMP:20261106T000000Z
 DTSTART;VALUE=DATE:20261106
@@ -84,10 +70,10 @@ DTEND;VALUE=DATE:20261113
 SUMMARY:Chicken Noodle Soup (Elementary)| Hamburger on a Bun| Grape Uncrust
  ables
 DESCRIPTION:Side: Garlic Breadstick\nVegetable: Green Beans\, Bagged Baby C
- arrots\nFruit: Apples Sliced Bags\, Pineapple Tidbits\nMilk: 1% White Milk
- \, Fat Free Chocolate Milk\nCondiments: Cheese Cheddar Slice\, Ranch Cups\
- , Lettuce\, Shredded\, Pickle Dill Chips\, Mayo\, Mustard Packet\, Ketchup
-  Packet\, Fry Sauce\nOther: Bun Hamburger GF
+ arrots\nFruit: Apples Sliced Bags\, Pineapple Tidbits\, Peaches Sliced\nMi
+ lk: 1% White Milk\, Fat Free Chocolate Milk\nCondiments: Cheese Cheddar Sl
+ ice\, Ranch Cups\, Lettuce\, Shredded\, Pickle Dill Chips\, Mayo\, Mustard
+  Packet\, Ketchup Packet\nOther: Bun Hamburger GF
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -140,7 +126,7 @@ DESCRIPTION:Side: Harvest Cheddar Sunchips\, Doritos Cool Ranch Chips\, Str
  ing Cheese\nVegetable: Corn\, Bagged Baby Carrots\nFruit: Grapes\, Oranges
  \nMilk: 1% White Milk\, Fat Free Chocolate Milk\nCondiments: Ranch Cups\, 
  Sauce BBQ Cup\, Lettuce\, Shredded\, Shredded Cheddar Cheese\nFruit Juice:
-  Froot Jooce Cups Strawberry\nOther: Corn Dog Chicken GF
+  Froot Jooce Cups Strawberry\nOther: GF Ham & Cheese Sandwich
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -192,7 +178,7 @@ SUMMARY:Sloppy Joe on a Bun| Mini Corndogs| Grape Uncrustables
 DESCRIPTION:Side: Muffin Choc Chip WG IW\nVegetable: Corn\, Bagged Baby Car
  rots\nFruit: Applesauce Mango peach\nMilk: 1% White Milk\, Fat Free Chocol
  ate Milk\nCondiments: Ranch Cups\, Ketchup Packet\, Mustard Packet\, Fry S
- auce\nFruit Juice: Juice Fruit Punch IW\nOther: Corn Dog Chicken GF
+ auce\nFruit Juice: Juice Fruit Punch IW\nOther: Chicken Nuggets GF
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -214,11 +200,12 @@ DTSTAMP:20261201T000000Z
 DTSTART;VALUE=DATE:20261201
 DTEND;VALUE=DATE:20261202
 SUMMARY:Macaroni & Cheese  (non-WG)| Chicken Sandwich Gold Creek| Spicy Chi
- cken Sandwich Gold Creek| Grape Uncrustables
-DESCRIPTION:Side: Garlic Breadstick\, Muffin Blueberry WG IW\, Yogurt Straw
- /Banana\nVegetable: Side Salad\, Corn\nFruit: Fresh Fruit Assortment\, Str
- awberry Dessert\nMilk: 1% White Milk\, Fat Free Chocolate Milk\nCondiments
- : Chicken Sandwich Condiments\, Ranch Cups
+ cken Sandwich Gold Creek| Grape Uncrustables| GF Macaroni & Cheese
+DESCRIPTION:Side: Garlic Breadstick\, Muffin Blueberry WG IW\, Cherry Yogur
+ t\nVegetable: Corn\, Fresh Veggie Bag (Cuc/Tom/Car)\nFruit: Strawberry Des
+ sert\, Oranges\nMilk: 1% White Milk\, Fat Free Chocolate Milk\nCondiments:
+  Ranch Cups\, Lettuce\, Shredded\, Pickle Dill Chips\, Mayo\, Mustard Pack
+ et\, Ketchup Packet
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -367,6 +354,19 @@ DESCRIPTION:Side: Garlic Breadstick\nVegetable: Green Beans\, Bagged Baby C
  arrots\nFruit: Fresh Fruit Assortment\, Canned Fruit\nMilk: 1% White Milk\
  , Fat Free Chocolate Milk\nCondiments: Cheese Cheddar Slice\, Hamburger Co
  ndiments\, Ranch Cups
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20261218-rme-lunch@linq
+DTSTAMP:20261218T000000Z
+DTSTART;VALUE=DATE:20261218
+DTEND;VALUE=DATE:20261219
+SUMMARY:Deli Sandwich (Ham & Turkey)| Grape Uncrustables| Turkey Ham & Chee
+ se Anytimers
+DESCRIPTION:Side: String Cheese\, Chex Mix Simply Cheddar\nVegetable: Fresh
+  Vegetable Bags  (cel/tom/car)\, Bagged Baby Carrots\nFruit: Fresh Fruit A
+ ssortment\, Apple Crunchables\nMilk: 1% White Milk\, Fat Free Chocolate Mi
+ lk
 TRANSP:TRANSPARENT
 END:VEVENT
 END:VCALENDAR
