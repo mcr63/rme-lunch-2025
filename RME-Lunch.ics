@@ -6,21 +6,6 @@ METHOD:PUBLISH
 X-WR-CALNAME:Rocky Mountain Lunch (RME)
 X-WR-TIMEZONE:America/Denver
 BEGIN:VEVENT
-UID:20261106-rme-lunch@linq
-DTSTAMP:20261106T000000Z
-DTSTART;VALUE=DATE:20261106
-DTEND;VALUE=DATE:20261107
-SUMMARY:Cheese Pizza Dippers| Pepperoni Pizza Dippers| Mini Corndogs| Uncru
- stables Strawberry
-DESCRIPTION:Side: Raspberry Yogurt\, Doritos Cool Ranch Chips\, Doritos Nac
- ho Cheese Chips\nVegetable: Marinara Sauce\, Baked Beans\, Bagged Baby Car
- rots\nFruit: Peaches Sliced\, Fresh Pears\, Apples Sliced Bags\, Diced Pea
- ches\nMilk: 1% White Milk\, Fat Free Chocolate Milk\nCondiments: Ranch Cup
- s\, Ketchup Packet\, Mustard Packet\, Fry Sauce\nOther: Corn Dog Chicken G
- F
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:20261109-rme-lunch@linq
 DTSTAMP:20261109T000000Z
 DTSTART;VALUE=DATE:20261109
@@ -82,11 +67,13 @@ DTSTAMP:20261113T000000Z
 DTSTART;VALUE=DATE:20261113
 DTEND;VALUE=DATE:20261114
 SUMMARY:Big Daddy's Cheese Pizza| Big Daddy's Pepperoni Pizza| Deli Sandwic
- h (Ham & Turkey)| Grape Uncrustables| Field Trip Anytimer
+ h (Ham & Turkey)| Grape Uncrustables| Field Trip Anytimer| Turkey Ham & Ch
+ eese Anytimers
 DESCRIPTION:Side: String Cheese\, Chex Mix Simply Cheddar\nVegetable: Steam
- ed Peas\, Bagged Baby Carrots\nFruit: Apple Crunchables\, Fresh Pears\nMil
- k: 1% White Milk\, Fat Free Chocolate Milk\, Strawberry Milk Fat Free\nCon
- diments: Ranch Cups\nOther: GF Pizza Pocket
+ ed Peas\, Bagged Baby Carrots\, Fresh Veggie Bag (Cuc/Tom/Car)\nFruit: App
+ le Crunchables\, Fresh Pears\, Pineapple Tidbits\, Apple\, Apples Sliced B
+ ags\nMilk: 1% White Milk\, Fat Free Chocolate Milk\, Strawberry Milk Fat F
+ ree\nCondiments: Ranch Cups\nOther: GF Pizza Pocket
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
