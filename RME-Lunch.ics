@@ -6,18 +6,6 @@ METHOD:PUBLISH
 X-WR-CALNAME:Rocky Mountain Lunch (RME)
 X-WR-TIMEZONE:America/Denver
 BEGIN:VEVENT
-UID:20261109-rme-lunch@linq
-DTSTAMP:20261109T000000Z
-DTSTART;VALUE=DATE:20261109
-DTEND;VALUE=DATE:20261110
-SUMMARY:Orange Chicken| Hot Dog on a Bun| Uncrustables Strawberry
-DESCRIPTION:Side: Rice\, Muffin Choc Chip WG IW\nVegetable: Steamed Broccol
- i\, Side Salad\nFruit: Mandarin Oranges\, Banana\, Peaches Sliced\nMilk: 1
- % White Milk\, Fat Free Chocolate Milk\nCondiments: Ketchup Packet\, Musta
- rd Packet\, Ranch Cups\nOther: Bun Hot Dog GF
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:20261110-rme-lunch@linq
 DTSTAMP:20261110T000000Z
 DTSTART;VALUE=DATE:20261110
@@ -82,11 +70,11 @@ DTSTAMP:20261116T000000Z
 DTSTART;VALUE=DATE:20261116
 DTEND;VALUE=DATE:20261117
 SUMMARY:Chicken Tenders Gold Creek| Chicken Corn Dog| Uncrustables Strawber
- ry
+ ry| Grape Uncrustables| Turkey Ham & Cheese Anytimers
 DESCRIPTION:Side: String Cheese\nVegetable: Potato\, Tater Tot Ore Ida\, Si
- de Salad\nFruit: Banana\, Mandarin Oranges\nMilk: 1% White Milk\, Fat Free
-  Chocolate Milk\nCondiments: Sauce BBQ Cup\, Ranch Cups\, Honey Mustard\, 
- Fry Sauce\nOther: Chicken Nuggets GF
+ de Salad\nFruit: Mandarin Oranges\, Grapes\, Fresh Pears\nMilk: 1% White M
+ ilk\, Fat Free Chocolate Milk\nCondiments: Sauce BBQ Cup\, Ranch Cups\, Ho
+ ney Mustard\, Fry Sauce\nOther: Chicken Nuggets GF
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -97,10 +85,10 @@ DTEND;VALUE=DATE:20261118
 SUMMARY:Confetti Mini Pancakes| Hamburger on a Bun| Uncrustables Strawberry
 DESCRIPTION:Side: Jimmy Dean Sausage Patty\, Yogurt Straw/Banana\nVegetable
  : Fresh Veggie Bag (Cuc/Tom/Car)\, Broccoli Florets Frozen\nFruit: Pineapp
- le Tidbits\, Grapes\nMilk: 1% White Milk\, Fat Free Chocolate Milk\nCondim
- ents: Cheese Cheddar Slice\, Syrup\, Lettuce\, Shredded\, Pickle Dill Chip
- s\, Ketchup Packet\, Mustard Packet\, Mayo\nDessert: Double Fudge Cookie\n
- Other: Bun Hamburger GF\, Cookie Choc Chip GF
+ le Tidbits\, Grapes\, Banana\nMilk: 1% White Milk\, Fat Free Chocolate Mil
+ k\nCondiments: Cheese Cheddar Slice\, Syrup\, Lettuce\, Shredded\, Pickle 
+ Dill Chips\, Ketchup Packet\, Mustard Packet\, Mayo\nDessert: Double Fudge
+  Cookie\nOther: Bun Hamburger GF\, Cookie Choc Chip GF
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -201,9 +189,11 @@ DTSTAMP:20261202T000000Z
 DTSTART;VALUE=DATE:20261202
 DTEND;VALUE=DATE:20261203
 SUMMARY:Chicken Nuggets| Chicken Corn Dog| Grape Uncrustables
-DESCRIPTION:Side: String Cheese\nVegetable: Potato Twister Fries\, Side Sal
- ad\nFruit: Fresh Fruit Assortment\, Canned Fruit\nMilk: 1% White Milk\, Fa
- t Free Chocolate Milk\nCondiments: Fry Sauce\, Ketchup Packet\, Ranch Cups
+DESCRIPTION:Side: String Cheese\nVegetable: Potato Twister Fries\, Fresh Ve
+ ggie Bag (Cuc/Tom/Car)\nFruit: Grapes\, Pineapple Tidbits\nMilk: 1% White 
+ Milk\, Fat Free Chocolate Milk\nCondiments: Fry Sauce\, Ketchup Packet\, R
+ anch Cups\, Mustard Packet\, Honey Mustard\, Sauce BBQ Cup\nOther: Chicken
+  Nuggets GF
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -213,9 +203,11 @@ DTSTART;VALUE=DATE:20261203
 DTEND;VALUE=DATE:20261204
 SUMMARY:Taco Soup| Deli Sandwich (Ham & Turkey)| Grape Uncrustables
 DESCRIPTION:Side: Doritos Cool Ranch Chips\, Baked Scoops Chips\, String Ch
- eese\nVegetable: Fresh Veggie Bag (Cuc/Tom/Car)\, Green Beans\nFruit: Fres
- h Fruit Assortment\, Canned Fruit\nMilk: 1% White Milk\, Fat Free Chocolat
- e Milk\nCondiments: Sour Cream Packets\, Shredded Cheddar Cheese
+ eese\nVegetable: Green Beans\, Bagged Baby Carrots\nFruit: Apples Sliced B
+ ags\, Mandarin Oranges\nMilk: 1% White Milk\, Fat Free Chocolate Milk\nCon
+ diments: Sour Cream Packets\, Shredded Cheddar Cheese\, Lettuce\, Shredded
+ \, Pickle Dill Chips\, Mayo\, Mustard Packet\, Ranch Cups\, Sauce Taco IW 
+ Packets
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -226,9 +218,10 @@ DTEND;VALUE=DATE:20261205
 SUMMARY:Big Daddy's Cheese Pizza| Big Daddy's Pepperoni Pizza| Chicken Snac
  k Wrap| Grape Uncrustables
 DESCRIPTION:Side: String Cheese\, Bug Bites Grahams Crackers\nVegetable: Ba
- gged Baby Carrots\, Baked Beans\nFruit: Fresh Fruit Assortment\, Apple Cru
- nchables\nMilk: 1% White Milk\, Fat Free Chocolate Milk\nCondiments: Ranch
-  Cups\, Sauce BBQ Cup\, Lettuce\, Shredded
+ gged Baby Carrots\, Baked Beans\nFruit: Apple Crunchables\, Pears Sliced\n
+ Milk: 1% White Milk\, Fat Free Chocolate Milk\nCondiments: Ranch Cups\, Sa
+ uce BBQ Cup\, Lettuce\, Shredded\, Sour Cream Packets\nOther: GF Pizza Poc
+ ket
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -238,9 +231,10 @@ DTSTART;VALUE=DATE:20261207
 DTEND;VALUE=DATE:20261208
 SUMMARY:French Toast Sticks| Hamburger on a Bun| Uncrustables Strawberry
 DESCRIPTION:Side: Egg Omelet w/ Cheese\, String Cheese\nVegetable: Potato S
- miles\, Bagged Baby Carrots\nFruit: Fresh Fruit Assortment\, Canned Fruit\
- nMilk: 1% White Milk\, Fat Free Chocolate Milk\nCondiments: Cheese America
- n Sliced\, Fry Sauce\, Ketchup Packet\, Syrup
+ miles\, Bagged Baby Carrots\nFruit: Cinnamon Applesauce\, Banana\nMilk: 1%
+  White Milk\, Fat Free Chocolate Milk\nCondiments: Cheese American Sliced\
+ , Fry Sauce\, Ketchup Packet\, Syrup\, Mustard Packet\, Lettuce\, Shredded
+ \, Pickle Dill Chips\nOther: Bun Hamburger GF
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
