@@ -6,21 +6,6 @@ METHOD:PUBLISH
 X-WR-CALNAME:Rocky Mountain Lunch (RME)
 X-WR-TIMEZONE:America/Denver
 BEGIN:VEVENT
-UID:20261111-rme-lunch@linq
-DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20261111
-DTEND;VALUE=DATE:20261112
-SUMMARY:Mozzarella Breadsticks| Mini Corndogs| Grape Uncrustables| Uncrusta
- bles Strawberry
-DESCRIPTION:Side: String Cheese\nVegetable: Potato Wedges\, Marinara Sauce\
- , Fresh Vegetable Bags  (cel/tom/car)\nFruit: Peaches Sliced\, Grapes\, Di
- ced Peaches\, Strawberry Applesauce\nMilk: 1% White Milk\, Fat Free Chocol
- ate Milk\nCondiments: Ranch Cups\, Fry Sauce\, Ketchup Packet\, Mustard Pa
- cket\nDessert: Chocolate Chip Cookies\nOther: Cookie Choc Chip GF\, Corn D
- og Chicken GF
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:20261112-rme-lunch@linq
 DTSTAMP:20261112T000000Z
 DTSTART;VALUE=DATE:20261112
@@ -84,10 +69,11 @@ DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261119
 SUMMARY:Rib Sandwich| Chicken Snack Wrap| Uncrustables Strawberry
 DESCRIPTION:Side: Harvest Cheddar Sunchips\, Doritos Cool Ranch Chips\, Str
- ing Cheese\nVegetable: Corn\, Bagged Baby Carrots\nFruit: Grapes\, Oranges
- \nMilk: 1% White Milk\, Fat Free Chocolate Milk\nCondiments: Ranch Cups\, 
- Sauce BBQ Cup\, Lettuce\, Shredded\, Shredded Cheddar Cheese\nFruit Juice:
-  Froot Jooce Cups Strawberry\nOther: GF Ham & Cheese Sandwich
+ ing Cheese\nVegetable: Corn\, Bagged Baby Carrots\, Side Salad\nFruit: Ora
+ nges\, Pineapple Tidbits\, Fresh Pears\nMilk: 1% White Milk\, Fat Free Cho
+ colate Milk\nCondiments: Ranch Cups\, Sauce BBQ Cup\, Lettuce\, Shredded\,
+  Shredded Cheddar Cheese\nFruit Juice: Froot Jooce Cups Strawberry\nOther:
+  GF Ham & Cheese Sandwich
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
