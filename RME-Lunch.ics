@@ -6,20 +6,6 @@ METHOD:PUBLISH
 X-WR-CALNAME:Rocky Mountain Lunch (RME)
 X-WR-TIMEZONE:America/Denver
 BEGIN:VEVENT
-UID:20261112-rme-lunch@linq
-DTSTAMP:20261112T000000Z
-DTSTART;VALUE=DATE:20261112
-DTEND;VALUE=DATE:20261113
-SUMMARY:Chicken Noodle Soup (Elementary)| Hamburger on a Bun| Grape Uncrust
- ables
-DESCRIPTION:Side: Garlic Breadstick\nVegetable: Green Beans\, Bagged Baby C
- arrots\nFruit: Apples Sliced Bags\, Pineapple Tidbits\, Peaches Sliced\nMi
- lk: 1% White Milk\, Fat Free Chocolate Milk\nCondiments: Cheese Cheddar Sl
- ice\, Ranch Cups\, Lettuce\, Shredded\, Pickle Dill Chips\, Mayo\, Mustard
-  Packet\, Ketchup Packet\nOther: Bun Hamburger GF
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:20261113-rme-lunch@linq
 DTSTAMP:20261113T000000Z
 DTSTART;VALUE=DATE:20261113
@@ -81,12 +67,14 @@ UID:20261119-rme-lunch@linq
 DTSTAMP:20261119T000000Z
 DTSTART;VALUE=DATE:20261119
 DTEND;VALUE=DATE:20261120
-SUMMARY:Ham and Cheese Melt| Uncrustables Strawberry| Turkey Roast Sliced
+SUMMARY:Ham and Cheese Melt| Uncrustables Strawberry| Turkey Roast Sliced| 
+ Peach Yogurt Parfait
 DESCRIPTION:Side: Homemade Roll\, String Cheese\, Turkey Gravy Mix\nVegetab
- le: Mashed Potatoes\, Fresh Veggie Bag (Cuc/Tom/Car)\, Green Beans\nFruit:
-  Oranges\nMilk: Fat Free Chocolate Milk\, 1% White Milk\nCondiments: Ranch
-  Cups\, Jelly Packets\, Fry Sauce\nDessert: Pumpkin Chocolate Chip Cookie\
- nFruit Juice: Blue Raspberry Applesauce\nOther: Cookie Choc Chip GF
+ le: Mashed Potatoes\, Fresh Veggie Bag (Cuc/Tom/Car)\, Green Beans\, Bagge
+ d Baby Carrots\nFruit: Oranges\nMilk: Fat Free Chocolate Milk\, 1% White M
+ ilk\nCondiments: Ranch Cups\, Jelly Packets\, Fry Sauce\nDessert: Pumpkin 
+ Chocolate Chip Cookie\nFruit Juice: Blue Raspberry Applesauce\nOther: Cook
+ ie Choc Chip GF
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
