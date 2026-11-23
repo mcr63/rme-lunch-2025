@@ -6,21 +6,6 @@ METHOD:PUBLISH
 X-WR-CALNAME:Rocky Mountain Lunch (RME)
 X-WR-TIMEZONE:America/Denver
 BEGIN:VEVENT
-UID:20261113-rme-lunch@linq
-DTSTAMP:20261113T000000Z
-DTSTART;VALUE=DATE:20261113
-DTEND;VALUE=DATE:20261114
-SUMMARY:Big Daddy's Cheese Pizza| Big Daddy's Pepperoni Pizza| Deli Sandwic
- h (Ham & Turkey)| Grape Uncrustables| Field Trip Anytimer| Turkey Ham & Ch
- eese Anytimers
-DESCRIPTION:Side: String Cheese\, Chex Mix Simply Cheddar\nVegetable: Steam
- ed Peas\, Bagged Baby Carrots\, Fresh Veggie Bag (Cuc/Tom/Car)\nFruit: App
- le Crunchables\, Fresh Pears\, Pineapple Tidbits\, Apple\, Apples Sliced B
- ags\nMilk: 1% White Milk\, Fat Free Chocolate Milk\, Strawberry Milk Fat F
- ree\nCondiments: Ranch Cups\nOther: GF Pizza Pocket
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:20261116-rme-lunch@linq
 DTSTAMP:20261116T000000Z
 DTSTART;VALUE=DATE:20261116
@@ -85,10 +70,11 @@ DTEND;VALUE=DATE:20261121
 SUMMARY:Cheese Pizza Dippers| Pepperoni Pizza Dippers| Chicken Sandwich Gol
  d Creek| Spicy Chicken Sandwich Gold Creek| Uncrustables Strawberry
 DESCRIPTION:Side: Muffin Choc Chip WG IW\nVegetable: Marinara Sauce\, Baked
-  Beans\, Bagged Baby Carrots\nFruit: Apples Sliced Bags\, Peaches Sliced\n
- Milk: 1% White Milk\, Fat Free Chocolate Milk\nCondiments: Ranch Cups\, Le
- ttuce\, Shredded\, Pickle Dill Chips\, Mayo\, Mustard Packet\, Ketchup Pac
- ket\, Sauce BBQ Cup\nOther: GF Pizza Pocket
+  Beans\, Bagged Baby Carrots\, Side Salad\nFruit: Apples Sliced Bags\, Pea
+ ches Sliced\, Oranges\, Strawberry Applesauce\nMilk: 1% White Milk\, Fat F
+ ree Chocolate Milk\nCondiments: Ranch Cups\, Pickle Dill Chips\, Mayo\, Mu
+ stard Packet\, Ketchup Packet\nDessert: Pumpkin Chocolate Chip Cookie\nOth
+ er: GF Pizza Pocket
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
