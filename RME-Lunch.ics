@@ -6,20 +6,6 @@ METHOD:PUBLISH
 X-WR-CALNAME:Rocky Mountain Lunch (RME)
 X-WR-TIMEZONE:America/Denver
 BEGIN:VEVENT
-UID:20261118-rme-lunch@linq
-DTSTAMP:20261118T000000Z
-DTSTART;VALUE=DATE:20261118
-DTEND;VALUE=DATE:20261119
-SUMMARY:Rib Sandwich| Chicken Snack Wrap| Uncrustables Strawberry
-DESCRIPTION:Side: Harvest Cheddar Sunchips\, Doritos Cool Ranch Chips\, Str
- ing Cheese\nVegetable: Corn\, Bagged Baby Carrots\, Side Salad\nFruit: Ora
- nges\, Pineapple Tidbits\, Fresh Pears\nMilk: 1% White Milk\, Fat Free Cho
- colate Milk\nCondiments: Ranch Cups\, Sauce BBQ Cup\, Lettuce\, Shredded\,
-  Shredded Cheddar Cheese\nFruit Juice: Froot Jooce Cups Strawberry\nOther:
-  GF Ham & Cheese Sandwich
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:20261119-rme-lunch@linq
 DTSTAMP:20261119T000000Z
 DTSTART;VALUE=DATE:20261119
